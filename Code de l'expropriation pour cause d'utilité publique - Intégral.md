@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1987-06-02
+Version Consolidée au 1987-09-09
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -53,12 +53,9 @@ Version Consolidée au 1987-06-02
         - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#50)
       - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-4)](#51)
         - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-4)](#52)
-    - [Règles générales (art. R13-69)](#53)
-      - [Paiement des indemnités (art. R13-69)](#54)
-        - [Consignation (art. R13-69)](#55)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#56)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#57)
-      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#58)
+    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#53)
+      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#54)
+      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#55)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Règles générales<a id=2></a>
@@ -7464,6 +7461,40 @@ _Codifié par_:
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 
+###### Article R13-69
+
+Lorsque la consignation est motivée par des inscriptions de privilèges, d'hypothèques ou d'un nantissement, qu'il y ait ou
+non des oppositions, l'expropriant peut, sur la demande de l'exproprié, verser à ce dernier, avant toute consignation, un
+acompte dans la limite maximum des trois quarts de la différence entre le montant de l'indemnité et celui des charges et
+accessoires.
+
+Lorsque la consignation est uniquement motivée par une ou plusieurs oppositions à paiement qui ne peuvent être exécutées, le
+montant de la ou des oppositions évalué dans l'exploit est consigné ; le surplus, s'il en existe un, est versé à l'exproprié.
+
+L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés exclusivement par des inscriptions de
+privilèges, d'hypothèques ou de nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers, lorsque son
+montant est inférieur à 50 000 francs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-164 1961-02-13 art. 8 (Décret 62-1352 1962-11-14 art. 7)
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°87-738 du 3 septembre 1987 - art. 1 () JORF 9 septembre 1987
+
+_Cité par_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
+  - Code général des collectivités territoriales - art. Rubrique 5 (V)
+
+
 ###### Article R13-70
 
 Lorsque l'indemnité d'expropriation est allouée à une femme mariée, la production du contrat de mariage ainsi que, le cas
@@ -8176,45 +8207,9 @@ _Abrogé par_:
   - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
-## Règles générales<a id=53></a>
+## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=53></a>
 
-### Paiement des indemnités<a id=54></a>
-
-#### Consignation<a id=55></a>
-
-###### Article R13-69
-
-Lorsque la consignation est motivée par des inscriptions de privilèges, d'hypothèques ou d'un nantissement, qu'il y ait ou
-non des oppositions, l'expropriant peut, sur la demande de l'exproprié, verser à ce dernier, avant toute consignation, un
-acompte dans la limite maximum des trois quarts de la différence entre le montant de l'indemnité et celui des charges et
-accessoires.
-
-Lorsque la consignation est uniquement motivée par une ou plusieurs oppositions à paiement qui ne peuvent être exécutées, le
-montant de la ou des oppositions évalué dans l'exploit est consigné ; le surplus, s'il en existe un, est versé à l'exproprié.
-
-L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés exclusivement par des inscriptions de
-privilèges, d'hypothèques ou de nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers, lorsque son
-montant est inférieur à cinq mille francs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-164 1961-02-13 ART. 8 (Décret 62-1352 1962-11-14 ART. 7)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
-  - Code général des collectivités territoriales - art. Rubrique 5 (V)
-
-
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=56></a>
-
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=57></a>
+### CHAPITRE Ier : Cession des immeubles expropriés.<a id=54></a>
 
 ###### Article R21-1
 
@@ -8262,7 +8257,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R411-1 (V)
 
 
-### CHAPITRE IV : Dispositions particulières.<a id=58></a>
+### CHAPITRE IV : Dispositions particulières.<a id=55></a>
 
 ###### Article R24-1
 
