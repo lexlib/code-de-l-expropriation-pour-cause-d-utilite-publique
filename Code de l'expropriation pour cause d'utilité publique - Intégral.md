@@ -1,11 +1,11 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1993-01-09
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
-      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité. (art. L11-1 à L11-8)](#3)
+      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité. (art. L11-1 à L11-9)](#3)
         - [Section 1 : Déclaration d'utilité publique. (art. L11-2 à L11-7)](#4)
-        - [Section 2 : Arrêté de cessibilité. (art. L11-8)](#5)
+        - [Section 2 : Arrêté de cessibilité. (art. L11-8 à L11-9)](#5)
       - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. L12-1 à L12-6)](#6)
         - [Section 1 : Transfert de propriété. (art. L12-1 à L12-5)](#7)
         - [Section 2 : Droit de rétrocession. (art. L12-6)](#8)
@@ -363,6 +363,21 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+
+
+###### Article L11-9
+
+L'indemnisation des commissaires enquêteurs et des membres des commissions d'enquête est assurée par l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+
+_Créé par_:
+
+  - Loi n°93-24 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
 
 
 ### CHAPITRE II : Transfert de propriété et droit de rétrocession<a id=6></a>
