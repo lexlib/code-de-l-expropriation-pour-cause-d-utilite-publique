@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2001-03-28
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -3231,7 +3231,7 @@ d'infrastructures tels que défini à l'article 3 du même décret.
 
 II.- Lorsque la déclaration d'utilité publique est demandée en vue de l'acquisition d'immeubles, ou lorsqu'elle est demandée
 en vue de la réalisation d'une opération d'aménagement ou d'urbanisme importante et qu'il est nécessaire de procéder à
-l'acquisition des immeubles avant que le projet n'ait pu être établi *dossier simplifié* :
+l'acquisition des immeubles avant que le projet n'ait pu être établi :
 
 1° Une notice explicative ;
 
@@ -3241,14 +3241,7 @@ l'acquisition des immeubles avant que le projet n'ait pu être établi *dossier 
 
 4° L'estimation sommaire des acquisitions à réaliser.
 
-III - Lorsque la déclaration d'utilité publique est demandée pour des opérations ou acquisitions prévues par les plans
-d'occupation des sols ou les documents d'urbanisme en tenant lieu et à l'occasion de l'approbation de ces plans;
-
-1° Une notice explicative ;
-
-2° L'ordre de grandeur des dépenses.
-
-Dans les trois cas visés aux I, II, II, ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour
+Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour
 lesquelles notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à
 l'enquête a été retenu.
 
@@ -3307,7 +3300,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°95-22 du 9 janvier 1995 - art. 7 () JORF 10 janvier 1995
+  - Décret n°2001-260 du 27 mars 2001 - art. 4 () JORF 28 mars 2001
 
 
 ##### Sous-section 1 : Procédure d'enquête préalable de droit commun.<a id=32></a>
