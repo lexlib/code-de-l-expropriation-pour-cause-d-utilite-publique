@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1996-11-15
+Version Consolidée au 1998-07-23
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -3695,27 +3695,19 @@ _Nouveaux textes_:
 
 ###### Article R11-5
 
-Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis par le commissaire de la République *préfet*
-sur une liste nationale établie chaque année par le ministre de l'équipement ou sur une quelconque des liste départementales
-établies annuellement par les commissaires da la République *composition*.
+Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis par le préfet parmi les personnes figurant
+sur l'une quelconque des listes d'aptitude prévues à l'article 2, troisième alinéa, de la loi n° 83-630 du 12 juillet 1983
+modifiée relative à la démocratisation des enquêtes publiques et à la protection de l'environnement.
 
-Les personnes choisies par le commissaire de la République ne doivent pas appartenir à l'administration expropriante ni
-participer à son contrôle et ne doivent avoir aucun intérêt à l'opération *incompatibilité*.
-
-La liste nationale est publiée au Journal officiel, les listes départementales au Recueil des actes administratifs de chacune
-des préfectures intéressées.
-
-Peuvent figurer sur l'une quelconque de ces listes : les anciens magistrats de l'ordre judiciaire ou administratif, les
-anciens auxiliaires de justice, les anciens officiers ministériels, les fonctionnaires et anciens fonctionnaires, les
-ingénieurs, les membres des chambres d'agriculture, des chambres de commerce et d'industrie et des chambres des métiers,
-ainsi que toute personne qualifiée en raison de ses études, ses travaux ou ses activités, notamment en matière d'écologie et
-d'architecture.
+Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur les personnes appartenant à l'administration de
+la collectivité ou de l'organisme expropriant ou participant à son contrôle ou les personnes intéressées à l'opération soit à
+titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-701 1959-06-06 ART. 3 (Décret 76-432 1976-05-14 ART. 3)
+  - Décret n°59-701 1959-06-06 art. 3 (Décret 76-432 1976-05-14 ART. 3)
 
 _Cité par_:
 
@@ -3742,16 +3734,19 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en  vigueur le 1er octobre 1985
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en  vigueur le 1er octobre 1985
+  - Loi n°83-630 du 12 juillet 1983 - art. 2, v. init.
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - SPEC_APPLI: Décret n°98-622 du 20 juillet 1998 - art. 13 (Ab)
+
+_Modifié par_:
+
+  - Décret n°98-622 du 20 juillet 1998 - art. 9 () JORF 23 juillet 1998
 
 
 ###### Article R11-6
@@ -4343,20 +4338,8 @@ _Cité par_:
 
 ###### Article R11-14-4
 
-Le commissaire enquêteur ou les membres des commissions d'enquête peuvent être choisis :
-
-- parmi les personnes ayant acquis, en raison notamment de leurs fonctions, de leurs activités professionnelles ou de leur
-participation à la vie associative, une compétence ou des qualifications particulières soit dans le domaine technique de
-l'opération soumise à enquête, soit en matière d'environnement ;
-
-- parmi les personnes figurant sur la liste nationale ou sur les listes départementales établies en application de l'article
-R. 11-5.
-
-Ne peuvent être désignés les magistrats de l'ordre judiciaire ou de l'ordre administratif en activité, les auxiliaires de
-justice et les officiers ministériels en activité, non plus que les personnes intéressées à l'opération, soit à titre
-personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans, notamment au sein de la
-collectivité, de l'organisme ou du service qui assure la maîtrise d'ouvrage, la maîtrise d'oeuvre ou le contrôle de
-l'opération soumise à enquête ou au sein des associations concernées par cette opération.
+Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur les personnes intéressées à l'opération soit à
+titre personnel, soit en raison des fonctions qu'elles exercent ou ont exercées depuis moins de cinq ans.
 
 L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
 aux articles 10 et 10-1 du décret n° 85-453 du 23 avril 1985.
@@ -4367,20 +4350,20 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+_Cite_:
+
+  - Loi n°83-630 1983-07-12
+  - Décret n°85-453 du 23 avril 1985 - art. 10 (M)
+  - Décret n°85-453 du 23 avril 1985 - art. 10-1 (M)
+
 **Liens**:
 
   - TXT_SOURCE: Loi n°83-630 1983-07-12
-  - SPEC_APPLI: Décret n°94-874 1994-10-10 art. 6
-
-_Cite_:
-
-  - Décret n°85-453 du 23 avril 1985 - art. 10 (M)
-  - Décret n°85-453 du 23 avril 1985 - art. 10-1 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
+  - SPEC_APPLI: Décret n°98-622 du 20 juillet 1998 - art. 13 (Ab)
 
 _Modifié par_:
 
-  - Décret n°94-873 du 10 octobre 1994 - art. 4 () JORF 12 octobre 1994
+  - Décret n°98-622 du 20 juillet 1998 - art. 10 () JORF 23 juillet 1998
 
 _Cité par_:
 
