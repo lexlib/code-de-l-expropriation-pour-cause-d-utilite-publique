@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1987-03-11
+Version Consolidée au 1987-06-02
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -4240,9 +4240,9 @@ _Cité par_:
 
 ###### Article R11-17
 
-La déclaration d'utilité publique prévue à l'article L. 11-3 est prononcée sur avis conforme de la commission restreinte
-unique d'examen des projets d'opérations immobilières intéressant la défense nationale instituée par l'article 2 du décret n°
-70-103 du 3 février 1970.
+La déclaration d'utilité publique prévue à l'article L. 11-3 est prononcée sur avis conforme de la commission d'examen des
+opérations immobilières présentant un caractère secret, poursuivies par les services publics relevant du ministre de la
+défense, ou placés sous sa tutelle, instituée par l'article 1er du décret n° 87-359 du 26 mai 1987.
 
 **Liens relatifs à cet article**
 
@@ -4253,6 +4253,7 @@ _Anciens textes_:
 _Cite_:
 
   - Décret n°70-103 du 3 février 1970 - art. 2, v. init.
+  - Décret n°87-359 du 26 mai 1987 - art. 1 (AbD)
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-3 (V)
 
 _Codifié par_:
@@ -4261,7 +4262,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+  - Décret n°87-359 du 26 mai 1987 - art. 5 () JORF 2 juin 1987
 
 _Cité par_:
 
