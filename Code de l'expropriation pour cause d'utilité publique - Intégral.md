@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1989-06-24
+Version Consolidée au 1989-08-08
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -19,43 +19,42 @@ Version Consolidée au 1989-06-24
       - [CHAPITRE V : Prise de possession (art. L15-1 à L15-9)](#16)
         - [Section 1 : Règles générales. (art. L15-1 à L15-3)](#17)
         - [Section 2 : Procédure d'urgence. (art. L15-4 à L15-5)](#18)
-        - [Section 3 : Procédure d'extrême urgence. (art. L15-6 à L15-8)](#19)
-        - [Section III : Procédure d'extrême urgence. (art. L15-9)](#20)
-      - [CHAPITRE VI : Dispositions diverses et fiscales (art. L16-1 à L16-9)](#21)
-        - [Section 1 : Dispositions diverses. (art. L16-1 à L16-6)](#22)
-        - [Section 2 : Dispositions fiscales. (art. L16-7 à L16-9)](#23)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. L21-1 à L24-1)](#24)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. L21-1 à L21-4)](#25)
-      - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics. (art. L22-1 à L22-4)](#26)
-      - [CHAPITRE III : Atteinte portée aux exploitations agricoles par des ouvrages publics. (art. L23-1)](#27)
-      - [CHAPITRE IV : Dispositions particulières. (art. L24-1)](#28)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R11-1 à R24-1)](#29)
-    - [TITRE Ier : Règles générales (art. R11-1 à R16-4)](#30)
-      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. R11-1 à R11-20)](#31)
-        - [Section 1 : Déclaration d'utilité publique. (art. R11-1 à R11-18)](#32)
-          - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-7 à R11-8)](#33)
-          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement. (art. R11-14-1 à R11-14-15)](#34)
-          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-4 à R11-14-14)](#35)
-          - [Sous-section 3 : Dispositions communes. (art. **R11-16 à R11-18)](#36)
-        - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#37)
-      - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. R12-1 à **R12-11)](#38)
-        - [Section 1 : Transfert de propriété. (art. R12-1 à R12-5)](#39)
-        - [Section 2 : Droit de rétrocession. (art. **R12-6 à **R12-11)](#40)
-      - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à R13-78)](#41)
-        - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à R13-14)](#42)
-        - [Section 2 : Procédure. (art. **R13-16 à R13-42)](#43)
-        - [Section 3 : Fixation des indemnités. (art. **R13-45 à R13-44)](#44)
-        - [Section 4 : Voies de recours. (art. **R13-50 à R13-52)](#45)
-        - [Section 5 : Frais et dépens. (art. **R13-55 à R13-60)](#46)
-        - [Section 6 : Paiement et consignation. (art. **R13-62 à R13-78)](#47)
-      - [CHAPITRE IV : Relogement des expropriés. (art. R14-1 à R14-10)](#48)
-      - [CHAPITRE V : Prise de possession (art. **R15-3 à R15-8)](#49)
-        - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#50)
-      - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-4)](#51)
-        - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-4)](#52)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#53)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#54)
-      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#55)
+        - [Section 3 : Procédure d'extrême urgence. (art. L15-6 à L15-9)](#19)
+      - [CHAPITRE VI : Dispositions diverses et fiscales (art. L16-1 à L16-9)](#20)
+        - [Section 1 : Dispositions diverses. (art. L16-1 à L16-6)](#21)
+        - [Section 2 : Dispositions fiscales. (art. L16-7 à L16-9)](#22)
+    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. L21-1 à L24-1)](#23)
+      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. L21-1 à L21-4)](#24)
+      - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics. (art. L22-1 à L22-4)](#25)
+      - [CHAPITRE III : Atteinte portée aux exploitations agricoles par des ouvrages publics. (art. L23-1)](#26)
+      - [CHAPITRE IV : Dispositions particulières. (art. L24-1)](#27)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R11-1 à R24-1)](#28)
+    - [TITRE Ier : Règles générales (art. R11-1 à R16-4)](#29)
+      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. R11-1 à R11-20)](#30)
+        - [Section 1 : Déclaration d'utilité publique. (art. R11-1 à R11-18)](#31)
+          - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-7 à R11-8)](#32)
+          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement. (art. R11-14-1 à R11-14-15)](#33)
+          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-4 à R11-14-14)](#34)
+          - [Sous-section 3 : Dispositions communes. (art. **R11-16 à R11-18)](#35)
+        - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#36)
+      - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. R12-1 à **R12-11)](#37)
+        - [Section 1 : Transfert de propriété. (art. R12-1 à R12-5)](#38)
+        - [Section 2 : Droit de rétrocession. (art. **R12-6 à **R12-11)](#39)
+      - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à R13-78)](#40)
+        - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à R13-14)](#41)
+        - [Section 2 : Procédure. (art. **R13-16 à R13-42)](#42)
+        - [Section 3 : Fixation des indemnités. (art. **R13-45 à R13-44)](#43)
+        - [Section 4 : Voies de recours. (art. **R13-50 à R13-52)](#44)
+        - [Section 5 : Frais et dépens. (art. **R13-55 à R13-60)](#45)
+        - [Section 6 : Paiement et consignation. (art. **R13-62 à R13-78)](#46)
+      - [CHAPITRE IV : Relogement des expropriés. (art. R14-1 à R14-10)](#47)
+      - [CHAPITRE V : Prise de possession (art. **R15-3 à R15-8)](#48)
+        - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#49)
+      - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-4)](#50)
+        - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-4)](#51)
+    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#52)
+      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#53)
+      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#54)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Règles générales<a id=2></a>
@@ -1150,7 +1149,7 @@ I - Les biens sont estimés à la date de la décision de première instance ; t
 dispositions du II du présent article, sera seul pris en considération l'usage effectif des immeubles et droits réels
 immobiliers un an avant l'ouverture de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an
 avant la déclaration d'utilité publique. Il est tenu compte des servitudes et des restrictions administratives affectant de
-façon permanente l'utilisation ou l'exploitation des biens à la mêmee date, sauf si leur institution révèle, de la part de
+façon permanente l'utilisation ou l'exploitation des biens à la même date, sauf si leur institution révèle, de la part de
 l'expropriant, une intention dolosive.
 
 Quelle que soit la nature des biens, il ne pourra être tenu compte, même lorsqu'ils sont constatés par des actes de vente,
@@ -1165,41 +1164,48 @@ l'immeuble.
 
 II - 1° La qualification de terrains à bâtir, au sens du présent code, est réservée aux terrains qui, un an avant l'ouverture
 de l'enquête prévue à l'article L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an avant la déclaration d'utilité
-publique sont, quelle que soit leur utilisation, tout à la fois:
+publique sont, quelle que soit leur utilisation, tout à la fois :
 
 a) Effectivement desservis par une voie d'accès, un réseau électrique, un réseau d'eau potable et, dans la mesure où les
 règles relatives à l'urbanisme et à la santé publique l'exigent pour construire sur ces terrains, un réseau d'assainissement,
 à condition que ces divers réseaux soient situés à proximité immédiate des terrains en cause et soient de dimensions adaptées
 à la capacité de construction de ces terrains. Lorsqu'il s'agit de terrains situés dans une zone désignée par un plan
 d'occupation des sols rendu public ou approuvé comme devant faire l'objet d'une opération d'aménagement d'ensemble, la
-dimension de ces réseaux est appréciée au regard de l'ensemble de la zone;
+dimension de ces réseaux est appréciée au regard de l'ensemble de la zone ;
 
-b) situés dans un secteur désigné comme constructible par un plan d'occupation des sols rendu public ou approuvé  ou par un
-document d'urbanisme en tenant lieu, ou bien en l'absence d'un tel document, situés soit dans une partie actuellement
-urbanisée d' une commune, siot dans une partie de commune désignée conjointement comme constructible  par le conseil
-municipal et le représentant de l'état dans le département en application de l'article L. 111-1-3 du code de l'urbanisme .
+b) Situés dans un secteur désigné comme constructible par un plan d'occupation des sols rendu public ou approuvé ou par un
+document d'urbanisme en tenant lieu, ou bien, en l'absence d'un tel document, situés soit dans une partie actuellement
+urbanisée d'une commune, soit dans une partie de commune désignée conjointement comme constructible par le conseil municipal
+et le représentant de l'Etat dans le département en application de l'article L. 111-1-3 du code de l'urbanisme.
 
-Les terrains qui, à l'une des dates indiquées ci-dessus , ne répondent pas à ces conditions sont évalués en fonction de leur
+Les terrains qui, à l'une des dates indiquées ci-dessus, ne répondent pas à ces conditions sont évalués en fonction de leur
 seul usage effectif, conformément au paragraphe I du présent article.
 
-2° Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1. ci-
+2° Les possibilités de construction à retenir pour l'évaluation des terrains à bâtir ainsi qualifiés conformément au 1° ci-
 dessus ne peuvent excéder celles qui résultent du plafond légal de densité.
 
 L'évaluation des terrains à bâtir tient compte des possibilités légales et effectives de construction qui existaient à l'une
-ou l'autre des dates de référence prévues au 1. ci-dessus, de la capacité des équipements susvisés, des servitudes affectant
+ou l'autre des dates de référence prévues au 1° ci-dessus, de la capacité des équipements susvisés, des servitudes affectant
 l'utilisation des sols et notamment des servitudes d'utilité publique, y compris les restrictions administratives au droit de
 construire, sauf si leur institution révèle, de la part de l'expropriant, une intention dolosive ;
 
 3° Lorsqu'il s'agit de l'expropriation d'une installation sportive visée par la loi n° 2156 du 26 mai 1941, relative au
-recensement, à la protection et à l'utilisation des locaux et terrains de sport, des bassins de natation et des piscines
+recensement, à la protection et à l'utilisation des locaux et terrains de sports, des bassins de natation et des piscines,
 ainsi qu'il est dit à l'article 4 de ladite loi modifié par l'article 19 de la loi n° 75-988 du 29 octobre 1975 relative au
 développement de l'éducation physique et du sport, "l'indemnité d'expropriation doit être fixée en tenant compte
-exclusivement de la destination sportive de l'immeuble et des installations qu'il comporte".
+exclusivement de la destination sportive de l'immeuble et des installations qu'il comporte."
 
-4° Lorsqu'il s'agit de l'expropriation d'un terrain  réservé par un plan d'occupation des sols au sens du 8° de l'article L.
+4° Lorsqu'il s'agit de l'expropriation d'un terrain réservé par un plan d'occupation des sols au sens du 8° de l'article L.
 123-1 du code de l'urbanisme, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
-emplacement réservé; la date de référence prévue ci-dessus est alors celle de la publication du plan d'occupation des sols,
-de la modification ou de la révision dudit plan instituant l'emplacement réservé.
+emplacement réservé ; la date de référence prévue ci-dessus est alors celle à laquelle est devenu opposable aux tiers le plus
+récent des actes rendant public, approuvant, révisant ou modifiant le plan d'occupation des sols et délimitant la zone dans
+laquelle est situé l'emplacement réservé.
+
+**Nota:**
+
+L'article 4 de la loi du 26 mai 1941 (Loi Borotra) reproduit au 3° du présent article a été abrogé par l'article 51 de la loi
+n° 84-610 du 16 juillet 1984.L'article L. 111-1-3 du code de l'urbanisme a été abrogé par l'article 202 XXXIX de l'ordonnance
+n° 2000-1208 du 13 décembre 2000.
 
 **Liens relatifs à cet article**
 
@@ -1240,16 +1246,24 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Ordonnance 58-997 1958-10-23 ART. 21 II (LOI 75-1328 1975-12-31 ART. 38)
+  - Ordonnance 58-997 1958-10-23 art. 21 II
+
+_Cite_:
+
+  - Loi n°75-988 du 29 octobre 1975 - art. 19, v. init.
+  - Code de l'urbanisme - art. L111-1-3 (M)
+  - Code de l'urbanisme - art. L123-1 (M)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1 (M)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-3 (V)
+  - Loi n°41-2156 1941-05-26 art. 4
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 3 ()
-  - Loi n°85-729 du 18 juillet 1985 - art. 4 ()
+  - Loi n°89-550 du 2 août 1989 - art. 8 () JORF 8 août 1989
 
 
 ###### Article L13-16
@@ -2113,15 +2127,13 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L521-8 (VD)
 
 
-#### Section III : Procédure d'extrême urgence.<a id=20></a>
-
 ###### Article L15-9
 
 Lorsque l'exécution des travaux de construction d'autoroutes, de routes express, de routes nationales ou de sections
-nouvelles de routes nationales et d'oléoducs régulièrement déclarés d'utilité publique risque d'être retardée par des
-difficultés tenant à la prise de possession d'un ou plusieurs terrains non bâtis, situés dans les emprises de l'ouvrage, un
-décret pris sur avis conforme du Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de possession de ces
-terrains.
+nouvelles de routes nationales, de voies de chemins de fer et d'oléoducs régulièrement déclarés d'utilité publique risque
+d'être retardée par des difficultés tenant à la prise de possession d'un ou plusieurs terrains non bâtis, situés dans les
+emprises de l'ouvrage, un décret pris sur avis conforme du Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de
+possession de ces terrains.
 
 Cette prise de possession a lieu dans les conditions fixées à l'article L. 15-7. Le projet motivé qui est soumis au Conseil
 d'Etat par l'administration conformément au premier alinéa de l'article L. 15-7 doit comporter un plan parcellaire fixant les
@@ -2133,13 +2145,13 @@ refus de recevoir, cette condition est remplacée par l'obligation pour l'admini
 
 Faute par l'administration de poursuivre la procédure d'expropriation dans le mois [*délai*] qui suit la prise de possession,
 le juge, saisi par le propriétaire, prononce le transfert de propriété si celui-ci n'a pas encore été ordonné et, en tout
-état de cause, fixe le prix du terrain et, éventuellement, l'indemnité spéciale prévue à l'alinéa 1er de l'article L. 15-8.
+état de cause, fixe le prix du terrain et, éventuellement, l'indemnité spéciale prévue à l'alinéa 1 de l'article L. 15-8.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 _Cité par_:
 
@@ -2157,7 +2169,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-413 du 22 juin 1989 - art. 6 () JORF 24 juin 1989
+  - Loi n°89-550 du 2 août 1989 - art. 9 () JORF 8 aôut 1989
 
 _Cite_:
 
@@ -2165,9 +2177,9 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-8 (V)
 
 
-### CHAPITRE VI : Dispositions diverses et fiscales<a id=21></a>
+### CHAPITRE VI : Dispositions diverses et fiscales<a id=20></a>
 
-#### Section 1 : Dispositions diverses.<a id=22></a>
+#### Section 1 : Dispositions diverses.<a id=21></a>
 
 ###### Article L16-1
 
@@ -2372,7 +2384,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L131-1 (VD)
 
 
-#### Section 2 : Dispositions fiscales.<a id=23></a>
+#### Section 2 : Dispositions fiscales.<a id=22></a>
 
 ###### Article L16-7
 
@@ -2455,9 +2467,9 @@ _Codifié par_:
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=24></a>
+## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=23></a>
 
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=25></a>
+### CHAPITRE Ier : Cession des immeubles expropriés.<a id=24></a>
 
 ###### Article L21-1
 
@@ -2663,7 +2675,7 @@ _Abrogé par_:
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 
-### CHAPITRE II : Agglomérations détruites à la suite de travaux publics.<a id=26></a>
+### CHAPITRE II : Agglomérations détruites à la suite de travaux publics.<a id=25></a>
 
 ###### Article L22-1
 
@@ -2779,7 +2791,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L431-5 (VD)
 
 
-### CHAPITRE III : Atteinte portée aux exploitations agricoles par des ouvrages publics.<a id=27></a>
+### CHAPITRE III : Atteinte portée aux exploitations agricoles par des ouvrages publics.<a id=26></a>
 
 ###### Article L23-1
 
@@ -2837,13 +2849,13 @@ _Créé par_:
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
 
 
-### CHAPITRE IV : Dispositions particulières.<a id=28></a>
+### CHAPITRE IV : Dispositions particulières.<a id=27></a>
 
 ###### Article L24-1
 
 Des dispositions particulières concernant l'expropriation figurent notamment :
 
-- aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
+- aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, L. 313-3, L. 313-4, L. 314-1 à L. 314-9 du code de l'urbanisme ;
 
 - aux articles 6, 9-1, 9-2 et 11 de la loi du 31 décembre 1913 sur les monuments historiques ;
 
@@ -2852,18 +2864,22 @@ artistique, historique, scientifique, légendaire ou pittoresque ;
 
 - à l'article L. 151-2 du code de la voirie routière ;
 
-- aux articles 13 à 26 de la loi n. 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
+- aux articles 13 à 26 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
 
-- à l'article 2 de la loi n. 76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux.
+- à l'article 2 de la loi n° 76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux ;
+
+- à l'article 7 de la loi n° 89-550 du 2 août 1989 portant dispositions diverses en matière d'urbanisme et d'agglomérations
+nouvelles, relatif aux biens en état d'abandon manifeste.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°1913-12-31 ART. 6, 9-1, 9-2 et 11
-  - Loi n°1930-05-02 ART. 13
-  - Loi n°70-612 1970-07-10 ART. 13 à 26
+  - Loi n°1913-12-31 art. 6, art. 9-1, art. 9-2, art. 11
+  - Loi n°1930-05-02 art. 13
+  - Loi n°70-612 1970-07-10 art. 13 à 26
   - Loi n°76-1022 du 10 novembre 1976 - art. 2 (Ab)
+  - Loi n°89-550 du 2 août 1989 - art. 7, v. init.
   - Code de la voirie routière - art. L151-2 (M)
   - Code de l'urbanisme - art. L122-1 (M)
   - Code de l'urbanisme - art. L213-1 (M)
@@ -2871,27 +2887,24 @@ _Cite_:
   - Code de l'urbanisme - art. L221-2 (M)
   - Code de l'urbanisme - art. L313-3 (M)
   - Code de l'urbanisme - art. L313-4 (M)
-  - Code de l'urbanisme L314-1 à L314-9
+  - Code de l'urbanisme L122-1, L213-1, L221-1, L221-2, L313-3, L313-4, L314-1 à L314-9
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 16 () JORF 19 juillet 1985
-  - Loi n°85-729 du 18 juillet 1985 - art. 17 () JORF 19 juillet 1985
-  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985
-  - Loi n°89-413 du 22 juin 1989 - art. 2 (V) JORF 24 juin 1989
+  - Loi n°89-550 1989-08-02 art. 7 V JORF 8 aôut 1989
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=29></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=28></a>
 
-## TITRE Ier : Règles générales<a id=30></a>
+## TITRE Ier : Règles générales<a id=29></a>
 
-### CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité<a id=31></a>
+### CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité<a id=30></a>
 
-#### Section 1 : Déclaration d'utilité publique.<a id=32></a>
+#### Section 1 : Déclaration d'utilité publique.<a id=31></a>
 
 ###### Article R11-1
 
@@ -3097,7 +3110,7 @@ _Modifié par_:
   - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
 
 
-##### Sous-section 1 : Procédure d'enquête préalable de droit commun.<a id=33></a>
+##### Sous-section 1 : Procédure d'enquête préalable de droit commun.<a id=32></a>
 
 ###### Article **R11-7
 
@@ -3616,7 +3629,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
 
 
-##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement.<a id=34></a>
+##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement.<a id=33></a>
 
 ###### Article R11-14-1
 
@@ -4113,7 +4126,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R211-5 (V)
 
 
-##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.<a id=35></a>
+##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.<a id=34></a>
 
 ###### Article R11-14-4
 
@@ -4207,7 +4220,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R211-5 (V)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=36></a>
+##### Sous-section 3 : Dispositions communes.<a id=35></a>
 
 ###### Article **R11-16
 
@@ -4345,7 +4358,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L11-7
 
 
-#### Section 2 : Arrêté de cessibilité.<a id=37></a>
+#### Section 2 : Arrêté de cessibilité.<a id=36></a>
 
 ###### Article **R11-19
 
@@ -4899,9 +4912,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique R11-1 à R11-31
 
 
-### CHAPITRE II : Transfert de propriété et droit de rétrocession<a id=38></a>
+### CHAPITRE II : Transfert de propriété et droit de rétrocession<a id=37></a>
 
-#### Section 1 : Transfert de propriété.<a id=39></a>
+#### Section 1 : Transfert de propriété.<a id=38></a>
 
 ###### Article R12-1
 
@@ -5089,7 +5102,7 @@ _Cité par_:
   - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
 
 
-#### Section 2 : Droit de rétrocession.<a id=40></a>
+#### Section 2 : Droit de rétrocession.<a id=39></a>
 
 ###### Article **R12-6
 
@@ -5299,9 +5312,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R421-8 (V)
 
 
-### CHAPITRE III : Fixation et paiement des indemnités<a id=41></a>
+### CHAPITRE III : Fixation et paiement des indemnités<a id=40></a>
 
-#### Section 1 : Juridiction de l'expropriation.<a id=42></a>
+#### Section 1 : Juridiction de l'expropriation.<a id=41></a>
 
 ###### Article **R13-1
 
@@ -5716,7 +5729,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
 
 
-#### Section 2 : Procédure.<a id=43></a>
+#### Section 2 : Procédure.<a id=42></a>
 
 ###### Article **R13-16
 
@@ -6594,7 +6607,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-49 (M)
 
 
-#### Section 3 : Fixation des indemnités.<a id=44></a>
+#### Section 3 : Fixation des indemnités.<a id=43></a>
 
 ###### Article **R13-45
 
@@ -6734,7 +6747,7 @@ _Cité par_:
   - Code de la santé publique - art. R3335-4 (VD)
 
 
-#### Section 4 : Voies de recours.<a id=45></a>
+#### Section 4 : Voies de recours.<a id=44></a>
 
 ###### Article **R13-50
 
@@ -6913,7 +6926,7 @@ _Codifié par_:
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 
-#### Section 5 : Frais et dépens.<a id=46></a>
+#### Section 5 : Frais et dépens.<a id=45></a>
 
 ###### Article **R13-55
 
@@ -7118,7 +7131,7 @@ _Codifié par_:
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 
-#### Section 6 : Paiement et consignation.<a id=47></a>
+#### Section 6 : Paiement et consignation.<a id=46></a>
 
 ###### Article **R13-62
 
@@ -7634,7 +7647,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-9 (V)
 
 
-### CHAPITRE IV : Relogement des expropriés.<a id=48></a>
+### CHAPITRE IV : Relogement des expropriés.<a id=47></a>
 
 ###### Article R14-1
 
@@ -7916,9 +7929,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R423-9 (V)
 
 
-### CHAPITRE V : Prise de possession<a id=49></a>
+### CHAPITRE V : Prise de possession<a id=48></a>
 
-#### Section 2 : Procédure d'urgence.<a id=50></a>
+#### Section 2 : Procédure d'urgence.<a id=49></a>
 
 ###### Article **R15-3
 
@@ -8138,9 +8151,9 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-28 (M)
 
 
-### CHAPITRE VI : Dispositions diverses et fiscales<a id=51></a>
+### CHAPITRE VI : Dispositions diverses et fiscales<a id=50></a>
 
-#### Section 1 : Dispositions diverses.<a id=52></a>
+#### Section 1 : Dispositions diverses.<a id=51></a>
 
 ###### Article **R16-1
 
@@ -8265,9 +8278,9 @@ _Abrogé par_:
   - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=53></a>
+## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=52></a>
 
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=54></a>
+### CHAPITRE Ier : Cession des immeubles expropriés.<a id=53></a>
 
 ###### Article R21-1
 
@@ -8315,7 +8328,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R411-1 (V)
 
 
-### CHAPITRE IV : Dispositions particulières.<a id=55></a>
+### CHAPITRE IV : Dispositions particulières.<a id=54></a>
 
 ###### Article R24-1
 
