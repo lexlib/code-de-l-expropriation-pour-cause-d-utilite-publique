@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-11-15
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -267,6 +267,37 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L121-4 (VD)
 
 
+###### Article L11-5-1
+
+Lorsque les immeubles expropriés sont soumis à la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des
+immeubles bâtis, la déclaration d'utilité publique peut prévoir que les emprises expropriées seront retirées de la propriété
+initiale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°65-557 du 10 juillet 1965
+
+_Codifié par_:
+
+  - Décret n°77-392 du 28 mars 1977
+
+_Créé par_:
+
+  - Loi n°96-987 du 14 novembre 1996 - art. 34 () JORF 15 novembre 1996
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L11-8 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L12-2-1 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L13-7-1 (VT)
+
+
 ###### Article L11-6
 
 Lorsque les travaux ou les opérations à réaliser intéressent plusieurs collectivités, l'acte déclarant l'utilité publique
@@ -347,11 +378,14 @@ _Cite_:
 Le préfet détermine par arrêté de cessibilité la liste des parcelles ou des droits réels immobiliers à exproprier si cette
 liste ne résulte pas de la déclaration d'utilité publique.
 
+Lorsque la déclaration d'utilité publique prévoit, conformément à l'article L. 11-5-1, le retrait des emprises expropriées de
+la propriété initiale, l'arrêté de cessibilité précise l'emplacement de la ligne divisoire.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 58-997 1958-10-23 ART. 4
+  - Ordonnance 58-997 1958-10-23 art. 4
 
 _Cité par_:
 
@@ -362,7 +396,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Loi n°96-987 du 14 novembre 1996 - art. 34 () JORF 15 novembre 1996
+
+_Cite_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-5-1 (V)
 
 
 ###### Article L11-9
@@ -468,6 +510,35 @@ _Cite_:
   - Code de l'urbanisme - art. L123-9
   - Code de l'urbanisme - art. L213-5
   - Code de l'expropriation pour cause d'utilité publique - art. L13-1
+
+
+###### Article L12-2-1
+
+Lorsque la déclaration d'utilité publique a prévu le retrait de la propriété initiale des emprises expropriées, conformément
+à l'article L. 11-5-1, le juge de l'expropriation constate, dans l'ordonnance portant transfert de propriété, l'existence de
+cette décision de retrait.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-392 du 28 mars 1977
+
+_Créé par_:
+
+  - Loi n°96-987 du 14 novembre 1996 - art. 34 () JORF 15 novembre 1996
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-4 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L11-5-1
 
 
 ###### Article L12-3
@@ -888,6 +959,36 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. L321-2 (VD)
+
+
+###### Article L13-7-1
+
+Lorsqu'il est fait application des dispositions de l'article L. 11-5-1 et du deuxième alinéa de l'article L. 11-8, le juge de
+l'expropriation fixe, dans son jugement, à la demande de tout intéressé, outre les indemnités principales et accessoires, les
+indemnités relatives aux conséquences préjudiciables du retrait.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-392 du 28 mars 1977
+
+_Créé par_:
+
+  - Loi n°96-987 du 14 novembre 1996 - art. 34 () JORF 15 novembre 1996
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L11-5-1 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L11-8 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L321-4 (VD)
 
 
 ###### Article L13-8
@@ -2525,29 +2626,29 @@ Peuvent être cédés de gré à gré ou concédés temporairement à des person
 condition que ces personnes les utilisent aux fins prescrites par le cahier des charges annexé à l'acte de cession ou de
 concession temporaire :
 
-1. Les immeubles expropriés en vue de la construction d'ensembles immobiliers à usage d'habitation avec leurs installations
+1° Les immeubles expropriés en vue de la construction d'ensembles immobiliers à usage d'habitation avec leurs installations
 annexes ou en vue de la création de lotissements destinés à l'habitation ou à l'industrie ;
 
-2. Les immeubles expropriés en vue :
+2° Les immeubles expropriés en vue :
 
 - de l'aménagement progressif et suivant des plans d'ensemble des zones affectées à l'habitation ou à des activités par des
 projets d'aménagement, des plans d'urbanisme approuvés ou par des plans d'occupation des sols rendus publics ou approuvés ;
 
 - d'opérations dans les zones d'aménagement concerté prévues à l'article L. 311-1 du code de l'urbanisme ;
 
-- d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies par les articles 25 et 26 de la loi n.
-70-612 du 10 juillet 1970.
+- d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies par les articles 25 et 26 de la loi n°
+70-612 du 10 juillet 1970 ;
 
-3. Les immeubles expropriés en vue de l'épuration des eaux provenant d'un établissement industriel, commercial, artisanal ou
+3° Les immeubles expropriés en vue de l'épuration des eaux provenant d'un établissement industriel, commercial, artisanal ou
 agricole et, d'une façon générale, les immeubles expropriés en vue d'éviter la pollution des eaux par des déversements,
 écoulements, jets, dépôts directs ou indirects de matières de cet établissement, lorsque ce résultat ne peut être obtenu que
 par des travaux s'étendant en dehors de l'établissement ;
 
-4. Les immeubles expropriés compris dans le plan d'aménagement touristique ou sportif des abords d'un plan d'eau créé ou
+4° Les immeubles expropriés compris dans le plan d'aménagement touristique ou sportif des abords d'un plan d'eau créé ou
 aménagé par l'Etat, les départements, les communes, les associations foncières ou les groupements de ces collectivités ainsi
 que leurs concessionnaires ;
 
-5. Dans les périmètres de protection et de reconstitution forestières créés en application de l'article L. 321-6 du code
+5° Dans les périmètres de protection et de reconstitution forestières créés en application de l'article L. 321-6 du code
 forestier et dans les périmètres de restauration des terrains en montagne créés en application de l'article L. 424-1 du code
 forestier, les immeubles expropriés en application de ces dispositions. Les catégories de personnes auxquelles ces immeubles
 pourront être cédés de gré à gré sont fixées par règlement d'administration publique. Pour ces cessions de gré à gré, une
@@ -2557,13 +2658,18 @@ collectivités locales.
 Les propriétaires ayant cédés leur terrain à l'amiable et leurs descendants bénéficient de la même priorité que les
 propriétaires expropriés ;
 
-6. Les immeubles expropriés pour la constitution de réserves foncières lorsque la cession ou la concession temporaire de ces
+6° Les immeubles expropriés pour la constitution de réserves foncières lorsque la cession ou la concession temporaire de ces
 immeubles est faite en vue de la réalisation d'opérations pour lesquelles la réserve a été constituée conformément aux
-dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'article 13 (2ème alinéa) de la loi n. 70-612 du
-10 juillet 1970.
+dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'article 13 (2ème alinéa) de la loi n° 70-612 du
+10 juillet 1970 ;
 
-" 7°. - Les immeubles expropriés en vue de l'aménagement et de l'exploitation d'installations d'élimination ou de traitement
-des déchets. "
+7° Les immeubles expropriés en vue de l'aménagement et de l'exploitation d'installations d'élimination ou de traitement des
+déchets ;
+
+8° Les immeubles expropriés par l'établissement public créé par l'article L. 325-1 du code de l'urbanisme en vue de la
+création, l'extension, la transformation ou la reconversion des espaces commerciaux et artisanaux dans les zones urbaines
+sensibles définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire.
 
 **Liens relatifs à cet article**
 
@@ -2601,26 +2707,28 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Ordonnance 58-997 1958-10-23 ART. 41 (LOI 75-1328 1975-12-31 ART. 41)
+  - Ordonnance 58-997 1958-10-23 art. 41 (Loi 75-1328 1975-12-31 art. 41)
 
 _Cite_:
 
   - Loi n°70-612 1970-07-10 art. 25, art. 26, art. 13
   - Loi n°70-612 du 10 juillet 1970 - art. 25 (T)
   - Loi n°70-612 du 10 juillet 1970 - art. 26 (T)
+  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Code forestier - art. L321-6 (M)
   - Code forestier - art. L424-1 (M)
   - Code de l'urbanisme - art. L221-1 (M)
   - Code de l'urbanisme - art. L221-2 (M)
   - Code de l'urbanisme - art. L311-1 (M)
+  - Code de l'urbanisme - art. L325-1 (M)
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
 _Modifié par_:
 
-  - Loi n°92-646 du 13 juillet 1992 - art. 5 () JORF 14 juillet 1992
+  - Loi n°96-987 du 14 novembre 1996 - art. 26 () JORF 15 novembre 1996
 
 
 ###### Article L21-2
