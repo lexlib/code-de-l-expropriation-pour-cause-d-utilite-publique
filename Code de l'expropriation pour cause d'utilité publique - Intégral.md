@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1978-01-24
+Version Consolidée au 1980-08-06
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -6222,6 +6222,35 @@ _Abrogé par_:
 _Cite_:
 
   - Code de l'expropriation pour cause d'utilité publique
+
+
+###### Article R16-3
+
+En ce qui concerne les aménagements hydroélectriques soumis au régime de la concession par application de la loi du 16
+octobre 1919, un décret en Conseil d'Etat précise les conditions d'instruction de la demande de concession pour les mettre en
+harmonie avec les dispositions du chapitre Ier du présent titre (partie réglementaire).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-701 du 6 juin 1959 - art. 29 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+
+_Cite_:
+
+  - Loi n°1919-10-16
 
 
 ###### Article R16-4
