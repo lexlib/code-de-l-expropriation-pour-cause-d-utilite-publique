@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2001-03-28
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -7522,6 +7522,57 @@ _Abrogé par_:
   - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 
+###### Article **R13-69
+
+Lorsque la consignation est motivée par des inscriptions de privilèges, d'hypothèques ou d'un nantissement, qu'il y ait ou
+non des oppositions, l'expropriant peut, sur la demande de l'exproprié, verser à ce dernier, avant toute consignation, un
+acompte dans la limite maximum des trois quarts de la différence entre le montant de l'indemnité et celui des charges et
+accessoires.
+
+Lorsque la consignation est uniquement motivée par une ou plusieurs oppositions à paiement qui ne peuvent être exécutées, le
+montant de la ou des oppositions évalué dans l'exploit est consigné ; le surplus, s'il en existe un, est versé à l'exproprié.
+
+L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés exclusivement par des inscriptions de
+privilèges, d'hypothèques ou de nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers, lorsque son
+montant est inférieur à 7 600 euros.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+_Anciens textes_:
+
+  - Décret n°61-164 1961-02-13 art. 8 (Décret 62-1352 1962-11-14 art. 7)
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
+  - Code général des collectivités territoriales - art. Rubrique 5 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R323-12 (V)
+
+
 ###### Article **R13-71
 
 Lorsque le remploi de l'indemnité doit être effectué en immeuble, l'expropriant ou la caisse des dépôts et consignations si
@@ -7743,51 +7794,25 @@ _Codifié par_:
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
 
-###### Article R13-69
-
-Lorsque la consignation est motivée par des inscriptions de privilèges, d'hypothèques ou d'un nantissement, qu'il y ait ou
-non des oppositions, l'expropriant peut, sur la demande de l'exproprié, verser à ce dernier, avant toute consignation, un
-acompte dans la limite maximum des trois quarts de la différence entre le montant de l'indemnité et celui des charges et
-accessoires.
-
-Lorsque la consignation est uniquement motivée par une ou plusieurs oppositions à paiement qui ne peuvent être exécutées, le
-montant de la ou des oppositions évalué dans l'exploit est consigné ; le surplus, s'il en existe un, est versé à l'exproprié.
-
-L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés exclusivement par des inscriptions de
-privilèges, d'hypothèques ou de nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers, lorsque son
-montant est inférieur à 50 000 francs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-164 1961-02-13 art. 8 (Décret 62-1352 1962-11-14 art. 7)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Modifié par_:
-
-  - Décret n°87-738 du 3 septembre 1987 - art. 1 () JORF 9 septembre 1987
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-65 (VT)
-  - Code général des collectivités territoriales - art. Rubrique 5 (V)
-
-
 ###### Article R13-70
 
 Lorsque l'indemnité d'expropriation est allouée à une femme mariée, la production du contrat de mariage ainsi que, le cas
-échéant, la justification du remploi de l'indemnité ne sont exigées que si le montant de l'indemnité est supérieur à dix
-mille francs.
+échéant, la justification du remploi de l'indemnité ne sont exigées que si le montant de l'indemnité est supérieur à 1 500
+euros.
 
 Si le mariage n'a été précédé d'aucun contrat, il est justifié de cette circonstance par un extrait certifié conforme du
 livret de famille ou par une attestation de la mairie où le mariage a été célébré ou par une fiche d'état civil établie en
 application du décret n° 53-914 du 26 septembre 1953.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
@@ -7800,6 +7825,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
 ###### Article R13-73
