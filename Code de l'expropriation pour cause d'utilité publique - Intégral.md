@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1977-04-14
+Version Consolidée au 1978-01-24
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -52,12 +52,11 @@ Version Consolidée au 1977-04-14
     - [Règles générales (art. R11-3 à R13-69)](#49)
       - [Déclaration d'utilité publique (art. R11-3 à R11-13)](#50)
       - [Arrêté de cessibilité (art. R11-20)](#51)
-      - [Frais et dépens (art. R13-54)](#52)
-      - [Paiement des indemnités (art. R13-69)](#53)
-        - [Consignation (art. R13-69)](#54)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#55)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#56)
-      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#57)
+      - [Paiement des indemnités (art. R13-69)](#52)
+        - [Consignation (art. R13-69)](#53)
+    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#54)
+      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#55)
+      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#56)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Règles générales<a id=2></a>
@@ -6545,40 +6544,9 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
 
 
-### Frais et dépens<a id=52></a>
+### Paiement des indemnités<a id=52></a>
 
-###### Article R13-54
-
-Il est perçu par les greffiers en chef, pour les actes accomplis par eux en qualité de secrétaires des juridictions
-d'expropriation pour cause d'utilité publique, des redevances fixées par le tarif des greffes des juridictions civiles. Il
-est alloué aux greffiers titulaires de charges des émoluments égaux à ces redevances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-267 1960-03-28 ART. 1
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-_Créé par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977 rectificatif JORF 29 JUIN 1977
-
-_Abrogé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R12-5 (M)
-
-
-### Paiement des indemnités<a id=53></a>
-
-#### Consignation<a id=54></a>
+#### Consignation<a id=53></a>
 
 ###### Article R13-69
 
@@ -6610,9 +6578,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. Rubrique 5 (V)
 
 
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=55></a>
+## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=54></a>
 
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=56></a>
+### CHAPITRE Ier : Cession des immeubles expropriés.<a id=55></a>
 
 ###### Article R21-1
 
@@ -6660,7 +6628,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R411-1 (V)
 
 
-### CHAPITRE IV : Dispositions particulières.<a id=57></a>
+### CHAPITRE IV : Dispositions particulières.<a id=56></a>
 
 ###### Article R24-1
 
