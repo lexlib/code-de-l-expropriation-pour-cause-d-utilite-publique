@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 1987-09-09
+Version Consolidée au 1988-03-02
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -29,10 +29,10 @@ Version Consolidée au 1987-09-09
       - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics. (art. L22-1 à L22-4)](#26)
       - [CHAPITRE III : Atteinte portée aux exploitations agricoles par des ouvrages publics. (art. L23-1)](#27)
       - [CHAPITRE IV : Dispositions particulières. (art. L24-1)](#28)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R11-2 à R24-1)](#29)
-    - [TITRE Ier : Règles générales (art. R11-2 à R16-4)](#30)
-      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. R11-2 à R11-20)](#31)
-        - [Section 1 : Déclaration d'utilité publique. (art. R11-2 à R11-18)](#32)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R11-1 à R24-1)](#29)
+    - [TITRE Ier : Règles générales (art. R11-1 à R16-4)](#30)
+      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. R11-1 à R11-20)](#31)
+        - [Section 1 : Déclaration d'utilité publique. (art. R11-1 à R11-18)](#32)
           - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-7 à R11-8)](#33)
           - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement. (art. R11-14-1 à R11-14-15)](#34)
           - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-4 à R11-14-14)](#35)
@@ -2895,6 +2895,63 @@ _Modifié par_:
 ### CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité<a id=31></a>
 
 #### Section 1 : Déclaration d'utilité publique.<a id=32></a>
+
+###### Article R11-1
+
+Lorsque les conclusions du commissaire ou de la commission chargé d l'enquête sont favorables, l'utilité publique peut, dans
+les cas autres que ceux énumérés à l'article R. 11-2, être déclarée :
+
+1° Par arrêté du ou des ministres intéressés :
+
+a) Pour les opérations poursuivies en vue de l'installation des administrations centrales ;
+
+b) Pour les opérations qui ont fait l'objet d'un avis de la commission nationale des opérations immobilières et de
+l'architecture ;
+
+c) Pour les opérations concernant des immeubles situés sur le territoire de plus de deux départements ;
+
+d) Dans les cas visés au 2° ci-après, à défaut d'accord entre les préfets ;
+
+2° Par arrêté conjoint des préfets intéressés, dans les cas autres que ceux visés au 1° ci-dessus, lorsque les opérations
+concernent des immeubles situés sur le territoire de deux départements ;
+
+3° Par arrêté du préfet du lieu des immeubles concernés par l'opération dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-195 1972-02-29 art. 1
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
+  - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
+
+_Cité par_:
+
+  - Décret n°2009-382 du 6 avril 2009 - art. 3 (M)
+  - Code forestier (nouveau) - art. R133-12 (V)
+  - Code forestier (nouveau) - art. R134-2 (VD)
+  - Code forestier (nouveau) - art. R142-22 (V)
+  - Code forestier (nouveau) - art. R142-4 (VD)
+  - Code de l'environnement - art. R555-35 (V)
+  - Code de la voirie routière - art. R*171-6 (M)
+
+_Cite_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-2 (M)
+
 
 ###### Article R11-2
 
