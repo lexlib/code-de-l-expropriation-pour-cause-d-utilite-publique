@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-11-04
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -32,7 +32,7 @@ Version Consolidée au 2004-02-24
     - [TITRE Ier : Règles générales (art. **R11-1 à R16-4)](#29)
       - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. **R11-1 à R11-20)](#30)
         - [Section 1 : Déclaration d'utilité publique. (art. **R11-1 à R11-18)](#31)
-          - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-4 à R11-8)](#32)
+          - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-4 à R11-6-1)](#32)
           - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-1 à R11-14-15)](#33)
           - [Sous-section 3 : Dispositions communes. (art. **R11-16 à R11-18)](#34)
         - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#35)
@@ -3667,6 +3667,47 @@ _Cité par_:
   - Code de l'aviation civile - art. R242-1 (M)
 
 
+###### Article **R11-8
+
+Pendant le délai fixé à l'article **R. 11-4, les observations sur l'utilité publique de l'opération peuvent être consignées
+par les intéressés directement sur les registres d'enquête. Elles peuvent également être adressées par écrit, au lieu fixé
+par le préfet pour l'ouverture de l'enquête, au commissaire enquêteur ou au président de la commission d'enquête, lequel les
+annexe au registre mentionné à l'article précité.
+
+Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les chambres de commerce et
+d'industrie et les chambres de métiers et de l'artisanat.
+
+Indépendamment des dispositions qui précèdent, les observations faites sur l'utilité publique de l'opération sont également
+reçues par le commissaire enquêteur ou par un des membres de la commission d'enquête aux lieu, jour et heure annoncés à
+l'avance, lorsque l'arrêté prévu à l'article **R. 11-4 en a ainsi disposé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-701 1959-06-06 art. 6 (Décret 76-432 1976-05-14 ART. 4 I)
+
+_Cité par_:
+
+  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
+  - Code de l'aviation civile - art. R242-1 (M)
+  - Code de l'urbanisme - art. R*318-10 (M)
+  - Code de l'urbanisme - art. R*318-11 (M)
+  - Code de l'urbanisme - art. R*318-6 (V)
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+
+_Modifié par_:
+
+  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+
+_Cite_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+
+
 ###### Article **R11-9
 
 A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et signés, selon le ou les lieux du dépôt, par le
@@ -3943,52 +3984,6 @@ _Cité par_:
 _Créé par_:
 
   - Décret n°2002-1341 du 5 novembre 2002 - art. 7 () JORF 13 novembre 2002
-
-
-###### Article R11-8
-
-Pendant le délai fixé à l'article R. 11-4, les observations sur l'utilité publique de l'opération peuvent être consignées par
-les intéressés directement sur les registres d'enquête. Elles peuvent également être adressées par écrit, au lieu fixé par le
-préfet pour l'ouverture de l'enquête, au commissaire enquêteur ou au président de la commission d'enquête, lequel les annexe
-au registre mentionné à l'article précité.
-
-Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les chambres de commerce et
-d'industrie et les chambres de métiers.
-
-Indépendamment des dispositions qui précèdent, les observations faites sur l'utilité publique de l'opération sont également
-reçues par le commissaire enquêteur ou par un des membres de la commission d'enquête aux lieu, jour et heure annoncés à
-l'avance, lorsque l'arrêté prévu à l'article R. 11-4 en a ainsi disposé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-701 1959-06-06 art. 6 (Décret 76-432 1976-05-14 ART. 4 I)
-
-_Cité par_:
-
-  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
-  - Code de l'aviation civile - art. R242-1 (M)
-  - Code de l'urbanisme - art. R*318-10 (M)
-  - Code de l'urbanisme - art. R*318-11 (M)
-  - Code de l'urbanisme - art. R*318-6 (V)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-_Modifié par_:
-
-  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
 
 
 ##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.<a id=33></a>
