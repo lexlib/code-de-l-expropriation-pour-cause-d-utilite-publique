@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2004-02-11
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -28,10 +28,10 @@ Version Consolidée au 2003-08-02
       - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics. (art. L22-1 à L22-4)](#25)
       - [CHAPITRE III : Atteintes portées aux exploitations agricoles et à l'environnement ou au patrimoine culturel par des ouvrages publics. (art. L23-1 à L23-2)](#26)
       - [CHAPITRE IV : Dispositions particulières. (art. L24-1)](#27)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R11-1 à R24-1)](#28)
-    - [TITRE Ier : Règles générales (art. R11-1 à R16-4)](#29)
-      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. R11-1 à R11-20)](#30)
-        - [Section 1 : Déclaration d'utilité publique. (art. R11-1 à R11-18)](#31)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. **R11-1 à R24-1)](#28)
+    - [TITRE Ier : Règles générales (art. **R11-1 à R16-4)](#29)
+      - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. **R11-1 à R11-20)](#30)
+        - [Section 1 : Déclaration d'utilité publique. (art. **R11-1 à R11-18)](#31)
           - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-4 à R11-8)](#32)
           - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-1 à R11-14-15)](#33)
           - [Sous-section 3 : Dispositions communes. (art. **R11-16 à R11-18)](#34)
@@ -3198,26 +3198,18 @@ _Modifié par_:
 
 #### Section 1 : Déclaration d'utilité publique.<a id=31></a>
 
-###### Article R11-1
+###### Article **R11-1
 
-Lorsque les conclusions du commissaire ou de la commission chargé d l'enquête sont favorables, l'utilité publique peut, dans
-les cas autres que ceux énumérés à l'article R. 11-2, être déclarée :
+L'utilité publique, dans les cas autres que ceux énumérés à l'article **R. 11-2, est déclarée :
 
-1° Par arrêté du ou des ministres intéressés :
+1° Par arrêté du préfet du lieu des immeubles faisant l'objet de l'opération lorsque l'opération se situe sur le territoire
+d'un seul département ;
 
-a) Pour les opérations poursuivies en vue de l'installation des administrations centrales ;
+2° Par arrêté conjoint des préfets intéressés, lorsque l'opération concerne des immeubles situés sur le territoire de
+plusieurs départements.
 
-b) Pour les opérations qui ont fait l'objet d'un avis de la commission nationale des opérations immobilières et de
-l'architecture ;
-
-c) Pour les opérations concernant des immeubles situés sur le territoire de plus de deux départements ;
-
-d) Dans les cas visés au 2° ci-après, à défaut d'accord entre les préfets ;
-
-2° Par arrêté conjoint des préfets intéressés, dans les cas autres que ceux visés au 1° ci-dessus, lorsque les opérations
-concernent des immeubles situés sur le territoire de deux départements ;
-
-3° Par arrêté du préfet du lieu des immeubles concernés par l'opération dans les autres cas.
+Elle est prononcée par arrêté du ministre responsable du projet, pour les opérations poursuivies en vue de l'installation des
+administrations centrales, des services centraux de l'Etat et des services à compétence nationale.
 
 **Liens relatifs à cet article**
 
@@ -3231,12 +3223,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2004-127 du 9 février 2004 - art. 1 () JORF 11 février 2004
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
   - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
   - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
 
@@ -3255,23 +3245,29 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-2 (M)
 
 
-###### Article R11-2
+###### Article **R11-2
 
-Ne peuvent être déclarés d'utilité publique que par décret en Conseil d'Etat, même si les conclusions du commissaire
-enquêteur ou de la commission d'enquête sont favorables :
+Sont déclarés d'utilité publique par décret en Conseil d'Etat :
 
-1° Les travaux de création d'autoroutes, à l'exclusion, sur autoroutes existantes, des travaux de réalisation d'ouvrages
-annexes, d'élargissement et de raccordement à d'autres voies publiques ;
+1° Les travaux de création d'autoroutes et de routes express, à l'exclusion, sur les autoroutes et les routes express
+existantes, des travaux de réalisation d'ouvrages annexes, d'élargissement et de raccordement à d'autres voies publiques ;
 
-2° Les travaux de création ou d'établissement d'aérodromes de catégorie A, de canaux de navigation d'une longueur supérieure
-à 5 km, accessibles aux bateaux de plus de 1 500 tonnes de port en lourd, de lignes du réseau ferré général, de lignes de
-transport public par véhicules guidés sur coussins d'air (aérotrains), de canalisations d'intérêt général destinées au
-transport de gaz combustibles ou d'hydrocarbures, de centrales électriques d'une puissance égale ou supérieure à 100
-mégawatts, d'usines utilisant l'énergie des mers ainsi que d'aménagements hydroélectriques d'une puissance maximale brute
-égale ou supérieure à 100 mégawatts et d'installations liées à la production et au développement de l'énergie atomique ;
+2° Les travaux de création d'aérodromes de catégorie A ;
 
-3° Les travaux d'adduction des eaux d'un bassin fluvial dans un autre, lorsque cette adduction porte sur un débit maximal
-dépassant 1 000 litres par seconde.
+3° Les travaux de création de canaux de navigation d'une longueur supérieure à 5 kilomètres, accessibles aux bateaux de plus
+de 1 500 tonnes de port en lourd ;
+
+4° Les travaux de création ou de prolongement de lignes du réseau ferré national d'une longueur supérieure à 20 kilomètres à
+l'exclusion des travaux d'aménagement et de réalisation d'ouvrages annexes sur le réseau existant ;
+
+5° Les travaux de construction de canalisations d'intérêt général destinées au transport d'hydrocarbures liquides ;
+
+6° Les travaux de création de centrales électriques d'une puissance égale ou supérieure à 100 mégawatts, d'usines utilisant
+l'énergie des mers ainsi que d'aménagements hydroélectriques d'une puissance maximale brute égale ou supérieure à 100
+mégawatts et d'installations liées à la production et au développement de l'énergie nucléaire ;
+
+7° Les travaux de transfert d'eau de bassin fluvial à bassin fluvial (hors voies navigables) dont le débit est supérieur ou
+égal à 1 mètre cube par seconde.
 
 **Liens relatifs à cet article**
 
@@ -3290,16 +3286,16 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-_Modifié par_:
-
-  - Décret n°2002-152 du 7 février 2002 - art. 1 () JORF 9 février 2002
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2002-152 du 7 février 2002
   - TXT_SOURCE: Décret n°2002-152 du 7 février 2002 - art. 1 ()
   - TXT_SOURCE: Décret n°2004-127 du 9 février 2004
   - TXT_SOURCE: Décret n°2004-127 du 9 février 2004 - art. 4 (V)
+
+_Modifié par_:
+
+  - Décret n°2004-127 du 9 février 2004 - art. 2 () JORF 11 février 2004
 
 
 ###### Article R11-3
