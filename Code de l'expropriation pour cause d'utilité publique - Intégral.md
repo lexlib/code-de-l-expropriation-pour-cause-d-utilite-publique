@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-08-01
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -28,32 +28,35 @@ Version Consolidée au 2005-01-01
       - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics. (art. L22-1 à L22-4)](#25)
       - [CHAPITRE III : Atteintes portées aux exploitations agricoles et à l'environnement ou au patrimoine culturel par des ouvrages publics. (art. L23-1 à L23-2)](#26)
       - [CHAPITRE IV : Dispositions particulières. (art. L24-1)](#27)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. **R11-1 à R24-1)](#28)
-    - [TITRE Ier : Règles générales (art. **R11-1 à R16-4)](#29)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. **R11-1 à R22-1)](#28)
+    - [TITRE Ier : Règles générales (art. **R11-1 à R16-3)](#29)
       - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. **R11-1 à R11-20)](#30)
         - [Section 1 : Déclaration d'utilité publique. (art. **R11-1 à R11-18)](#31)
           - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-4 à R11-6-1)](#32)
           - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-1 à R11-14-15)](#33)
           - [Sous-section 3 : Dispositions communes. (art. **R11-16 à R11-18)](#34)
         - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#35)
-      - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. R12-1 à **R12-11)](#36)
-        - [Section 1 : Transfert de propriété. (art. R12-1 à R12-5)](#37)
-        - [Section 2 : Droit de rétrocession. (art. **R12-6 à **R12-11)](#38)
-      - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à R13-78)](#39)
-        - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à R13-14)](#40)
-        - [Section 2 : Procédure. (art. **R13-16 à R13-42)](#41)
-        - [Section 3 : Fixation des indemnités. (art. **R13-45 à R13-44)](#42)
-        - [Section 4 : Voies de recours. (art. **R13-50 à R13-52)](#43)
-        - [Section 5 : Frais et dépens. (art. **R13-55 à R13-60)](#44)
-        - [Section 6 : Paiement et consignation. (art. **R13-62 à R13-78)](#45)
-      - [CHAPITRE IV : Relogement des expropriés. (art. R14-1 à R14-10)](#46)
-      - [CHAPITRE V : Prise de possession (art. **R15-3 à R15-8)](#47)
-        - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#48)
-      - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-4)](#49)
-        - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-4)](#50)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R24-1)](#51)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1)](#52)
-      - [CHAPITRE IV : Dispositions particulières. (art. R24-1)](#53)
+      - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. **R12-3 à **R12-11)](#36)
+        - [Section 1 : Transfert de propriété. (art. **R12-3 à R12-5-6)](#37)
+          - [Sous-section 1 : Prononcé de l'ordonnance d'expropriation. (art. **R12-3 à R12-5)](#38)
+          - [Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation. (art. R12-5-1 à R12-5-6)](#39)
+        - [Section 2 : Droit de rétrocession. (art. **R12-6 à **R12-11)](#40)
+      - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à **R13-78)](#41)
+        - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à **R13-14)](#42)
+        - [Section 2 : Procédure. (art. **R13-15 à R13-42)](#43)
+        - [Section 3 : Fixation des indemnités. (art. **R13-45 à R13-44)](#44)
+        - [Section 4 : Voies de recours. (art. **R13-47 à R13-52)](#45)
+        - [Section 5 : Frais et dépens. (art. **R13-55 à **R13-61)](#46)
+        - [Section 6 : Paiement et consignation. (art. **R13-62 à **R13-78)](#47)
+      - [CHAPITRE IV : Relogement des expropriés. (art. R14-1 à R14-11)](#48)
+      - [CHAPITRE V : Prise de possession (art. R15-1 à R15-8)](#49)
+        - [Section 1 : Règles générales. (art. R15-1)](#50)
+        - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#51)
+      - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-3)](#52)
+        - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-3)](#53)
+    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R22-1)](#54)
+      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1 à R21-2)](#55)
+      - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics (art. R22-1)](#56)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Règles générales<a id=2></a>
@@ -541,9 +544,8 @@ _Cite_:
 
 Le transfert de propriété des immeubles ou de droits réels immobiliers est opéré par voie, soit d'accord amiable, soit
 d'ordonnance. L'ordonnance est rendue, sur le vu des pièces constatant que les formalités prescrites par le chapitre Ier ont
-été accomplies et dans les huit jours de la production de ces pièces, par le juge dont la désignation est prévue à l'article
-L. 13-1 ci-après. L'ordonnance envoie l'expropriant en possession, sous réserve qu'il se conforme aux dispositions du
-chapitre III et de l'article L. 15-2.
+été accomplies, par le juge dont la désignation est prévue à l'article L. 13-1 ci-après. L'ordonnance envoie l'expropriant en
+possession, sous réserve qu'il se conforme aux dispositions du chapitre III et de l'article L. 15-2.
 
 **Liens relatifs à cet article**
 
@@ -553,17 +555,26 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-2 (M)
+  - Décret n°2005-467 du 13 mai 2005 - art. 2 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
+  - Code de l'expropriation pour cause d'utilité pu... - art. L16-6 (VT)
   - Code général des impôts, CGI. - art. 1609 nonies F (Ab)
   - Code général des impôts, CGI. - art. 1635 ter A (Ab)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-1
+  - Code de l'expropriation pour cause d'utilité publique - art. L15-2
 
 
 ###### Article L12-2
@@ -885,12 +896,11 @@ En vue de la fixation des indemnités, l'expropriant notifie aux propriétaires 
 d'ouverture de l'enquête, soit l'acte déclarant l'utilité publique, soit l'arrêté de cessibilité, soit l'ordonnance
 d'expropriation.
 
-Dans la huitaine qui suit cette notification, le propriétaire et l'usufruitier sont tenus d'appeler et de faire connaître à
-l'expropriant les fermiers, locataires, ceux qui ont des droits d'emphytéose, d'habitation ou d'usage et ceux qui peuvent
-réclamer des servitudes.
+Le propriétaire et l'usufruitier sont tenus d'appeler et de faire connaître à l'expropriant les fermiers, locataires, ceux
+qui ont des droits d'emphytéose, d'habitation ou d'usage et ceux qui peuvent réclamer des servitudes.
 
-Les autres intéressés seront en demeure de faire valoir leurs droits par publicité collective et tenus, dans le même délai de
-huitaine, de se faire connaître à l'expropriant, à défaut de quoi ils seront déchus de tous droits à l'indemnité.
+Les autres intéressés seront en demeure de faire valoir leurs droits par publicité collective et tenus de se faire connaître
+à l'expropriant, à défaut de quoi ils seront déchus de tous droits à l'indemnité.
 
 **Liens relatifs à cet article**
 
@@ -900,13 +910,25 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 3 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-15 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-63 (VT)
   - Code rural - art. R152-22 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L311-2 (VD)
 
 
 ###### Article L13-3
@@ -946,15 +968,14 @@ _Nouveaux textes_:
 
 ###### Article L13-4
 
-Le juge est saisi par lettre recommandée avec demande d'avis de réception adressée au secrétariat de la juridiction
-compétente, soit par l'expropriant, à tout moment après l'ouverture de l'enquête prescrite à l'article L. 11-1, soit par
-l'exproprié à partir de l'ordonnance d'expropriation.
+Le juge est saisi soit par l'expropriant, à tout moment après l'ouverture de l'enquête prescrite à l'article L. 11-1, soit
+par l'exproprié à partir de l'ordonnance d'expropriation. 
 
 Dans le cas où l'expropriant offre un local de remplacement en application du deuxième alinéa de l'article L. 13-20, le juge,
 s'il est saisi, doit surseoir à statuer jusqu'au moment où seront remplies les conditions matérielles permettant l'offre d'un
-local équivalent.
+local équivalent. 
 
-Les personnes expropriées sont maintenues dans les lieux.
+Les personnes expropriées sont maintenues dans les lieux. 
 
 En aucun cas, la durée du sursis ne peut excéder le délai de validité de la déclaration d'utilité publique de l'opération en
 cause.
@@ -974,10 +995,22 @@ _Codifié par_:
 
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 4 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L311-6 (VD)
+
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-20 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L11-1
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-20
 
 
 ###### Article L13-5
@@ -1176,8 +1209,7 @@ _Nouveaux textes_:
 ###### Article L13-10
 
 Lorsque l'expropriation ne porte que sur une portion d'immeuble bâti et si la partie restante n'est plus utilisable dans les
-conditions normales, l'exproprié peut, dans les quinze jours de la notification prévue à l'article L. 13-3, demander au juge
-l'emprise totale.
+conditions normales, l'exproprié peut demander au juge l'emprise totale.
 
 Il en est de même pour toute parcelle de terrain nu qui, par suite du morcellement, se trouve réduit au quart de la
 contenance totale, si toutefois le propriétaire ne possède aucun terrain immédiatement contigu et si la parcelle ainsi
@@ -1204,48 +1236,58 @@ _Codifié par_:
 
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-3 (V)
+  - Décret n°2005-467 du 13 mai 2005 - art. 5 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. L12-6 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L13-24 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. L13-8 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. R13-40-1 (VT)
   - Code de l'urbanisme - art. L123-9 (M)
   - Code de l'urbanisme - art. L230-3 (V)
   - Code de la construction et de l'habitation. - art. L615-10 (V)
 
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L242-1 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L242-2 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L242-3 (VD)
+
 
 ###### Article L13-11
 
 Lorsqu'une emprise partielle résultant de l'expropriation compromet la structure d'une exploitation agricole en lui
-occasionnant un grave déséquilibre au sens de l'article L. 23-1 :
+occasionnant un grave déséquilibre au sens de l'article L. 23-1 : 
 
-1. Le propriétaire exproprié peut, dans les quinze jours de la notification prévue à l'article L. 13-3, demander au juge
-l'emprise totale. Il doit en informer le ou les exploitants. Si la demande est admise, le juge de l'expropriation fixe, d'une
-part, le montant de l'indemnité d'expropriation, d'autre part, le prix d'acquisition de la portion acquise en sus de la
-partie expropriée, majoré de l'indemnité de réemploi. La décision du juge emporte transfert de propriété dans les conditions
-du droit commun en ce qui concerne la portion d'immeuble non soumise à la procédure de l'expropriation. Dans le cas où le
-propriétaire exproprié n'est pas lui-même exploitant, le versement par l'expropriant du prix d'acquisition de la portion
-acquise en sus de la partie expropriée entraîne de plein droit la résiliation du bail, sans indemnité et nonobstant toute
-clause contraire ;
+1° Le propriétaire exproprié peut demander au juge l'emprise totale. Il doit en informer le ou les exploitants. Si la demande
+est admise, le juge de l'expropriation fixe, d'une part, le montant de l'indemnité d'expropriation, d'autre part, le prix
+d'acquisition de la portion acquise en sus de la partie expropriée, majoré de l'indemnité de réemploi. La décision du juge
+emporte transfert de propriété dans les conditions du droit commun en ce qui concerne la portion d'immeuble non soumise à la
+procédure de l'expropriation. Dans le cas où le propriétaire exproprié n'est pas lui-même exploitant, le versement par
+l'expropriant du prix d'acquisition de la portion acquise en sus de la partie expropriée entraîne de plein droit la
+résiliation du bail, sans indemnité et nonobstant toute clause contraire ; 
 
-2. L'exploitant qui n'est pas lui-même propriétaire peut, dans le délai d'un mois suivant la notification prévue à l'article
-L. 13-3 s'il entend ne pas poursuivre l'exploitation ou lorsqu'il y a résiliation du bail au titre du 1° ci-dessus, demander
-à l'expropriant, et en cas de refus ou de désaccord sur le montant de l'indemnisation à intervenir, au juge de fixer si
-celui-ci admet le bien-fondé de la demande, les indemnités auxquelles il aurait pu prétendre en application de l'article L.
-13-13 dans le cas où la totalité de l'exploitation aurait été expropriée. L'exploitant doit informer le ou les propriétaires
-de l'exploitation de la demande qu'il présente à l'expropriant. Le versement des indemnités par l'expropriant à l'exploitant
-entraine de plein droit, si elle n'est déja intervenue, la résiliation du bail dans les conditions définies au 1° ci-dessus.
+2° L'exploitant qui n'est pas lui-même propriétaire peut, s'il entend ne pas poursuivre l'exploitation ou lorsqu'il y a
+résiliation du bail au titre du 1° ci-dessus, demander à l'expropriant, et en cas de refus ou de désaccord sur le montant de
+l'indemnisation à intervenir, au juge de fixer si celui-ci admet le bien-fondé de la demande, les indemnités auxquelles il
+aurait pu prétendre en application de l'article L. 13-13 dans le cas où la totalité de l'exploitation aurait été expropriée.
+L'exploitant doit informer le ou les propriétaires de l'exploitation de la demande qu'il présente à l'expropriant. Le
+versement des indemnités par l'expropriant à l'exploitant entraine de plein droit, si elle n'est déja intervenue, la
+résiliation du bail dans les conditions définies au 1° ci-dessus. 
 
 Les parcelles non expropriées abandonnées par l'exploitant et à raison desquelles il a été indemnisé au titre du présent
 article ne sont pas prises en compte pour le calcul de la participation financière du maitre de l'ouvrage prévue par
 l'article L. 23-1 et allouée à l'occasion de l'installation dudit exploitant sur une exploitation nouvelle comparable à celle
-dont il est évincé du fait de l'expropriation.
+dont il est évincé du fait de l'expropriation ; 
 
-3. Lorsque au cours d'une période de dix ans plusieurs expropriations sont réalisées sur une exploitation déterminée, le
+3° Lorsque au cours d'une période de dix ans plusieurs expropriations sont réalisées sur une exploitation déterminée, le
 déséquilibre visé au premier alinéa du présent article doit être apprécié pour toute exploitation agricole partiellement
 expropriée, sous réserve qu'elle ait été exploitée depuis le début de la période susvisée par le même exploitant, son
 conjoint ou ses descendants, par rapport à la consistance de l'exploitation à la date de publication de l'acte déclaratif
@@ -1261,19 +1303,30 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-13 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-3 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L23-1 (M)
+  - Décret n°2005-467 du 13 mai 2005 - art. 6 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
   - Code de l'environnement - art. L555-27 (VD)
   - Code de l'urbanisme - art. L123-9 (M)
   - Code de l'urbanisme - art. L230-3 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L242-7 (VD)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-13
+  - Code de l'expropriation pour cause d'utilité publique - art. L23-1
 
 
 ###### Article L13-11-1
@@ -1766,10 +1819,7 @@ _Nouveaux textes_:
 
 ###### Article L13-21
 
-Les décisions rendues en première instance ne sont pas susceptibles d'opposition.
-
-Appel peut être interjeté devant la cour d'appel, dans le délai de quinze jours à compter de la notification des jugements
-rendus en application du chapitre III.
+Appel peut être interjeté devant la cour d'appel.
 
 **Liens relatifs à cet article**
 
@@ -1779,11 +1829,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'expropriation pour cause d'utilité publique L13-1 à L13-28
+  - Décret n°2005-467 du 13 mai 2005 - art. 7 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
@@ -1824,25 +1878,6 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L13-1
 
 
-###### Article L13-23
-
-Le président de la chambre doit demander au représentant du service des domaines tous renseignements propres à l'éclairer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-997 1958-10-23 art. 36
-
-_Codifié par_:
-
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 8 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
 ###### Article L13-24
 
 La chambre doit rendre sa décision par un arrêt motivé. L'arrêt doit tenir compte des dispositions des articles L. 13-6 à L.
@@ -1875,17 +1910,13 @@ _Nouveaux textes_:
 
 ###### Article L13-25
 
-L'arrêt est notifié par extrait à la requête de la partie la plus diligente.
-
-Il pourra être déféré à la Cour de cassation.
-
-**Nota:**
-
-NOTA : Décret 2004-836 2004-08-20 art. 59 : Le présent décret entrera en vigueur le 1er janvier 2005. Il sera applicable aux
-procédures en cours. Toutefois, les articles 20 à 43 seront applicables uniquement aux recours dirigés à l'encontre des
-décisions rendues à compter du 1er janvier 2005.
+L'arrêt pourra être déféré à la Cour de cassation.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-1366 1947-07-23
 
 _Anciens textes_:
 
@@ -1897,11 +1928,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 36 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 9 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - Loi n°47-1366 1947-07-23
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 
 #### Section 6 : Paiement et consignation.<a id=14></a>
@@ -2157,10 +2188,14 @@ _Codifié par_:
 
 ###### Article L15-2
 
-L'appel n'est pas suspensif.
-
 L'expropriant peut prendre possession, moyennant versement d'une indemnité au moins égale aux propositions faites par lui et
 consignation du surplus de l'indemnité fixée par le juge.
+
+**Nota:**
+
+Dans sa décision n° 2012-226 QPC du 6 avril 2012 (NOR : CSCX1210225S), le Conseil constitutionnel a déclaré l'article L. 15-2
+du code de l'expropriation pour cause d'utilité publique contraire à la Constitution. La déclaration d'inconstitutionnalité
+prend effet le 1er juillet 2013 dans les conditions fixées au considérant 7.
 
 **Liens relatifs à cet article**
 
@@ -2171,6 +2206,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 10 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 _Cité par_:
 
@@ -2247,12 +2286,9 @@ _Cite_:
 
 ###### Article L15-5
 
-La décision fixant le montant des indemnités provisionnelles ne peut être attaquée que par la voie de recours en cassation
-dans les formes et délais prévus à l'article L. 12-5.
+La décision fixant le montant des indemnités provisionnelles ne peut être attaquée que par la voie de recours en cassation. 
 
-Il est procédé, le cas échéant, et dans le délai d'un mois, à compter du jugement fixant les indemnités provisionnelles, à la
-fixation des indemnités définitives selon la procédure prévue aux articles L. 13-6, R. 13-30, R. 13-31, R. 13-32 et R. 13-34
-sans qu'il y ait lieu, sauf décision expresse du juge, à un nouveau transport sur les lieux.
+Il est procédé, le cas échéant, à la fixation des indemnités définitives selon la procédure prévue à l'article L. 13-6.
 
 **Liens relatifs à cet article**
 
@@ -2264,18 +2300,21 @@ _Codifié par_:
 
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
+  - Décret n°2005-467 du 13 mai 2005 - art. 11 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-5 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-6 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-30 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-31 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-32 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-34 (M)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L13-6 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L232-2 (VD)
 
 
 #### Section 3 : Procédure d'extrême urgence.<a id=19></a>
@@ -2906,19 +2945,19 @@ _Cité par_:
 
 Pour l'application de l'article L. 21-1, des cahiers des charges types approuvés par décret en Conseil d'Etat précisent
 notamment les conditions selon lesquelles les cessions et les concessions temporaires seront consenties et résolues en cas
-d'inexécution des charges.
+d'inexécution des charges. 
 
-Toute dérogation individuelle à ces cahiers doit être approuvée par décret en Conseil d'Etat.
+Toute dérogation individuelle à ces cahiers doit être approuvée par décret en Conseil d'Etat. 
 
 En cas de résolution de la cession ou de la concession temporaire, les privilèges et hypothèques ayant grevé les immeubles du
 chef du bénéficiaire de cette cession ou de ses ayants droit sont reportés sur les sommes acquises à ces derniers par le fait
 de la résolution. Ces sommes sont réparties entre les créanciers suivant les formes et conditions concernant le règlement des
-prix de vente d'immeubles.
+prix de vente d'immeubles. 
 
 Les actes de vente, de partage ou de location consentis par le bénéficiaire de la cession en méconnaissance des interdictions
 ou restrictions stipulées par le cahier des charges sont nuls et de nul effet. Cette nullité peut être invoquée pendant cinq
-ans [*délai*] à compter de l'acte, par la personne publique ou privée qui a consenti la cession ou, à défaut, par le préfet,
-sans préjudice, le cas échéant, des réparations civiles. L'action en nullité est dispensée du ministère d'avocat.
+ans à compter de l'acte, par la personne publique ou privée qui a consenti la cession ou, à défaut, par le préfet, sans
+préjudice, le cas échéant, des réparations civiles.
 
 **Liens relatifs à cet article**
 
@@ -2941,9 +2980,23 @@ _Codifié par_:
 
   - Décret n°77-392 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 12 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-2 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-3 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-4 (VD)
+
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L21-1 (M)
+  - Code de l'expropriation pour cause d'utilité publique - art. L21-1
 
 
 ###### Article L21-4
@@ -2976,10 +3029,9 @@ _Abrogé par_:
 ###### Article L22-1
 
 Lorsque l'expropriation intéressant une agglomération entraîne la dispersion de sa population, un décret en Conseil d'Etat
-fixe, après avis du conseil général des ponts et chaussées, les mesures relatives à la réorganisation des territoires
-atteints par les travaux, en vue de permettre, notamment, le rétablissement du domaine public des collectivités locales, la
-réinstallation des services publics et la dévolution des biens du domaine privé des communes qui pourraient être supprimées.
-Il arrête un programme de réinstallation.
+fixe les mesures relatives à la réorganisation des territoires atteints par les travaux, en vue de permettre, notamment, le
+rétablissement du domaine public des collectivités locales, la réinstallation des services publics et la dévolution des biens
+du domaine privé des communes qui pourraient être supprimées. Il arrête un programme de réinstallation.
 
 **Liens relatifs à cet article**
 
@@ -2989,13 +3041,25 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 13 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
   - CODE DES COMMUNES. - art. L113-4 (Ab)
   - Code de l'expropriation pour cause d'utilité pu... - art. L16-6 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. R22-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L431-1 (VD)
 
 
 ###### Article L22-2
@@ -4624,8 +4688,13 @@ _Nouveaux textes_:
 
 ###### Article R11-15
 
-L'avis du ministre chargé des beaux-arts doit être demandé pour toutes les opérations nécessitant l'expropriation
-d'immeubles, monuments naturels ou sites classés ou proposés pour le classement.
+L'avis du ministre chargé de la culture est demandé pour toutes les opérations nécessitant l'expropriation de monuments
+historiques classés ou proposés pour le classement au titre des monuments historiques.
+
+L'avis du ministre chargé des sites est demandé pour toutes les opérations nécessitant l'expropriation de monuments naturels
+ou sites classés ou proposés pour le classement au titre des monuments et sites naturels.
+
+Ces avis sont réputés favorables à défaut de réponse dans le délai de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -4637,41 +4706,43 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
 
-_Modifié par_:
-
-  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
 _Cité par_:
 
   - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
   - Code de l'aviation civile - art. R242-1 (M)
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 15 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-1 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-2 (V)
+
 
 ###### Article R11-17
 
-La déclaration d'utilité publique prévue à l'article L. 11-3 est prononcée sur avis conforme de la commission d'examen des
-opérations immobilières présentant un caractère secret, poursuivies par les services publics relevant du ministre de la
-défense, ou placés sous sa tutelle, instituée par l'article 1er du décret n° 87-359 du 26 mai 1987.
+La commission d'examen des opérations immobilières présentant un caractère secret est chargée d'examiner les opérations
+immobilières secrètes intéressant la défense nationale, poursuivies par voie d'expropriation pour cause d'utilité publique
+par les services publics, relevant du ministère de la défense ou placés sous sa tutelle, en vue de leur déclaration d'utilité
+publique par décret sans enquête préalable.
+
+Elle est placée auprès du Premier ministre.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-701 1959-06-06 ART. 12 BIS  (Décret 70-307 1970-04-09 ART. 2)
-
-_Cite_:
-
-  - Décret n°70-103 du 3 février 1970 - art. 2, v. init.
-  - Décret n°87-359 du 26 mai 1987 - art. 1 (AbD)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-3 (V)
+  - Décret n°59-701 1959-06-06 art. 12 bis
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
-
-_Modifié par_:
-
-  - Décret n°87-359 du 26 mai 1987 - art. 5 () JORF 2 juin 1987
+  - Décret n°77-393 du 28 mars 1977
 
 _Cité par_:
 
@@ -4680,6 +4751,105 @@ _Cité par_:
   - Code de la défense. - art. R2313-4 (V)
   - Code du domaine de l'Etat - art. R21-1 (Ab)
   - Code général de la propriété des personnes publ... - art. R1211-8 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 16 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-5 (V)
+
+
+###### Article R11-17-1
+
+La commission d'examen des opérations immobilières présentant un caractère secret est composée de quatre membres :
+
+- un président ou son suppléant, choisis parmi les conseillers d'Etat, les conseillers à la Cour de cassation ou les
+conseillers maîtres à la Cour des comptes ;
+
+- le secrétaire général de la défense nationale ou son représentant ;
+
+- un représentant du ministre de la défense ;
+
+- le directeur général des impôts ou, à défaut, le chef de service ou le sous-directeur chargé du domaine.
+
+Le président et son suppléant sont nommés par arrêté du Premier ministre pour une durée de deux ans renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 17 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Modifié par_:
+
+  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+
+###### Article R11-17-2
+
+La déclaration d'utilité publique prévue à l'article L. 11-3 est prononcée sur avis conforme de la commission d'examen des
+opérations immobilières présentant un caractère secret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 17 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-4 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L11-3
+
+
+###### Article R11-17-3
+
+Le rapport sur l'utilité publique d'une opération immobilière présentant un caractère secret est établi par le service
+intéressé qui est admis à présenter des observations orales complémentaires.
+
+La commission peut également recueillir l'avis de toutes personnes qualifiées en raison de leurs compétences ou de leurs
+fonctions. Ces personnes sont convoquées par les soins du président.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 17 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-7 (V)
 
 
 ###### Article R11-18
@@ -5285,28 +5455,64 @@ _Nouveaux textes_:
 
 #### Section 1 : Transfert de propriété.<a id=37></a>
 
+##### Sous-section 1 : Prononcé de l'ordonnance d'expropriation.<a id=38></a>
+
+###### Article **R12-3
+
+Le juge refuse, par ordonnance motivée, de prononcer l'expropriation s'il constate que le dossier n'est pas constitué
+conformément aux prescriptions de l'article R. 12-1, ou si la déclaration d'utilité publique ou les arrêtés de cessibilité
+sont caducs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 17
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 18 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-5 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. R12-1
+
+
 ###### Article R12-1
 
-Le préfet transmet au secrétariat de la juridiction du département dans lequel sont situés les biens à exproprier un dossier
-qui comprend obligatoirement les copies certifiées conformes :
+Le préfet transmet au greffe de la juridiction du ressort dans lequel sont situés les biens à exproprier un dossier qui
+comprend obligatoirement les copies : 
 
-1° De l'acte déclarant l'utilité publique de l'opération et, éventuellement, de l'acte le prorogeant ;
+1° De l'acte déclarant l'utilité publique de l'opération et, éventuellement, de l'acte le prorogeant ; 
 
-2° De l'avis de la commission des opérations immobilières, sauf attestation par le préfet que cet avis n'est pas obligatoire
-en l'espèce ;
+2° Du plan parcellaire des terrains et bâtiments ; 
 
-3° Du plan parcellaire des terrains et bâtiments ;
+3° De l'arrêté préfectoral mentionné à l'article R. 11-20 ; 
 
-4° De l'arrêté préfectoral mentionné à l'article R. 11-20 ;
+4° Des pièces justifiant de l'accomplissement des formalités tendant aux avertissements collectifs et aux notifications
+individuelles prévues aux articles R. 11-20, **R. 11-22 et **R. 11-27 sous réserve de l'application de l'article **R.
+11-30 ; 
 
-5° Des pièces justifiant de l'accomplissement des formalités tendant aux avertissements collectifs et aux notifications
-individuelles prévues aux articles R. 11-20, R. 11-22, et R. 11-27 sous réserve de l'application de l'article R. 11-30 ;
+5° Du procès-verbal établi à la suite de l'enquête parcellaire ; 
 
-6° Du procès-verbal établi à la suite de l'enquête parcellaire ;
+6° De l'arrêté de cessibilité ou de l'acte en tenant lieu, ayant moins de six mois de date. 
 
-7° De l'arrêté de cessibilité ou de l'acte en tenant lieu, ayant moins de six mois de date *durée, validité, caducité*.
+Le dossier peut comprendre, en outre, tous autres documents ou pièces que le préfet estime utiles. 
 
-Le dossier peut comprendre, en outre, tous autres documents ou pièces que le préfet estime utiles.
+Si le dossier ne comprend pas toutes les pièces mentionnées au premier alinéa, le juge demande au préfet de les lui faire
+parvenir dans un délai d'un mois.
 
 **Liens relatifs à cet article**
 
@@ -5331,34 +5537,37 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+  - Décret n°2005-467 du 13 mai 2005 - art. 18 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 19 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-20 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-22 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-30 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-22 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-27 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R11-20 (VT)
+  - Code de l'expropriation pour cause d'utilité publique - art. **R11-30
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-1 (V)
 
 
 ###### Article R12-2
 
-Dans un délai de huit jours à compter de la réception du dossier au secrétariat de la juridiction, le juge saisi prononce,
-par ordonnance, l'expropriation des immeubles ou des droits réels déclarés cessibles ; l'expropriation est prononcée
-directement au bénéfice de la personne au profit de laquelle elle a été poursuivie.
-
-Si le dossier ne comprend pas toutes les pièces mentionnées à l'article précédent, le juge peut demander au préfet de les lui
-faire parvenir ; dans ce cas, il prononce l'expropriation dans un délai de huit jours à compter de la réception desdites
-pièces.
+Dans un délai de quinze jours à compter de la réception du dossier complet au greffe de la juridiction, le juge saisi
+prononce, par ordonnance, l'expropriation des immeubles ou des droits réels déclarés cessibles au vu des pièces mentionnées à
+l'article R. 12-1. L'expropriation est prononcée directement au bénéfice de la personne au profit de laquelle elle a été
+poursuivie.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 ART. 16
+  - Décret n°59-1335 1959-11-20 art. 16
 
 _Codifié par_:
 
@@ -5366,66 +5575,84 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
+  - Décret n°2005-467 du 13 mai 2005 - art. 18 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 20 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
+_Abrogé par_:
 
-###### Article R12-3
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
-Le juge refuse, par ordonnance motivée, de prononcer l'expropriation s'il constate que le dossier n'est pas constitué
-conformément aux prescriptions de l'article R. 12-1, ou si la déclaration d'utilité publique ou les arrêtés de cessibilité
-sont caducs.
+_Nouveaux textes_:
 
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 ART. 17
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-2 (V)
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R12-1 (M)
+  - Code de l'expropriation pour cause d'utilité publique - art. R12-1
+
+
+###### Article R12-2-1
+
+Si l'acte déclarant l'utilité publique, l'arrêté de cessibilité ou l'acte en tenant lieu fait l'objet d'une suspension dans
+le cadre d'une procédure de référé, le préfet doit, dès qu'il a reçu notification de la suspension, en informer le juge de
+l'expropriation.
+
+Celui-ci doit surseoir au prononcé de l'ordonnance d'expropriation dans l'attente de la décision de la juridiction
+administrative sur le fond de la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 21 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-3 (V)
 
 
 ###### Article R12-4
 
-L'ordonnance prononçant l'expropriation désigne [*contenu*] chaque immeuble ou fraction d'immeuble exproprié et précise
-l'identité des expropriés, conformément aux dispositions de l'article R. 11-28. Elle désigne en outre le bénéficiaire de
-l'expropriation.
+L'ordonnance prononçant l'expropriation désigne chaque immeuble ou fraction d'immeuble exproprié et précise l'identité des
+expropriés, conformément aux dispositions de l'article **R. 11-28. Elle désigne en outre le bénéficiaire de l'expropriation. 
 
 Elle tient compte des modifications survenues éventuellement depuis l'arrêté de cessibilité ou l'acte en tenant lieu en ce
 qui concerne la désignation des immeubles ou l'identité des parties.
-
-L'avis ou l'attestation mentionné au 2° de l'article R. 12-1 est annexé à la minute de l'ordonnance.
-
-Cette ordonnance peut être ultérieurement rectifiée, selon les mêmes règles que les jugements, pour redresser les erreurs ou
-les omissions tant matérielles que relatives à la désignation des personnes ou des immeubles expropriés.
-
-L'omission ou l'inexactitude d'une mention destinée à établir la régularité de l'ordonnance ne peut entraîner la nullité de
-celle-ci s'il est établi par les pièces du dossier ou par tout autre moyen que les prescriptions légales ont été, en fait,
-observées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 ART. 18 (Décret 72-684 1972-07-20 ART. 119-1)
+  - Décret n°59-1335 1959-11-20 art. 18
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - Décret n°2005-467 du 13 mai 2005 - art. 18 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 22 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-4 (V)
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-28 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R12-1 (M)
+  - Code de l'expropriation pour cause d'utilité publique - art. **R11-28
 
 
 ###### Article R12-5
@@ -5437,7 +5664,7 @@ La notification de l'ordonnance doit reproduire les termes de l'article L. 12-5 
 nouveau code de procédure civile.
 
 Les frais et dépens afférents à l'ordonnance d'expropriation et au pourvoi en cassation contre celle-ci sont déterminés dans
-les conditions prévues aux articles R. 13-54 et R. 13-55.
+les conditions prévues à la section V du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -5456,17 +5683,211 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 37 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 18 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 23 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+
+##### Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation.<a id=39></a>
+
+###### Article R12-5-1
+
+Dans les cas prévus au deuxième alinéa de l'article L. 12-5, l'exproprié qui entend faire constater par le juge le manque de
+base légale de l'ordonnance portant transfert de sa propriété transmet au greffe de la juridiction qui a prononcé
+l'expropriation, dans un délai de deux mois à compter de la notification de la décision du juge administratif annulant la
+déclaration d'utilité publique ou l'arrêté de cessibilité, un dossier qui comprend les copies : 
+
+1° De la décision d'annulation de la déclaration d'utilité publique ou de l'arrêté de cessibilité ; 
+
+2° De l'ordonnance d'expropriation ; 
+
+3° Le cas échéant, de la convention ou de la décision fixant les indemnités d'expropriation ; 
+
+4° D'un certificat de non-recours contre la décision fixant les indemnités d'expropriation. 
+
+Le dossier peut comprendre, en outre, tous autres documents ou pièces que le demandeur estime utiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 24 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-5 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-54 (Ab)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-55 (V)
-  - Nouveau code de procédure civile 612, 973
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-5 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R223-1 (V)
 
 
-#### Section 2 : Droit de rétrocession.<a id=38></a>
+###### Article R12-5-2
+
+Le greffier convoque à l'audience le demandeur, l'expropriant et le commissaire du Gouvernement par lettre recommandée avec
+demande d'avis de réception. Il leur adresse, par ce même courrier, une copie des pièces déposées par le demandeur et les
+invite à fournir toute précision permettant de vérifier si la décision juridictionnelle est devenue définitive. 
+
+Le demandeur peut aussi être convoqué verbalement contre émargement. 
+
+Les personnes habilitées à assister ou à représenter les parties sont celles prévues à l'article **R. 13-31.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 24 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R223-2 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. **R13-31
+
+
+###### Article R12-5-3
+
+La demande de l'exproprié qui entend se prévaloir des dispositions de l'alinéa 2 de l'article L. 12-5 est formée, instruite
+et jugée conformément aux dispositions des articles **R. 13-22 et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 24 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R223-5 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. **R13-22
+  - Code de l'expropriation pour cause d'utilité publique - art. L12-5
+
+
+###### Article R12-5-4
+
+Le juge constate, par jugement, l'absence de base légale du transfert de propriété et en précise les conséquences de droit.
+
+a) Si le bien exproprié n'est pas en état d'être restitué, l'action de l'exproprié se résout en dommages et intérêts ;
+
+b) S'il peut l'être, le juge désigne chaque immeuble ou fraction d'immeuble dont la propriété est restituée.
+
+Il détermine également les indemnités à restituer à l'expropriant et statue sur la demande de l'exproprié en réparation du
+préjudice causé par l'opération irrégulière. Il précise que la restitution à l'exproprié de son bien ne peut intervenir
+qu'après paiement par celui-ci des sommes mises à sa charge, après compensation.
+
+Le juge peut aussi prévoir, au choix de l'exproprié, lorsque des ouvrages ou plantations ont été réalisés, et sous réserve
+des exigences de l'intérêt général ou de l'impossibilité tenant à la nature de l'ouvrage :
+
+1° Soit leur suppression aux frais de l'expropriant ;
+
+2° Soit leur maintien et leur remboursement par l'exproprié à l'expropriant. Ce remboursement est effectué, au choix de
+l'exproprié, soit par le versement d'une somme égale au montant de la plus-value dégagée par ce bien, soit sur la base du
+coût des matériaux et du prix de la main-d'oeuvre estimés à la date du remboursement, compte tenu de l'état dans lequel se
+trouvent lesdits ouvrages ou plantations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 24 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R12-5-6 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R223-6 (V)
+
+
+###### Article R12-5-5
+
+Les frais de publicité foncière engagés en application de l'ordonnance sont à la charge de l'expropriant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 24 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R223-7 (V)
+
+
+###### Article R12-5-6
+
+L'appel est interjeté par les parties ou par le commissaire du Gouvernement dans un délai d'un mois à compter de la
+notification du jugement mentionné à l'article R. 12-5-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 24 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R12-5-4 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R223-8 (V)
+
+
+#### Section 2 : Droit de rétrocession.<a id=40></a>
 
 ###### Article **R12-6
 
@@ -5676,9 +6097,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R421-8 (V)
 
 
-### CHAPITRE III : Fixation et paiement des indemnités<a id=39></a>
+### CHAPITRE III : Fixation et paiement des indemnités<a id=41></a>
 
-#### Section 1 : Juridiction de l'expropriation.<a id=40></a>
+#### Section 1 : Juridiction de l'expropriation.<a id=42></a>
 
 ###### Article **R13-1
 
@@ -5718,6 +6139,45 @@ _Abrogé par_:
 _Cite_:
 
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-1 (V)
+
+
+###### Article **R13-2
+
+Les juges de l'expropriation et les magistrats habilités à les suppléer en cas d'empêchement sont désignés par ordonnance du
+premier président pour une durée de trois années renouvelable après avis de l'assemblée des magistrats du siège du tribunal
+de grande instance près lequel siège la juridiction mentionnée à l'article L. 13-1. 
+
+Il peut être mis fin à leurs fonctions dans les mêmes formes. 
+
+Les juges de l'expropriation et leurs suppléants sont désignés parmi les magistrats du tribunal de grande instance près
+lequel siège la juridiction mentionnée à l'article L. 13-1.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 2
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 25 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-1 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L211-1 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R211-2 (V)
 
 
 ###### Article **R13-3
@@ -5797,6 +6257,41 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R211-3 (V)
 
 
+###### Article **R13-5
+
+Le nombre des chambres de la cour d'appel compétentes en matière d'expropriation pour cause d'utilité publique, s'il est
+nécessaire d'en constituer plusieurs, est fixé, pour chaque ressort, par arrêté du garde des sceaux, ministre de la justice.
+
+La chambre statuant en appel est présidée par un président de chambre de la cour d'appel désigné, pour trois années
+renouvelables, par ordonnance du premier président après avis de l'assemblée des magistrats du siège de la cour d'appel.
+Celui-ci désigne, pour la même durée et dans les mêmes formes, un autre magistrat de la cour, chargé de suppléer le président
+en cas d'empêchement.
+
+Il peut être mis fin, dans les mêmes formes, aux fonctions de ces magistrats.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 5
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 26 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-1 (Ab)
+
+
 ###### Article **R13-6
 
 Si, dans le ressort d'une cour d'appel ou d'une chambre détachée, le nombre des juges de l'expropriation est insuffisant pour
@@ -5823,79 +6318,27 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-1 (Ab)
 
 
-###### Article R13-2
-
-Les juges de l'expropriation et les magistrats habilités à les suppléer en cas d'empêchement sont désignés par ordonnance du
-premier président pour une durée de trois années renouvelable.
-
-Il peut être mis fin à leurs fonctions dans les mêmes formes.
-
-Les juges de l'expropriation et leurs suppléants sont désignés parmi les magistrats du tribunal de grande instance près
-lequel siège la juridiction mentionnée à l'article L. 13-1. Ils doivent avoir accompli deux années [*ancienneté*] de services
-judiciaires effectifs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 2
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
-
-
-###### Article R13-5
-
-Le nombre des chambres de la cour d'appel compétentes en matière d'expropriation pour cause d'utilité publique, s'il est
-nécessaire d'en constituer plusieurs, est fixé, pour chaque ressort, par arrêté du garde des sceaux, ministre de la justice.
-
-La chambre statuant en appel [*composition*] est présidée par un président de la chambre de la cour d'appel désigné, pour
-trois années renouvelables, par ordonnance du premier président. Celui-ci désigne, pour la même durée et dans les mêmes
-formes, un autre magistrat de la cour, chargé de suppléer le président en cas d'empêchement.
-
-Il peut être mis fin, dans les mêmes formes, aux fonctions de ces magistrats.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 5
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-1 (Ab)
-
-
-###### Article R13-7
+###### Article **R13-7
 
 Le directeur des services fiscaux (domaine) du département dans lequel la juridiction de l'expropriation a son siège exerce
-les fonctions de commissaire du Gouvernement auprès de cette juridiction.
+les fonctions de commissaire du Gouvernement auprès de cette juridiction. 
 
 Le directeur des services fiscaux (domaine) peut désigner des fonctionnaires de son service aux fins de le suppléer dans les
-fonctions de commissaire du Gouvernement auprès de la juridiction mentionnée à l'article R. 13-1.
+fonctions de commissaire du Gouvernement auprès de la juridiction mentionnée à l'article **R. 13-1. Cette désignation ne peut
+porter sur des agents ayant, pour le compte de l'autorité expropriante, donné l'avis d'estimation préalable aux offres
+d'indemnité. 
 
 Devant la chambre statuant en appel, il peut être suppléé soit par des directeurs des services fiscaux (domaine) des autres
 départements situés dans le ressort de la cour d'appel, soit par des fonctionnaires des services fiscaux (domaine) qu'il
-désigne spécialement à cet effet.
+désigne spécialement à cet effet. 
+
+Le commissaire du Gouvernement exerce ses missions dans le respect du principe de la contradiction guidant le procès civil.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 7 (Décret 66-776 1966-10-11 art. 1)
+  - Décret n°59-1335 1959-11-20 art. 7
 
 _Cité par_:
 
@@ -5906,67 +6349,30 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-393 du 28 mars 1977
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-1 (V)
-
-
-###### Article R13-8
-
-Les affaires portées devant les juridictions mentionnées aux articles L. 13-1 et L. 13-22 ne sont pas communiquées au
-ministère public dont la présence n'est pas requise à l'audience.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 8
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°2005-467 du 13 mai 2005 - art. 27 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 _Abrogé par_:
 
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R212-1 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-24 (V)
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-22 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. **R13-1
 
 
-###### Article R13-9
+###### Article **R13-10
 
-Devant la chambre statuant en appel, le procureur général peut néanmoins prendre communication de toutes les causes dans
-lesquelles il croit son ministère nécessaire. Dans ce cas, il peut venir à l'audience afin de déposer les conclusions qu'il
-estime devoir prendre, sans préjudice de celles du commissaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 9
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
-###### Article R13-10
-
-Le secrétariat de la juridiction mentionnée à l'article R. 13-1 est assuré par le greffier en chef du tribunal de grande
-instance auprès duquel ladite juridiction a son siège.
+Le greffe de la juridiction mentionnée à l'article **R. 13-1 est assuré par le greffier en chef du tribunal de grande
+instance auprès duquel ladite juridiction a son siège. 
 
 Chaque juge est assisté d'un greffier fonctionnaire ou d'un commis greffier assermenté, désigné par le greffier en chef et
 qui ne peut être suppléé dans l'exercice de ses fonctions qu'en cas d'empêchement. Si cet empêchement dure plus de deux mois,
@@ -5980,25 +6386,33 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - Décret n°77-393 du 28 mars 1977
 
 _Cité par_:
 
   - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R841-1 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R211-5 (V)
+
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. **R13-1
 
 
-###### Article R13-11
+###### Article **R13-11
 
-Le secrétariat de la chambre d'appel est assuré, dans les mêmes conditions que ci-dessus, par le greffier en chef de la cour.
+Le greffe de la chambre d'appel est assuré, dans les mêmes conditions que ci-dessus, par le greffier en chef de la cour.
 
 **Liens relatifs à cet article**
 
@@ -6008,73 +6422,27 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R841-2 (Ab)
 
 
-###### Article R13-12
-
-Il est ouvert au secrétariat de la juridiction mentionnée à l'article R. 13-1 un registre général, établi sur papier non
-timbré, coté et paraphé par l'un des juges, sur lequel sont mentionnées les demandes prévues aux articles R. 12-1 et R.
-13-21, les actes d'appel prévus à l'article R. 13-47, ainsi que les décisions intervenues à la suite de l'exercice d'une voie
-de recours.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 12
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Créé par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R12-1 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-21 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-47 (M)
-
-
-###### Article R13-13
-
-Il est ouvert, pour chaque juge et chaque chambre spéciale de la cour, un registre établi dans les mêmes conditions sur
-lequel sont mentionnés tous les actes, décisions, notifications, correspondances et formalités auxquels donne lieu
-l'instruction de chaque affaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 13
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
-###### Article R13-14
+###### Article **R13-14
 
 Les ordonnances portant transfert de propriété, les jugements et arrêts rendus en matière d'expropriation sont déposés en
-minute au secrétariat de la juridiction qui a rendu la décision.
+minute au greffe de la juridiction qui a rendu la décision.
 
-Le secrétaire délivre les grosses et expéditions nécessaires dans les délais maximum suivants, comptés du jour où il en est
+Le greffier délivre les grosses et expéditions nécessaires dans les délais maximum suivants, comptés du jour où il en est
 requis pour tout intéressé : dix jours en ce qui concerne les jugements et arrêts fixant les indemnités définitives, cinq
 jours en ce qui concerne les ordonnances prononçant l'expropriation et les jugements fixant les indemnités provisionnelles.
 
@@ -6088,12 +6456,71 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-7 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-32 (V)
 
 
-#### Section 2 : Procédure.<a id=41></a>
+#### Section 2 : Procédure.<a id=43></a>
+
+###### Article **R13-15
+
+La notification prévue au premier alinéa de l'article L. 13-2 est faite conformément aux dispositions du premier alinéa de
+l'article **R. 13-41. Elle précise que le propriétaire et l'usufruitier sont tenus d'appeler et de faire connaître à
+l'expropriant, dans le délai d'un mois, les fermiers, les locataires, les personnes qui ont des droits d'emphytéose,
+d'habitation ou d'usage et celles qui peuvent réclamer des servitudes. 
+
+La publicité collective mentionnée au troisième alinéa de l'article L. 13-2 comporte un avis publié à la diligence de
+l'expropriant par voie d'affiche et éventuellement par tous autres procédés dans chacune des communes désignées par le
+préfet, sans que cette formalité soit limitée nécessairement aux communes où ont lieu les opérations. L'accomplissement de
+cette mesure de publicité est certifiée par le maire. Cet avis est en outre inséré dans un des journaux publiés dans le
+département. Il doit préciser, en caractère apparents, que les personnes intéressées autres que le propriétaire,
+l'usufruitier, les fermiers, les locataires, ceux qui ont des droits d'emphytéose, d'habitation ou d'usage et ceux qui
+peuvent réclamer des servitudes sont tenues de se faire connaître à l'expropriant dans un délai d'un mois, à défaut de quoi
+elles seront, en vertu des dispositions finales du troisième alinéa de l'article L. 13-2, déchues de tous droits à
+l'indemnité. 
+
+La notification et la publicité mentionnées aux deux alinéas qui précèdent peuvent être faites en même temps que celles
+prévues à la section I ou à la section II du chapitre Ier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 20
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 28 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-1 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-2 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-3 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. **R13-41
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-2
+
 
 ###### Article **R13-16
 
@@ -6129,6 +6556,54 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de l'expropriation pour cause d'utilité publique - art. L13-3
+
+
+###### Article **R13-17
+
+Les notifications des offres sont faites à chacun des intéressés susceptibles d'obtenir une indemnisation. 
+
+Elles précisent, en les distinguant, l'indemnité principale, le cas échéant, les offres en nature et chacune des indemnités
+accessoires, ainsi que, si l'expropriant est tenu au relogement, la commune dans laquelle est situé le local offert. Les
+notifications invitent en outre les personnes auxquelles elles sont faites à faire connaître par écrit à l'expropriant, dans
+un délai d'un mois à dater de la notification, soit leur acceptation, soit le montant détaillé de leurs demandes. Elles
+reproduisent en caractères apparents les dispositions de l'article R. 13-21. 
+
+Elles indiquent également que toute demande d'emprise totale doit être adressée au juge dans le même délai. 
+
+La réponse de chaque intéressé doit contenir ses nom, prénoms, domicile, date et lieu de naissance, ainsi que le titre auquel
+il est susceptible de bénéficier d'une indemnité, et, pour chaque personne morale, toutes indications propres à l'identifier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 22
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 29 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-24 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R15-3 (VT)
+  - Code de la santé publique - art. R3335-4 (VD)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-5 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. R13-21
 
 
 ###### Article **R13-18
@@ -6267,6 +6742,78 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. R13-23
 
 
+###### Article **R13-23
+
+Le défendeur dispose d'un délai de six semaines à compter de la notification du mémoire du demandeur pour adresser à celui-ci
+son mémoire en réponse.
+
+Faute par l'exproprié d'avoir notifié son mémoire dans ledit délai, sa réponse à l'offre de l'expropriant est réputée en
+tenir lieu.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 27
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 31 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-22 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-26 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-35 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-11 (V)
+
+
+###### Article **R13-24
+
+Copies des mémoires et, le cas échéant, des documents qu'elle entend produire sont adressées par chacune des parties en
+double exemplaire au greffe de la juridiction. 
+
+L'expropriant peut joindre à son mémoire des copies certifiées conformes de l'offre mentionnée à l'article **R. 13-17 et, le
+cas échéant, de la réponse faite par l'exproprié à cette offre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 28
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-17 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-13 (V)
+
+
 ###### Article **R13-25
 
 Les mémoires comportent l'exposé des moyens et conclusions des parties ; celles-ci y joignent les documents et pièces
@@ -6298,6 +6845,125 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-12 (V)
+
+
+###### Article **R13-26
+
+Le juge fixe, par ordonnance, la date de la visite des lieux et de l'audition des parties. 
+
+La visite des lieux est faite par le juge dans les deux mois de cette ordonnance, mais postérieurement à l'expiration du
+délai de six semaines fixé à l'article **R. 13-23.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 31
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 32 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R15-4 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-14 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. R13-23
+
+
+###### Article **R13-27
+
+Copie de l'ordonnance fixant les jour et heure du transport sur les lieux est transmise par le greffier de la juridiction à
+l'expropriant, en vue de sa notification aux intéressés ainsi qu'au commissaire du Gouvernement.
+
+Si le juge est saisi par l'exproprié, les parties sont avisées directement par le greffier de la date du transport sur les
+lieux.
+
+Le greffier joint à la notification faite au commissaire du Gouvernement une copie des mémoires et des documents en sa
+possession.
+
+Les parties et le commissaire du Gouvernement doivent être avisés quinze jours au moins à l'avance de la date de transport
+sur les lieux.
+
+La visite des lieux est faite en leur présence. Il est établi un procès-verbal des opérations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 32
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-15 (V)
+
+
+###### Article **R13-28
+
+En vue de la détermination de la valeur d'immeubles et d'éléments immobiliers non transférables présentant des difficultés
+particulières d'évaluation, le juge peut désigner un expert par décision motivée ou se faire assister, lors de la visite des
+lieux, par un notaire ou un notaire honoraire désigné sur une liste établie pour l'ensemble du ressort de la cour d'appel par
+le premier président, sur proposition du conseil régional des notaires.
+
+Il peut également, à titre exceptionnel, désigner une personne qui lui paraîtrait qualifiée pour l'éclairer en cas de
+difficultés d'ordre technique portant sur la détermination du montant des indemnités autres que celles mentionnées à l'alinéa
+qui précède.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 33
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 33 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-29 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-31 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-58 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R15-4 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R15-8 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R322-1 (V)
 
 
 ###### Article **R13-29
@@ -6413,6 +7079,161 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de l'expropriation pour cause d'utilité publique - art. R13-28
+
+
+###### Article **R13-32
+
+A peine d'irrecevabilité, le commissaire du Gouvernement notifie ses conclusions aux parties à l'instance par lettre
+recommandée avec demande d'avis de réception, au moins huit jours avant la visite des lieux. 
+
+Les conclusions du commissaire du Gouvernement contiennent les éléments nécessaires à l'information de la juridiction. Elles
+comportent notamment les références de tous les termes de comparaison issus des actes de mutation sélectionnés sur lesquels
+il s'est fondé pour retenir l'évaluation qu'il propose, ainsi que toute indication sur les raisons pour lesquelles les
+éléments non pertinents ont été écartés. 
+
+Elles comportent également une évaluation motivée des indemnités principales et, le cas échéant, des indemnités accessoires
+revenant à chaque titulaire de droits, ainsi que, s'il y a lieu, les renseignements permettant l'application d'office des
+dispositions des articles L. 13-14 à L. 13-19.
+
+Les parties peuvent répondre aux conclusions du commissaire du Gouvernement, par note écrite dans les formes prévues au
+premier alinéa, jusqu'au jour de l'audience. 
+
+A l'audience, le commissaire du Gouvernement est entendu à sa demande en ses observations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 37
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 34 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-5 (M)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L13-14 (VT)
+
+
+###### Article **R13-34
+
+Si, à l'expiration d'un délai de huit jours à compter du transport sur les lieux, l'expropriant et l'exproprié sont toujours
+en désaccord sur les conditions de l'indemnisation, le juge, à la demande de la partie la plus diligente, se prononce par un
+jugement motivé.
+
+Le greffier notifie aux intéressés le jour et l'heure auxquels le juge donnera lecture du jugement au siège du tribunal, à
+moins q'ils n'aient été fixés au cours de l'audience publique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 39
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-5 (M)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L15-4 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R15-8 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-21 (V)
+
+
+###### Article **R13-35
+
+Le juge statue dans la limite des conclusions des parties, telles qu'elles résultent de leurs mémoires et de celles du
+commissaire du Gouvernement si celui-ci propose une évaluation inférieure à celle de l'expropriant. 
+
+Si le défendeur n'a pas notifié son mémoire en réponse au demandeur dans le délai de six semaines prévu à l'article **R.
+13-23, il est réputé s'en tenir à ses offres, s'il s'agit de l'expropriant, et à sa réponse aux offres, s'il s'agit de
+l'exproprié. 
+
+Si l'exproprié s'est abstenu de répondre aux offres de l'administration et de produire un mémoire en réponse, le juge fixe
+l'indemnité d'après les éléments dont il dispose.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 40
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 36 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-23 (VT)
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-53 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-22 (V)
+
+
+###### Article **R13-36
+
+Le jugement précise les motifs de droit ou de fait en raison desquels chacune des indemnités principales ou accessoires est
+allouée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 41
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 37 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R15-7 (VT)
 
 
 ###### Article **R13-37
@@ -6574,94 +7395,14 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-30 (V)
 
 
-###### Article R13-15
-
-La notification prévue au premier alinéa de l'article L. 13-2 est faite conformément aux dispositions du premier alinéa de
-l'article R. 13-41. Elle doit reproduire en caractères apparents les dispositions du deuxième alinéa de l'article L. 13-2
-*mentions obligatoires*.
-
-La publicité collective mentionnée au troisième alinéa de l'articl L. 13-2 comporte un avis publié à la diligence de
-l'expropriant par voie d'affiche et éventuellement par tous autres procédés dans chacune des communes désignées par le
-préfet, sans que cette formalité soit limitée nécessairement aux communes où ont lieu les opérations. L'accomplissement de
-cette mesure de publicité est certifiée par le maire. Cet avis est en outre inséré dans un des journaux publiés dans le
-département. Il doit préciser, en caractère apparents, que les personnes intéressées autres que le propriétaire,
-l'usufruitier, les fermiers, les locataires, ceux qui ont des droits d'emphythéose, d'habitation ou d'usage et ceux qui
-peuvent réclamer des servitudes sont tenues de se faire connaître à l'expropriant dans un délai de huit jours, à défaut de
-quoi elles seront, en vertu des dispositions finales du troisième alinéa de l'article L. 13-2, déchues de tous droits à
-l'indemnité.
-
-La notification et la publicité mentionnées aux deux alinéas qui précèdent peuvent être faites en même temps que celles
-prévues à la section I ou à la section II du chapitre 1er.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 20 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°83-630 1983-07-12
-  - SPEC_APPLI: Décret n°85-453 1985-04-23 art. 43 : application dans le temps
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Modifié par_:
-
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-2 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-41 (V)
-
-
-###### Article R13-17
-
-Les notifications des offres sont faites à chacun des intéressés susceptibles d'obtenir une indemnisation.
-
-Elles précisent, en les distinguant, l'indemnité principale, le cas échéant, les offres en nature et chacune des indemnités
-accessoires, ainsi que, si l'expropriant est tenu au relogement, la commune dans laquelle est situé le local offert. Les
-notifications invitent en outre les personnes auxquelles elles sont faites à faire connaître par écrit à l'expropriant, dans
-un délai de quinze jours à dater de la notification, soit leur acceptation, soit le montant détaillé de leurs demandes. Elles
-reproduisent en caractères apparents les dispositions de l'article R. 13-21 *conditions de forme, mentions obligatoires*.
-
-La réponse de chaque intéressé doit contenir ses nom, prénoms, domicile, date et lieu de naissance, ainsi que le titre auquel
-il est susceptible de bénéficier d'une indemnité, et, pour chaque personne morale, toutes indications propres à l'identifier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 22 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-21 (M)
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-24 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R15-3 (VT)
-  - Code de la santé publique - art. R3335-4 (VD)
-
-
 ###### Article R13-21
 
 A défaut d'accord amiable dans le délai d'un mois à partir de la notification des offres de l'expropriant ou de la mise en
-demeure prévue à l'article précédent, le juge de l'expropriation peut être saisi par la partie la plus diligente dans les
-conditions prévues à l'article L. 13-4.
+demeure prévue à l'article précédent, le juge de l'expropriation peut être saisi par la partie la plus diligente.
 
-La demande est adressée au secrétariat de la juridiction du département dans lequel sont situés les biens à exproprier. Une
-copie, en double exemplaire, du mémoire du demandeur est jointe à cette demande, qui est simultanément notifiée à la partie
-adverse.
+La demande est adressée par lettre recommandée avec demande d'avis de réception au greffe de la juridiction du ressort dans
+lequel sont situés les biens à exproprier. Une copie, en double exemplaire, du mémoire du demandeur est jointe à cette
+demande, qui est simultanément notifiée à la partie adverse.
 
 **Liens relatifs à cet article**
 
@@ -6673,10 +7414,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
 
 _Cité par_:
 
@@ -6691,179 +7428,24 @@ _Cité par_:
   - Code de la santé publique - art. R3335-4 (VD)
   - Code du patrimoine - art. R621-9 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-4 (M)
+  - Décret n°2005-467 du 13 mai 2005 - art. 30 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
+_Abrogé par_:
 
-###### Article R13-23
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
-Le défendeur dispose d'un délai d'un mois à compter de la notification du mémoire du demandeur pour adresser à celui-ci son
-mémoire en réponse.
+_Nouveaux textes_:
 
-Faute par l'exproprié d'avoir notifié son mémoire dans ledit délai, sa réponse à l'offre de l'expropriant est réputée en
-tenir lieu.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 27
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-35 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-22 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-26 (VT)
-
-
-###### Article R13-24
-
-Copies des mémoires et, le cas échéant, des documents qu'elle entend produire sont adressées par chacune des parties en
-double exemplaire au secrétariat de la juridiction.
-
-L'expropriant peut joindre à son mémoire des copies certifiées conformes de l'offre mentionnée à l'article R. 13-17 et, le
-cas échéant, de la réponse faite par l'exproprié à cette offre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 28 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-17 (M)
-
-
-###### Article R13-26
-
-Dans les huit jours qui suivent la réception par le juge de la demande prévue par l'article R. 13-21, le juge fixe, par
-ordonnance, la date de la visite des lieux et de l'audition des parties.
-
-La visite des lieux est faite par le juge dans les deux mois de cette ordonnance, mais postérieurement à l'expiration du
-délai d'un mois fixé à l'article R. 13-23.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 31 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-21 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-23 (M)
-
-
-###### Article R13-27
-
-Copie de l'ordonnance fixant les jour et heure du transport sur les lieux est transmise par le secrétaire de la juridiction à
-l'expropriant, en vue de sa notification aux intéressés ainsi qu'au commissaire du Gouvernement.
-
-Si le juge est saisi par l'exproprié, les parties sont avisées directement par le secrétaire de la date du transport sur les
-lieux.
-
-Le secrétaire joint à la notification faite au commissaire du Gouvernement une copie des mémoires et des documents en sa
-possession.
-
-Les parties et le commissaire du Gouvernement doivent être avisés quinze jours au moins à l'avance de la date de transport
-sur les lieux.
-
-La visite des lieux est faite en leur présence. Il est établi un procès-verbal des opérations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 32 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-
-###### Article R13-28
-
-Le juge ne peut pas désigner d'expert.
-
-En vue de la détermination de la valeur d'immeubles et d'éléments immobiliers non transférables présentant des difficultés
-particulières d'évaluation, il peut exceptionnellement se faire assister, lors de la visite des lieux, par un notaire ou un
-notaire honoraire désigné sur une liste établie pour l'ensemble du ressort de la cour d'appel par le premier président, sur
-proposition du conseil régional des notaires.
-
-Il peut également, à titre exceptionnel, désigner une personne qui lui paraîtrait qualifiée pour l'éclairer en cas de
-difficultés d'ordre technique portant sur la détermination du montant des indemnités autres que celles mentionnées à l'alinéa
-qui précède.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 33 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cité par_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-29 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-31 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R15-4 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R15-8 (VT)
-
-
-###### Article R13-32
-
-Le commissaire du Gouvernement est entendu en ses observations et dépose ses conclusions.
-
-Les conclusions du commissaire du Gouvernement contiennent les éléments nécessaires à l'information de la juridiction.
-
-Elles comportent notamment une évaluation motivée des indemnités principales et, le cas échéant, des indemnités accessoires
-revenant à chaque titulaire de droits, ainsi que, s'il y a lieu, les renseignements permettant l'application d'office des
-dispositions des articles L. 13-14 à L. 13-19.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 37 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-5 (M)
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité publique L13-14 à L13-19
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-9 (V)
 
 
 ###### Article R13-33
 
-Si l'une des parties s'est trouvée dans l'impossibilité de produire, à l'appui de ses mémoires, certaines pièces ou certains
-documents, le juge peut, s'il l'estime nécessaire à la solution de l'affaire, l'autoriser sur sa demande à produire à
-l'audience ces pièces et documents.
+Si l'une des parties ou le commissaire du Gouvernement s'est trouvé dans l'impossibilité de produire, à l'appui de ses
+mémoires ou de ses conclusions, certaines pièces ou documents, le juge peut, s'il l'estime nécessaire à la solution de
+l'affaire, l'autoriser sur sa demande à produire à l'audience ces pièces et documents.
 
 **Liens relatifs à cet article**
 
@@ -6875,103 +7457,74 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
 
-###### Article R13-34
+  - Décret n°2005-467 du 13 mai 2005 - art. 35 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
-Si, à l'expiration d'un délai de huit jours à compter du transport sur les lieux, l'expropriant et l'exproprié sont toujours
-en désaccord sur les conditions de l'indemnisation, le juge, à la demande de la partie la plus diligente, se prononce par un
-jugement motivé.
+_Abrogé par_:
 
-Le secrétaire notifie aux intéressés le jour et l'heure auxquels le juge donnera lecture du jugement au siège du tribunal, à
-moins q'ils n'aient été fixés au cours de l'audience publique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 39 (Décret 72-684 1972-07-20)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 _Cité par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-5 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L15-4 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-53 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-19 (V)
 
 
-###### Article R13-35
+###### Article R13-40-1
 
-Le juge statue dans la limite des conclusions des parties, telles qu'elles résultent de leurs mémoires et de celles du
-commissaire du Gouvernement si celui-ci propose une évaluation inférieure à celle de l'expropriant. En ce cas, les
-conclusions écrites du commissaire du Gouvernement sont obligatoirement annexées au dossier.
-
-Si le défendeur n'a pas notifié son mémoire en réponse au demandeur dans le délai d'un mois prévu à l'article R. 13-23, il
-est réputé s'en tenir à ses offres, s'il s'agit de l'expropriant, et à sa réponse aux offres, s'il s'agit de l'exproprié.
-
-Si l'exproprié s'est abstenu de répondre aux offres de l'administration et de produire un mémoire en réponse, le juge fixe
-l'indemnité d'après les éléments dont il dispose.
+Les demandes d'emprise totale d'un bien partiellement exproprié prévues par les articles L. 13-10 et L. 13-11 (1°), ainsi que
+la demande d'indemnisation mentionnée à l'article L. 13-11 (2°), sont exercées dans un délai d'un mois à compter de la
+notification prévue à l'article L. 13-3.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 40 (Décret 66-776 1966-10-11 art. 1)
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 38 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R242-1 (V)
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-23 (M)
-
-
-###### Article R13-36
-
-Le jugement précise notamment les motifs de droit ou de fait en raison desquels chaucune des indemnités principales ou
-accessoires est allouée. Si le jugement écarte les conclusions du commissaire du Gouvernement proposant une évaluation
-inférieure à celle de l'expropriant, il doit indiquer spécialement les motifs de ce rejet.
-
-La lecture du jugement peut être faite par le juge en l'absence du commissaire du Gouvernement.
-
-Le jugement est notifié par la partie la plus diligente à l'autre partie et au commissaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 41 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-10
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-3
 
 
 ###### Article R13-42
 
-La notification ou signification des jugements et arrêts comporte au moins les motifs et le dispositif intéressant l'ensemble
-des parties et ceux intéressant chacune des parties à laquelle elle est faite. Celle des jugements doit reproduire les
-dispositions de l'article R. 13-47 ainsi que celles du premier alinéa de l'article R. 13-49 *mentions obligatoires*.
+La notification des jugements et arrêts aux parties et au commissaire du Gouvernement se fait conformément aux dispositions
+des articles 675 et suivants du nouveau code de procédure civile.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 62 (Décret 72-788 1972-10-28 art. 185 III)
+  - Décret n°59-1335 1959-11-20 art. 62
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-47 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-49 (M)
+  - Décret n°2005-467 du 13 mai 2005 - art. 39 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
-#### Section 3 : Fixation des indemnités.<a id=42></a>
+#### Section 3 : Fixation des indemnités.<a id=44></a>
 
 ###### Article **R13-45
 
@@ -7034,37 +7587,36 @@ _Nouveaux textes_:
 
 ###### Article R13-43
 
-Pour l'application de l'article L. 13-17 (premier alinéa) [*calcul indemnité principale*] et pour tenir compte des
-modifications mentionnées au deuxième alinéa dudit article, l'évaluation retenue lors de la mutation [*récente*] de référence
-est majorée, s'il y a lieu, aux fins d'être comparée à l'estimation faite par les services fiscaux (domaine) ou à celle
-résultant de l'avis de la commission des opérations immobilières.
+Pour l'application de l'article L. 13-17 (premier alinéa) et pour tenir compte des modifications mentionnées au deuxième
+alinéa dudit article, l'évaluation retenue lors de la mutation de référence est majorée, s'il y a lieu, aux fins d'être
+comparée à l'estimation faite par les services fiscaux (domaine).
 
 Lorsque les modifications visées à l'alinéa qui précède ont affecté la consistance ou l'état matériel des biens et leur ont
 conféré une plus-value, la majoration applicable à l'évaluation retenue lors de la mutation de référence est égale soit au
 coût des travaux, soit au montant de la plus-value si celle-ci est supérieure au coût des travaux.
 
 Les modifications survenues dans la consistance matérielle ou juridique, l'état ou la situation d'occupation des biens ainsi
-que, s'il y a lieu, le coût des travaux peuvent être établis par tous moyens de preuve.
+que, s'il y a lieu, le coût des travaux peuvent être établies par tous moyens de preuve.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 30 I (Décret 66-776 1966-10-11 art. 1)
+  - Décret n°59-1335 1959-11-20 art. 30 I
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
 
 _Cité par_:
 
   - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-44 (M)
   - Code de l'environnement - art. R331-59 (VT)
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 40 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 _Cite_:
 
@@ -7073,11 +7625,10 @@ _Cite_:
 
 ###### Article R13-44
 
-Lorsque l'expropriation porte sur la totalité des biens ayant fait l'objet de la mutation [*récente*] de référence,
-l'indemnité principale [*calcul*] ne peut excéder l'estimation faite par les services fiscaux (domaine), ou celle résultant
-de l'avis émis par la commission des opérations immobilières si la mutation visée à l'article L. 13-17 a donné lieu à une
-déclaration ou à une évaluation administrative, réévaluée, le cas échéant, dans les conditions prévues à l'article R. 13-43,
-d'un montant inférieur à ladite estimation.
+Lorsque l'expropriation porte sur la totalité des biens ayant fait l'objet de la mutation de référence, l'indemnité
+principale ne peut excéder l'estimation faite par les services fiscaux (domaine), si la mutation visée à l'article L. 13-17 a
+donné lieu à une déclaration ou à une évaluation administrative, réévaluée, le cas échéant, dans les conditions prévues à
+l'article R. 13-43, d'un montant inférieur à ladite estimation.
 
 Il en est de même lorsque, l'expropriation ne portant que sur une partie des biens ayant fait l'objet de la mutation de
 référence, cette estimation est supérieure à l'évaluation donnée à la totalité des biens lors de ladite mutation ou à
@@ -7087,19 +7638,15 @@ l'évaluation administrative des mêmes biens rendue définitive en vertu des lo
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 30 II (Décret 66-776 1966-10-11 art. 1)
+  - Décret n°59-1335 1959-11-20 art. 30 II
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
+  - Décret n°2005-467 du 13 mai 2005 - art. 41 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 _Cite_:
 
@@ -7111,7 +7658,46 @@ _Cité par_:
   - Code de la santé publique - art. R3335-4 (VD)
 
 
-#### Section 4 : Voies de recours.<a id=43></a>
+#### Section 4 : Voies de recours.<a id=45></a>
+
+###### Article **R13-47
+
+Les décisions rendues en première instance ne sont pas susceptibles d'opposition.
+
+L'appel est interjeté par les parties ou par le commissaire du Gouvernement dans le délai d'un mois à compter de la
+notification du jugement, par acte extrajudiciaire ou par déclaration faite ou adressée par pli recommandé, au greffe de la
+cour.
+
+L'acte d'appel formé par l'exproprié doit comporter élection de domicile dans le ressort de la cour d'appel. Il est
+accompagné d'une copie de la décision.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 54
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 42 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-12 (Ab)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-42 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-24 (V)
+
 
 ###### Article **R13-50
 
@@ -7130,6 +7716,32 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+
+###### Article **R13-51
+
+Les parties et le commissaire du Gouvernement sont convoqués à l'audience par le greffier.
+
+Les parties peuvent se faire assister ou représenter par un avocat régulièrement inscrit, par un avoué près la cour d'appel
+ou par un parent ou allié, jusqu'au sixième degré, muni d'un pouvoir régulier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 58
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-39 (VT)
 
 
 ###### Article **R13-53
@@ -7162,46 +7774,16 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-29 (V)
 
 
-###### Article R13-47
-
-L'appel est interjeté par les parties ou par le commissaire du Gouvernement dans le délai de quinze jours à compter de la
-notification du jugement, par acte extrajudiciaire ou par déclaration faite ou adressée par pli recommandé, au greffe de la
-cour.
-
-L'acte d'appel formé par l'exproprié doit comporter élection de domicile dans le ressort de la cour d'appel. Il est
-accompagné d'une copie de la décision.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 54 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 30 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-12 (Ab)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-42 (M)
-
-
 ###### Article R13-48
 
-Dès qu'il en est saisi, le secrétaire notifie l'appel à chaque intimé et au commissaire du Gouvernement, par lettre
-recommandée avec demande d'avis de réception. Si l'appel est interjeté par le commissaire du Gouvernement, la notification en
-est faite aux parties.
+Il est fait application des dispositions de l'article 936 du nouveau code de procédure civile aux parties et au commissaire
+du Gouvernement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 55 (Décret 66-776 1966-10-11 art. 1)
+  - Décret n°59-1335 1959-11-20 art. 55
 
 _Codifié par_:
 
@@ -7209,90 +7791,89 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 31 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-467 du 13 mai 2005 - art. 43 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
 ###### Article R13-49
 
-L'appelant doit, à peine de déchéance, déposer ou adresser son mémoire et les documents qu'il entend produire au secrétariat
-de la chambre dans un délai de deux mois à dater de l'appel.
+L'appelant doit, à peine de déchéance, déposer ou adresser son mémoire et les documents qu'il entend produire au greffe de la
+chambre dans un délai de deux mois à dater de l'appel.
 
-L'intimé doit déposer ou adresser son mémoire en réponse et les documents qu'il entend produire au secrétariat de la chambre
-dans le mois de la notification du mémoire de l'appelant.
+A peine d'irrecevabilité, l'intimé doit déposer ou adresser son mémoire en réponse et les documents qu'il entend produire au
+greffe de la chambre dans le mois de la notification du mémoire de l'appelant.
+
+Le commissaire du Gouvernement doit dans les mêmes conditions et à peine d'irrecevabilité déposer ses conclusions et
+l'ensemble des pièces sur lesquelles il fonde son évaluation dans les mêmes délais.
 
 Les mémoires et les documents doivent être produits en autant d'exemplaires qu'il y a de parties plus un.
 
-Le secrétaire notifie à chaque intéressé et au commissaire du Gouvernement, dès leur réception, une copie des pièces
-transmises au secrétariat.
+Le greffe notifie à chaque intéressé et au commissaire du Gouvernement, dès leur réception, une copie des pièces transmises
+au greffe.
 
-Appel incident peut être formé par les parties dans leur mémoire en réponse ou par déclaration faite au secrétariat de la
-chambre. S'il émane du commissaire du Gouvernement, il est fait dans cette dernière forme.
+Appel incident peut être formé par les parties ou le commissaire du Gouvernement dans leur mémoire en réponse ou par
+déclaration faite au greffe de la chambre.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 56 (Décret 72-788 1972-08-28 art. 185 I)
+  - Décret n°59-1335 1959-11-20 art. 56
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977 rectificatif JORF 29 juin 1977
+  - Décret n°2005-467 du 13 mai 2005 - art. 44 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 _Cité par_:
 
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-42 (M)
 
+_Nouveaux textes_:
 
-###### Article R13-51
-
-Les parties et le commissaire du Gouvernement sont convoqués à l'audience par le secrétaire.
-
-Les parties peuvent se faire assister ou représenter par un avocat régulièrement inscrit, par un avoué près la cour d'appel
-ou par un parent ou allié, jusqu'au sixième degré, muni d'un pouvoir régulier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 58 (Décret 66-776 1966-10-11 art. 1)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cité par_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-39 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-26 (V)
 
 
 ###### Article R13-52
 
-La chambre [*appel*] statue sur mémoires. Les parties peuvent toutefois développer brièvement les éléments des mémoires
-qu'elles ont présentés.
+La chambre statue sur mémoires. Les parties et le commissaire du Gouvernement peuvent toutefois développer les éléments des
+mémoires ou des conclusions qu'elles ont présentés.
 
-Il peut être exceptionnellement procédé à une expertise sur arrêt motivé de la cour. Dans ce cas, et si l'expropriant et les
-expropriés ne se mettent pas d'accord sur le choix d'un expert unique, celui-ci est désigné par le président de la chambre.
+Il peut être procédé à une expertise sur arrêt motivé de la cour. Dans ce cas, et si l'expropriant et les expropriés ne se
+mettent pas d'accord sur le choix d'un expert unique, celui-ci est désigné par le président de la chambre.
+
+L'arrêt est notifié à la requête de la partie la plus diligente.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 59 (Décret 73-1122 1973-12-17 art. 182)
+  - Décret n°59-1335 1959-11-20 art. 59
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
 
-#### Section 5 : Frais et dépens.<a id=44></a>
+  - Décret n°2005-467 du 13 mai 2005 - art. 45 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-28 (V)
+
+
+#### Section 5 : Frais et dépens.<a id=46></a>
 
 ###### Article **R13-55
 
@@ -7320,6 +7901,46 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R312-3 (V)
+
+
+###### Article **R13-56
+
+Il est alloué aux huissiers de justice, pour les déplacements accomplis à l'occasion des procédures d'expropriation pour
+cause d'utilité publique, des indemnités égales à celles fixées par leur tarif en matière civile et commerciale. 
+
+Les frais de déplacement engagés par les greffiers en chef sont remboursés dans les conditions prévues par le décret n°
+67-902 du 12 octobre 1967 fixant les redevances des greffes des juridictions civiles et pénales perçues au profit du Trésor
+public.
+
+**Nota:**
+
+Le décret n° 67-902 du 12 octobre 1967 a été abrogé par l'article 8 du décret n° 78-62 du 20 juin 1978.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°60-267 1960-03-28 art. 3
+
+_Cite_:
+
+  - Décret n°67-902 du 12 octobre 1967
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R312-4 (V)
 
 
 ###### Article **R13-57
@@ -7426,6 +8047,35 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R312-7 (V)
 
 
+###### Article **R13-60
+
+Sont également acquittées à titre d'avance par le receveur des impôts, les indemnités de déplacement et de séjour allouées au
+juge de l'expropriation et au greffier ; le paiement est fait sur un état certifié et signé par le juge de l'expropriation,
+indiquant le nombre de journées employées au transport et le nombre de kilomètres parcourus.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°60-267 1960-03-28 art. 9
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R312-8 (V)
+
+
 ###### Article **R13-61
 
 L'administration des impôts se fait, s'il y a lieu, rembourser de ses avances, qui sont comprises dans la taxe des frais, par
@@ -7452,52 +8102,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R312-9 (V)
 
 
-###### Article R13-56
-
-Il est alloué aux huissiers de justice, pour les déplacements accomplis à l'occasion des procédures d'expropriation pour
-cause d'utilité publique, des indemnités égales à celles fixées par leur tarif en matière civile et commerciale.
-
-Les frais de déplacement engagés par les secrétaires greffiers en chef sont remboursés dans les conditions prévues par le
-décret n° 67-902 du 12 octobre 1967 fixant les redevances des greffes des juridictions civiles et pénales perçues au profit
-du trésor public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-267 1960-03-28 art. 3
-
-_Cite_:
-
-  - Décret n°67-902 1967-10-12
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-
-###### Article R13-60
-
-Sont également acquittées à titre d'avance par le receveur des impôts, les indemnités de déplacement et de séjour allouées au
-juge de l'expropriation et au secrétaire ; le paiement est fait sur un état certifié et signé par le juge de l'expropriation,
-indiquant le nombre de journées employées au transport et le nombre de kilomètres parcourus.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-267 1960-03-28 art. 9
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-
-#### Section 6 : Paiement et consignation.<a id=45></a>
+#### Section 6 : Paiement et consignation.<a id=47></a>
 
 ###### Article **R13-62
 
@@ -7597,6 +8202,77 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R323-3 (V)
+
+
+###### Article **R13-65
+
+Dans tous les cas d'obstacles au paiement, l'expropriant peut, sous réserve des articles **R. 13-67 et **R. 13-69 à **R.
+13-73, prendre possession en consignant le montant de l'indemnité. 
+
+Il en est ainsi notamment : 
+
+1° Lorsque les justifications mentionnées aux articles **R. 13-62 et **R. 13-63 ne sont pas produites ou sont jugées
+insuffisantes par l'expropriant ; 
+
+2° Lorsque le droit du réclamant est contesté par des tiers ou par l'expropriant ; 
+
+3° Lorsque l'indemnité a été fixée d'une manière hypothétique ou alternative, spécialement dans le cas de l'article L.
+13-20 ; 
+
+4° Lorsque sont révélées des inscriptions de privilèges, d'hypothèques ou d'un nantissement grevant le bien exproprié du chef
+du propriétaire et, le cas échéant, des précédents propriétaires désignés par l'expropriant dans sa réquisition ; 
+
+5° Lorsqu'il existe des oppositions à paiement ; 
+
+6° Lorsque, dans le cas où l'expropriant est tenu de surveiller le remploi de l'indemnité, il n'est pas justifie dudit
+remploi ; 
+
+7° Lorsqu'il n'est pas justifié soit de la réalisation de la caution mentionnée à l'article L. 13-7, acceptée par le nu-
+propriétaire ou jugée suffisante par une décision de justice opposable à ce dernier, soit de la renonciation expresse du nu-
+propriétaire au bénéfice de la caution prévue dans son intérêt ; 
+
+8° Lorsque, l'exproprié n'ayant pas capacité de recevoir le paiement, ce dernier n'est pas réclamé par son représentant légal
+justifiant de sa qualité ; 
+
+9° Lorsque, l'exproprié étant décédé après l'ordonnance d'expropriation ou l'accord amiable, les ayants droit ne peuvent
+justifier de leur qualité ; 
+
+10° Lorsque l'exproprié refuse de recevoir l'indemnité fixée à son profit.
+
+**Nota:**
+
+L'article **R. 13-73 du code de l'expropriation pour cause d'utilité publique a été abrogé par l'article 56 du décret n°
+2005-467 du 13 mai 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-164 1961-02-13 art. 4
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 46 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-62 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-67 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-69 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-20 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-7 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R323-8 (V)
 
 
 ###### Article **R13-66
@@ -7889,143 +8565,16 @@ _Abrogé par_:
   - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 
-###### Article R13-65
+###### Article **R13-78
 
-Dans tous les cas d'obstacles au paiement, l'expropriant peut, sous réserve des articles R.13-67 et R. 13-69 à R. 13-73,
-prendre possession en consignant le montant de l'indemnité.
-
-Il en est ainsi notamment :
-
-1° Lorsque les justifications mentionnées aux articles R. 13-62 et R. 13-63 ne sont pas produites ou sont jugées
-insuffisantes par l'expropriant ;
-
-2° Lorsque le droit du réclamant est contesté par des tiers ou par l'expropriant ;
-
-3° Lorsque l'indemnité a été fixée d'une manière hypothétique ou alternative, spécialement dans le cas de l'article L.
-13-20 ;
-
-4° Lorsque sont révélées des inscriptions de privilèges, d'hypothèques ou d'un nantissement grevant le bien exproprié du chef
-du propriétaire et, le cas échéant, des précédents propriétaires désignés par l'expropriant dans sa réquisition ;
-
-5° Lorsqu'il existe des oppositions à paiement ;
-
-6° Lorsque, dans le cas où l'expropriant est tenu de surveiller le remploi de l'indemnité, il n'est pas justifie dudit
-remploi ;
-
-7° Lorsque, dans le cas de pourvoi en cassation émanant soit de l'expropriant, soit de l'exproprié contre l'ordonnance
-d'expropriation ou contre l'arrêt fixant le montant de l'indemnité, la caution prévue par le décret des 16 et 19 juillet
-1793, n'a pas été produite ;
-
-8° Lorsqu'il n'est pas justifié soit de la réalisation de la caution mentionnée à l'article L. 13-7, acceptée par le nu-
-propriétaire ou jugée suffisante par une décision de justice opposable à ce dernier, soit de la renonciation expresse du nu-
-propriétaire au bénéfice de la caution prévue dans son intérêt ;
-
-9° Lorsque, l'exproprié n'ayant pas la capacité de recevoir le paiement, ce dernier n'est pas réclamé par son représentant
-légal justifiant de sa qualité ;
-
-10° Lorsque, l'exproprié étant décédé après l'ordonnance d'expropriation ou l'accord amiable, les ayants droits ne peuvent
-justifier de leur qualité.
-
-11° Lorsque, l'exproprié refuse de recevoir l'indemnité fixée à son profit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret  1793-07-16 1793-07-19
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-20 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-7 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-62 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-63 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-67 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLIQUE R13-67, R13-69 à R13-73, R13-62, R13-63, L13-20, L13-7
-
-_Anciens textes_:
-
-  - Décret n°61-164 1961-02-13 art. 4
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-
-###### Article R13-70
-
-Lorsque l'indemnité d'expropriation est allouée à une femme mariée, la production du contrat de mariage ainsi que, le cas
-échéant, la justification du remploi de l'indemnité ne sont exigées que si le montant de l'indemnité est supérieur à 1 500
-euros.
-
-Si le mariage n'a été précédé d'aucun contrat, il est justifié de cette circonstance par un extrait certifié conforme du
-livret de famille ou par une attestation de la mairie où le mariage a été célébré ou par une fiche d'état civil établie en
-application du décret n° 53-914 du 26 septembre 1953.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
-  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-_Cite_:
-
-  - Décret n°53-914 1953-09-26
-
-_Anciens textes_:
-
-  - Décret n°61-164 1961-02-13 art. 9
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Modifié par_:
-
-  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
-###### Article R13-73
-
-Lorsque l'expropriant décide de prendre possession postérieurement à un pourvoi en cassation contre l'arrêt fixant le montant
-de l'indemnité et que le paiement de l'indemnité est subordonné à la réalisation de la caution prévue par le décret des 16 et
-19 juillet 1793, la caution n'est exigée qu'à concurrence de la fraction de l'indemnité excédant l'offre faite par
-l'expropriant devant le juge de l'expropriation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret  1793-07-16 et 1793-07-19
-
-_Anciens textes_:
-
-  - Décret n°61-164 1961-02-13 art. 12
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
-###### Article R13-78
-
-Si dans un délai de trois mois à partir de la signification de la décision définitive fixant le montant de l'indemnité celle-
-ci n'a pas été intégralement payée ou consignée, l'exproprié a droit, sur demande adressée par pli recommandé [*conditions de
-forme*] à l'expropriant, au paiement d'intérêts. Ces intérêts sont calculés au taux légal en matière civile sur le montant
-définitif de l'indemnité, déduction faite, le cas échéant, des sommes déjà payées ou consignées, à compter du jour de la
-demande jusqu'au jour du paiement ou de la consignation.
+Si, dans un délai de trois mois à partir de la signification de la décision définitive fixant le montant de l'indemnité ou de
+la signature de l'acte authentique de cession amiable, l'indemnité n'a pas été intégralement payée ou consignée, l'exproprié
+a droit, sur demande adressée par pli recommandé à l'expropriant, au paiement d'intérêts. Ces intérêts sont calculés au taux
+légal en matière civile sur le montant définitif de l'indemnité, déduction faite, le cas échéant, des sommes déjà payées ou
+consignées, à compter du jour de la demande jusqu'au jour du paiement ou de la consignation. 
 
 Lorsque, en application de l'article L. 13-9, il a été statué à nouveau, de façon définitive, sur le montant de l'indemnité,
-ces intérêts sont calculés à compter du jour de la revalorisation sur la base de la nouvelle indemnité.
+ces intérêts sont calculés à compter du jour de la revalorisation sur la base de la nouvelle indemnité. 
 
 Lorsque l'ordonnance d'expropriation intervient postérieurement à la décision définitive fixant le montant de l'indemnité, le
 délai de trois mois fixé au premier alinéa du présent article court de la date de l'ordonnance d'expropriation ou, si celle-
@@ -8041,12 +8590,24 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 47 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-9 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-9 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R323-14 (V)
 
 
-### CHAPITRE IV : Relogement des expropriés.<a id=46></a>
+### CHAPITRE IV : Relogement des expropriés.<a id=48></a>
 
 ###### Article R14-1
 
@@ -8252,13 +8813,13 @@ _Codifié par_:
 
 La convention prévue aux articles ci-dessus détermine le régime de propriété des locaux de relogement, les conditions dans
 lesquelles seront assurés leur gestion et leur entretien et, éventuellement, les modalités du remboursement à
-l'administration expropriante des sommes apportées par elle.
+l'administration expropriante des sommes apportées par elle. 
 
 La convention peut réserver à l'administration expropriante la disposition des locaux qui deviendraient libres
-ultérieurement.
+ultérieurement. 
 
-Le taux des loyers est fixé, suivant les caractéristiques des locaux, dans les conditions prévues à l'article 216 du code de
-l'urbanisme et de l'habitation.
+Le taux des loyers est fixé, suivant les caractéristiques des locaux, dans les conditions prévues aux articles L. 442-1, L.
+442-1-1 et R. 442-2 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -8270,10 +8831,22 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 48 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
 _Cite_:
 
-  - Code de l'urbanisme 216
-  - Code de l'expropriation pour cause d'utilité publique R14-4 R14-7
+  - Code de la construction et de l'habitation. - art. L442-1
+  - Code de la construction et de l'habitation. - art. R442-2
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R423-7 (V)
 
 
 ###### Article R14-9
@@ -8328,9 +8901,63 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R423-9 (V)
 
 
-### CHAPITRE V : Prise de possession<a id=47></a>
+###### Article R14-11
 
-#### Section 2 : Procédure d'urgence.<a id=48></a>
+Les contestations relatives au relogement des locataires ou occupants de locaux d'habitation ou à usage professionnel, en
+application du présent chapitre, sont de la compétence du juge de l'expropriation statuant dans la forme des référés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 49 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R423-10 (V)
+
+
+### CHAPITRE V : Prise de possession<a id=49></a>
+
+#### Section 1 : Règles générales.<a id=50></a>
+
+###### Article R15-1
+
+Sauf dans les cas où cette décision relève de la compétence du juge administratif, l'expulsion prévue à l'article L. 15-1 est
+ordonnée par le juge de l'expropriation statuant dans la forme des référés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Cité par_:
+
+  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 50 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-1 (VT)
+
+
+#### Section 2 : Procédure d'urgence.<a id=51></a>
 
 ###### Article **R15-3
 
@@ -8360,6 +8987,44 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de l'expropriation pour cause d'utilité publique - art. R13-17
+
+
+###### Article **R15-4
+
+Le délai fixé à l'article **R. 13-26 pour le transport sur les lieux est réduit à un mois. 
+
+Les parties, le commissaire du Gouvernement et, le cas échéant, les personnes désignées en application de l'article **R.
+13-28 sont directement convoqués par le greffier au transport sur les lieux huit jours au moins à l'avance. 
+
+Lors de la visite sur les lieux, les intéressés sont appelés à présenter leurs observations sur l'état des lieux qui a été
+préalablement dressé par le directeur départemental des services fiscaux.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 49
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 55 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-26 (VT)
+  - Code de l'expropriation pour cause d'utilité publique - art. R13-28
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R232-4 (V)
 
 
 ###### Article **R15-5
@@ -8447,7 +9112,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R232-7 (V)
 
 
-###### Article R15-1
+###### Article R15-2
 
 Lorsqu'il y a urgence à prendre possession des biens expropriés, cette urgence est constatée par l'acte déclarant l'utilité
 publique ou par un acte postérieur de même nature.
@@ -8457,83 +9122,71 @@ ci-après.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 46
-
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-393 du 28 mars 1977
 
-_Cité par_:
-
-  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
-
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-467 du 13 mai 2005 - art. 50 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Anciens textes_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R15-1 (T)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R15-1 (VT)
+
 _Nouveaux textes_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R15-2 (T)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R15-2-1 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R232-1 (V)
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité publique R12-1 à R13-78
+  - Code de l'expropriation pour cause d'utilité publique
 
 
-###### Article R15-2
+###### Article R15-2-1
 
 L'expropriant notifie ses offres quinze jours au moins avant de saisir le juge.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 47
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R15-1 (T)
-
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-393 du 28 mars 1977
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-467 du 13 mai 2005 - art. 50 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R15-2-1 (V)
-
-
-###### Article R15-4
-
-Le délai fixé à l'article R. 13-26 pour le transport sur les lieux est réduit à un mois.
-
-Les parties, le commissaire du Gouvernement et, le cas échéant, les personnes [*qualifiées, notaire*] désignées en
-application de l'article R. 13-28, sont directement convoqués, par le secrétaire au transport sur les lieux huit jours au
-moins à l'avance.
-
-Lors de la visite sur les lieux, les intéressés sont appelés à présenter leurs observations sur l'état des lieux qui a été
-préalablement dressé par le directeur départemental des services fiscaux.
-
-**Liens relatifs à cet article**
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
 
 _Anciens textes_:
 
-  - Décret n°59-1335 1959-11-20 art. 49 (Décret 66-776 1966-10-11 art. 1)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R15-2 (T)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R15-2 (VT)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Code de l'expropriation pour cause d'utilité pu... - art. R232-2 (V)
 
 
 ###### Article R15-8
 
 En vue de la fixation des indemnités définitives, les parties, le commissaire du Gouvernement et, le cas échéant, les
-personnes qui auraient été désignées en application de l'article R. 13-28 sont convoqués par le secrétaire, quinze jours au
-moins à l'avance, à l'audience au cours de laquelle sont développés les éléments des mémoires : ceux-ci peuvent être
-présentés jusqu'au huitième jour précédant l'audience.
+personnes qui auraient été désignées en application de l'article **R. 13-28 sont convoquées par le greffier, dans le délai
+d'un mois à compter du jugement fixant les indemnités provisionnelles, et quinze jours au moins à l'avance, à l'audience au
+cours de laquelle sont développés les éléments des mémoires et conclusions : ceux-ci peuvent être présentés jusqu'au huitième
+jour précédant l'audience. 
+
+La procédure suivie est celle prévue aux articles **R. 13-31, **R. 13-32 et **R. 13-34, sans qu'il y ait lieu, sauf décision
+expresse du juge, à un nouveau transport sur les lieux.
 
 **Liens relatifs à cet article**
 
@@ -8545,14 +9198,28 @@ _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
+_Modifié par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 51 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-28 (M)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-31 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-34 (VT)
+  - Code de l'expropriation pour cause d'utilité publique - art. R13-28
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R232-8 (V)
 
 
-### CHAPITRE VI : Dispositions diverses et fiscales<a id=49></a>
+### CHAPITRE VI : Dispositions diverses et fiscales<a id=52></a>
 
-#### Section 1 : Dispositions diverses.<a id=50></a>
+#### Section 1 : Dispositions diverses.<a id=53></a>
 
 ###### Article **R16-1
 
@@ -8618,9 +9285,12 @@ _Cite_:
 
 ###### Article R16-3
 
-En ce qui concerne les aménagements hydroélectriques soumis au régime de la concession par application de la loi du 16
-octobre 1919, un décret en Conseil d'Etat précise les conditions d'instruction de la demande de concession pour les mettre en
-harmonie avec les dispositions du chapitre Ier du présent titre (partie réglementaire).
+Les dispositions du livre Ier du nouveau code de procédure civile s'appliquent devant les juridictions de l'expropriation
+sous réserve des dispositions particulières prévues par le présent code.
+
+Les dispositions particulières à la cour d'appel et à la Cour de cassation figurant respectivement au titre VI et au chapitre
+Ier du titre VII du livre II du nouveau code de procédure civile s'appliquent devant les juridictions de l'expropriation sous
+réserve des dispositions particulières prévues par le présent code.
 
 **Liens relatifs à cet article**
 
@@ -8634,52 +9304,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cite_:
-
-  - Loi n°1919-10-16
+  - Décret n°2005-467 du 13 mai 2005 - art. 52 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 
-###### Article R16-4
+## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=54></a>
 
-En ce qui concerne les travaux de restauration et de reboisement nécessaires pour le maintien et la protection des terrains
-en montagne, les dispositions des articles 2 à 4 de la loi du 4 avril 1882 et du décret du 11 juillet 1882, en tant qu'elles
-sont relatives à l'enquête préalable à la déclaration d'utilité publique, sont maintenues provisoirement en vigueur. Un
-décret en Conseil d'Etat précisera les conditions de l'établissement des périmètres de restauration pour mettre ces
-conditions en harmonie avec les dispositions du chapitre Ier du présent titre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1882-07-11
-  - Loi n°1882-04-04 art. 2 à 4
-
-_Anciens textes_:
-
-  - Décret n°59-701 du 6 juin 1959 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Modifié par_:
-
-  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
-
-_Abrogé par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=51></a>
-
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=52></a>
+### CHAPITRE Ier : Cession des immeubles expropriés.<a id=55></a>
 
 ###### Article R21-1
 
@@ -8727,94 +9357,59 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R411-1 (V)
 
 
-### CHAPITRE IV : Dispositions particulières.<a id=53></a>
+###### Article R21-2
 
-###### Article R24-1
-
-Des dispositions particulières concernant l'expropriation figurent notamment :
-
-- aux articles R. 122-20, R. 123-8, R. 123-24, R. 123-33, R. 123-36, R. 311-14, R. 311-17 à R. 311-19, R. 312-1 à R. 312-11,
-R. 312-19 à R. 312-24, R. 314-1 à R. 314-12 du code de l'urbanisme ;
-
-- aux articles 6 à 8 et 10 du décret n° 70-836 du 10 septembre 1970  pris pour l'application de la loi n° 66-1042 du 30
-décembre 1966 modifiant la loi du 31 décembre 1913 sur les monuments historiques ;
-
-- au décret n° 73-879 du 4 septembre 1973 relatif à l'application dans les départements de la Guadeloupe, de la Guyane, de la
-Martinique et de la Réunion des dispositions de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de
-l'habitat insalubre ;
-
-- aux articles 5 à 8 du décret n° 63-393 du 10 avril 1963 portant application de l'article 10 de la loi n° 62-933 du 8 août
-1962 complémentaire à la loi d'orientation agricole en ce qui concerne l'exécution de travaux de remembrement au cas de
-création d'autoroute ;
-
-- aux articles 1er et 2 du décret n° 68-386 du 26 avril 1968 portant application de l'article 10 de la loi n° 62-933 du 8
-août 1962 complémentaire à la loi d'orientation agricole en ce qui concerne l'exécution des travaux de remembrement autres
-que ceux nécessités par la création d'autoroute ;
-
-- au décret n° 68-333 du 5 avril 1968 relatif à l'application de l'article 10 de la loi n° 62-933 du 8 août 1962
-complémentaire à la loi d'orientation agricole ;
-
-- au décret n° 60-619 du 20 juin 1960 portant règlement d'administration publique pour l'exécution de la loi modifiée du 18
-octobre 1919 en ce qui concerne la forme et la procédure d'instruction des demandes de concession et de déclaration d'utilité
-publique des ouvrages utilisant l'énergie hydraulique, l'instruction des projets et leur approbation ;
-
-- aux articles 1er à 4 du décret n° 70-759 du 18 août 1970 portant règlement d'administration publique et relatif à
-l'application de la loi n° 69-7 du 3 janvier 1969 relative aux voies rapides et complétant le régime de la voirie nationale
-et locale ;
-
-- à l'article 3 du décret n° 62-1245 du 20 octobre 1962 relatif à l'approbation des plans généraux d'alignement des routes
-nationales et à ses effets en ce qui concerne les propriétés frappées d'alignement ;
-
-- aux articles 4, 6 et 13 du décret n° 55-1064 du 4 août 1955 portant règlement d'administration publique pour l'application
-de la loi du 29 novembre 1952 sur les travaux mixtes ;
-
-Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour l'application de la loi n° 76-1022 du 10 novembre 1976
-relative à la création et à la protection des jardins familiaux ;
-
-- au titre Ier du décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation des biens exposés à certains risques
-naturels majeurs menaçant gravement des vies humaines ;
-
-- au titre II du décret n° 2000-547 du 16 juin 2000 relatif à l'application des articles 94 et 95 du code minier.
+L'action en nullité prévue à l'article L. 21-3 est dispensée du ministère d'un avocat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-1064 du 4 août 1955 - art. 13 (M)
-  - Décret n°55-1064 du 4 août 1955 - art. 4 (M)
-  - Décret n°55-1064 du 4 août 1955 - art. 6 (M)
-  - Décret n°60-619 1960-06-20
-  - Loi n°62-933 1962-08-08 art. 10
-  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
-  - Décret n°63-393 1963-04-10 art. 5 à 8
-  - Loi n°66-1042 1966-12-30
-  - Décret n°68-333 1968-04-05
-  - Décret n°68-386 du 26 avril 1968 - art. 1 (M)
-  - Décret n°68-386 du 26 avril 1968 - art. 2 (M)
-  - Loi n°69-7 1969-01-03
-  - Loi n°70-612 1970-07-10
-  - Décret n°70-759 1970-08-18 art. 1 à 4
-  - Décret n°70-836 1970-09-10 art. 6 à 8, art. 10
-  - Décret n°70-836 du 10 septembre 1970 - art. 10 (Ab)
-  - Décret n°73-879 1973-09-04
-  - Décret n°95-1115 1995-10-17
-  - Décret n°2000-547 2000-06-16
-  - Code minier 94, 95
-  - Code de l'urbanisme R122-20, R123-8, R123-24, R123-33, R123-36, R311-14, R311-17 à R311-19, R312-1 à R312-11, R312-19 à R312-24, R314-1 à R314-12
-  - Loi n°1913-12-31
-  - Loi n°1919-10-18
-  - Loi n°1952-11-29
 
 _Codifié par_:
 
   - Décret n°77-393 1977-03-28 JORF 14 avril 1977
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°2000-547 du 16 juin 2000 - art. 10 () JORF 22 juin 2000
+  - Décret n°2005-467 du 13 mai 2005 - art. 53 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
 _Abrogé par_:
 
-  - Décret n°2005-467 du 13 mai 2005 - art. 56 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R411-3 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L21-3
+
+
+### CHAPITRE II : Agglomérations détruites à la suite de travaux publics<a id=56></a>
+
+###### Article R22-1
+
+Le décret en Conseil d'Etat prévu par l'article L. 22-1 est pris après avis du Conseil général des ponts et chaussées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Créé par_:
+
+  - Décret n°2005-467 du 13 mai 2005 - art. 54 () JORF 15 mai 2005 en vigueur le 1er août 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. D431-1 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L22-1
 
 
