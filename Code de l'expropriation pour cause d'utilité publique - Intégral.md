@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 2006-03-24
       - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à **R13-78)](#41)
         - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à **R13-14)](#42)
         - [Section 2 : Procédure. (art. **R13-15 à R13-42)](#43)
-        - [Section 3 : Fixation des indemnités. (art. **R13-45 à R13-44)](#44)
+        - [Section 3 : Fixation des indemnités. (art. **R13-43 à **R13-46)](#44)
         - [Section 4 : Voies de recours. (art. **R13-47 à R13-52)](#45)
         - [Section 5 : Frais et dépens. (art. **R13-55 à **R13-61)](#46)
         - [Section 6 : Paiement et consignation. (art. **R13-62 à **R13-78)](#47)
@@ -7616,6 +7616,95 @@ _Modifié par_:
 
 #### Section 3 : Fixation des indemnités.<a id=44></a>
 
+###### Article **R13-43
+
+Pour l'application de l'article L. 13-17 (premier alinéa) et pour tenir compte des modifications mentionnées au deuxième
+alinéa dudit article, l'évaluation retenue lors de la mutation de référence est majorée, s'il y a lieu, aux fins d'être
+comparée à l'estimation faite par le trésorier-payeur général. 
+
+Lorsque les modifications visées à l'alinéa qui précède ont affecté la consistance ou l'état matériel des biens et leur ont
+conféré une plus-value, la majoration applicable à l'évaluation retenue lors de la mutation de référence est égale soit au
+coût des travaux, soit au montant de la plus-value si celle-ci est supérieure au coût des travaux. 
+
+Les modifications survenues dans la consistance matérielle ou juridique, l'état ou la situation d'occupation des biens ainsi
+que, s'il y a lieu, le coût des travaux peuvent être établies par tous moyens de preuve.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 30 I
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+_Cité par_:
+
+  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
+  - Code de l'environnement - art. R331-59 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-44 (VT)
+
+_Modifié par_:
+
+  - Décret n°2006-1792 du 23 décembre 2006 - art. 17 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R322-2 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-17
+
+
+###### Article **R13-44
+
+Lorsque l'expropriation porte sur la totalité des biens ayant fait l'objet de la mutation de référence, l'indemnité
+principale ne peut excéder l'estimation faite par le trésorier-payeur général, si la mutation visée à l'article L. 13-17 a
+donné lieu à une déclaration ou à une évaluation administrative, réévaluée, le cas échéant, dans les conditions prévues à
+l'article **R. 13-43, d'un montant inférieur à ladite estimation. 
+
+Il en est de même lorsque, l'expropriation ne portant que sur une partie des biens ayant fait l'objet de la mutation de
+référence, cette estimation est supérieure à l'évaluation donnée à la totalité des biens lors de ladite mutation ou à
+l'évaluation administrative des mêmes biens rendue définitive en vertu des lois fiscales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1335 1959-11-20 art. 30 II
+
+_Codifié par_:
+
+  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+
+_Modifié par_:
+
+  - Décret n°2006-1792 du 23 décembre 2006 - art. 17 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-43 (VT)
+  - Code de l'expropriation pour cause d'utilité publique - art. L13-17
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R322-3 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R3335-4 (VD)
+
+
 ###### Article **R13-45
 
 Lorsque l'expropriation porte sur des biens dont une partie seulement a fait l'objet de la mutation de référence, les
@@ -7673,79 +7762,6 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R322-5 (V)
-
-
-###### Article R13-43
-
-Pour l'application de l'article L. 13-17 (premier alinéa) et pour tenir compte des modifications mentionnées au deuxième
-alinéa dudit article, l'évaluation retenue lors de la mutation de référence est majorée, s'il y a lieu, aux fins d'être
-comparée à l'estimation faite par les services fiscaux (domaine).
-
-Lorsque les modifications visées à l'alinéa qui précède ont affecté la consistance ou l'état matériel des biens et leur ont
-conféré une plus-value, la majoration applicable à l'évaluation retenue lors de la mutation de référence est égale soit au
-coût des travaux, soit au montant de la plus-value si celle-ci est supérieure au coût des travaux.
-
-Les modifications survenues dans la consistance matérielle ou juridique, l'état ou la situation d'occupation des biens ainsi
-que, s'il y a lieu, le coût des travaux peuvent être établies par tous moyens de preuve.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 30 I
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Cité par_:
-
-  - Décret n°95-323 du 22 mars 1995 - art. 1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-44 (M)
-  - Code de l'environnement - art. R331-59 (VT)
-
-_Modifié par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 40 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-17 (M)
-
-
-###### Article R13-44
-
-Lorsque l'expropriation porte sur la totalité des biens ayant fait l'objet de la mutation de référence, l'indemnité
-principale ne peut excéder l'estimation faite par les services fiscaux (domaine), si la mutation visée à l'article L. 13-17 a
-donné lieu à une déclaration ou à une évaluation administrative, réévaluée, le cas échéant, dans les conditions prévues à
-l'article R. 13-43, d'un montant inférieur à ladite estimation.
-
-Il en est de même lorsque, l'expropriation ne portant que sur une partie des biens ayant fait l'objet de la mutation de
-référence, cette estimation est supérieure à l'évaluation donnée à la totalité des biens lors de ladite mutation ou à
-l'évaluation administrative des mêmes biens rendue définitive en vertu des lois fiscales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1335 1959-11-20 art. 30 II
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Modifié par_:
-
-  - Décret n°2005-467 du 13 mai 2005 - art. 41 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-17 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-43 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R3335-4 (VD)
 
 
 #### Section 4 : Voies de recours.<a id=45></a>
