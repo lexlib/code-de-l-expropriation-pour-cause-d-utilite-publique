@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-11-14
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -3863,20 +3863,16 @@ _Cité par_:
 Pendant le délai fixé à l'article **R. 11-4, les observations sur l'utilité publique de l'opération peuvent être consignées
 par les intéressés directement sur les registres d'enquête. Elles peuvent également être adressées par écrit, au lieu fixé
 par le préfet pour l'ouverture de l'enquête, au commissaire enquêteur ou au président de la commission d'enquête, lequel les
-annexe au registre mentionné à l'article précité.
+annexe au registre mentionné à l'article précité. 
 
 Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les chambres de commerce et
-d'industrie et les chambres de métiers et de l'artisanat.
+d'industrie et les       chambres de métiers et de l'artisanat de région. 
 
 Indépendamment des dispositions qui précèdent, les observations faites sur l'utilité publique de l'opération sont également
 reçues par le commissaire enquêteur ou par un des membres de la commission d'enquête aux lieu, jour et heure annoncés à
 l'avance, lorsque l'arrêté prévu à l'article **R. 11-4 en a ainsi disposé.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-701 1959-06-06 art. 6 (Décret 76-432 1976-05-14 ART. 4 I)
 
 _Cité par_:
 
@@ -3888,15 +3884,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 AVRIL 1977
+  - Décret n°77-393 du 28 mars 1977
 
 _Modifié par_:
 
-  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
 
 
 ###### Article **R11-9
