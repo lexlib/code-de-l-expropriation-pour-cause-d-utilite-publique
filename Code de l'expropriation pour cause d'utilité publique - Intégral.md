@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -3886,8 +3886,8 @@ par les intéressés directement sur les registres d'enquête. Elles peuvent ég
 par le préfet pour l'ouverture de l'enquête, au commissaire enquêteur ou au président de la commission d'enquête, lequel les
 annexe au registre mentionné à l'article précité. 
 
-Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les chambres de commerce et
-d'industrie et les       chambres de métiers et de l'artisanat de région. 
+Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les      chambres de commerce
+et d'industrie territoriales et les chambres de métiers et de l'artisanat de région. 
 
 Indépendamment des dispositions qui précèdent, les observations faites sur l'utilité publique de l'opération sont également
 reçues par le commissaire enquêteur ou par un des membres de la commission d'enquête aux lieu, jour et heure annoncés à
@@ -3909,7 +3909,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 _Cite_:
 
@@ -4536,10 +4536,10 @@ Pendant la durée de l'enquête, les observations sur l'utilité publique de l'o
 intéressés directement sur les registres d'enquête ; ces registres, établis sur feuillets non mobiles, sont cotés et paraphés
 par le commissaire enquêteur, le président de la commission d'enquête ou un membre de celle-ci. Elles peuvent également être
 adressées par correspondance au lieu fixé par le préfet, au commissaire enquêteur ou au président de la commission
-d'enquête ; elles sont tenues à la disposition du public.
+d'enquête ; elles sont tenues à la disposition du public. 
 
-Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les chambres de commerce et
-d'industrie et les chambres de métiers.
+Il en est de même pour les observations qui seraient présentées par les chambres d'agriculture, les      chambres de commerce
+et d'industrie territoriales et les chambres de métiers. 
 
 En outre, les observations faites sur l'utilité publique de l'opération sont également reçues par le commissaire enquêteur ou
 par un des membres de la commission d'enquête aux lieux, jours et heures annoncés à l'avance dans les conditions prévues à
@@ -4549,16 +4549,20 @@ l'article R. 11-14-5.
 
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-393 du 28 mars 1977
 
 _Modifié par_:
 
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-2018 du 29 décembre 2011 - art. 4
 
 _Cite_:
 
-  - Code de l'environnement L123-1 à L123-16
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-5 (M)
+  - Code de l'environnement
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-5
 
 _Cité par_:
 
@@ -8962,29 +8966,32 @@ _Cite_:
 ###### Article R14-7
 
 L'acquisition et l'aménagement ou la construction des locaux nécessaires au relogement des locataires ou occupants
-d'immeubles expropriés au profit d'un service de l'Etat, d'une chambre de commerce et d'industrie, ou d'un établissement
-public national peuvent :
+d'immeubles expropriés au profit d'un service de l'Etat, d'une      chambre de commerce et d'industrie territoriale, ou d'un
+établissement public national peuvent : 
 
 Soit être confiés, par convention spéciale, à un département, à une commune, à un organisme d'habitations à loyer modéré, à
 une société d'économie mixte de construction de logements ou à une société civile immobilière, à charge pour le service
-public ou l'établissement public intéressé d'apporter les sommes nécessaires ;
+public ou l'établissement public intéressé d'apporter les sommes nécessaires ; 
 
 Soit, exceptionnellement, être effectués directement par le service public ou l'établissement public intéressé.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'expropriation R14-8
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Anciens textes_:
-
-  - Décret n°54-129 1954-02-04 art. 5
-
 _Codifié par_:
 
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-393 du 28 mars 1977
+
+_Modifié par_:
+
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R423-6 (V)
 
 
 ###### Article R14-8
