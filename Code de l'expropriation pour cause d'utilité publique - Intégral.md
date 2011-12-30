@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2011-01-13
+Version Consolidée au 2011-12-31
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -33,7 +33,7 @@ Version Consolidée au 2011-01-13
       - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. **R11-1 à R11-20)](#30)
         - [Section 1 : Déclaration d'utilité publique. (art. **R11-1 à R11-18)](#31)
           - [Sous-section 1 : Procédure d'enquête préalable de droit commun. (art. **R11-4 à R11-6-1)](#32)
-          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. R11-14-1 à R11-14-15)](#33)
+          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art. **R11-14 à R11-14-15)](#33)
           - [Sous-section 3 : Dispositions communes. (art. **R11-16 à R11-18)](#34)
         - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#35)
       - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. **R12-3 à **R12-11)](#36)
@@ -4046,55 +4046,6 @@ _Cité par_:
   - Code de l'urbanisme - art. R*318-10 (M)
 
 
-###### Article **R11-14
-
-Lorsque l'opération doit être réalisée sur le territoire de deux ou de plusieurs départements, l'enquête s'ouvre à la
-préfecture du département sur le territoire duquel la plus grande partie de l'opération doit être réalisée. Le préfet de ce
-département désigné éventuellement par le ou les ministres compétents d'après la nature des opérations, est chargé de
-centraliser les résultats de l'enquête.
-
-Un arrêté concerté des préfets intéressés désigne le commissaire enquêteur ou les membres et le président de la commission
-d'enquête. Le même arrêté fixe les conditions de l'enquête publique, telles qu'elles sont prévues aux articles **R. 11-4 et
-**R. 11-7 à **R. 11-10.
-
-Les dossiers et registres d'enquêtes déposés dans les lieux situé hors du département où l'enquête a été ouverte sont
-transmis au commissaire enquêteur ou au président de la commission d'enquête par l'intermédiaire du ou des préfets
-intéressés, lesquels formulent leur avis sur l'opération projetée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-701 du 6 juin 1959 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-393 1977-03-28 JORF 14 avril 1977
-
-_Modifié par_:
-
-  - Décret n°85-453 du 23 avril 1985 - art. 22 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-  - Décret n°85-453 du 23 avril 1985 - art. 26 () JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-409 du 18 mai 1994 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLIQUE R11-4, R11-7 à R11-10
-
-_Cité par_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-7 (V)
-  - Code de l'aviation civile - art. R242-1 (M)
-  - Code de l'urbanisme - art. R*160-17 (M)
-  - Code de l'urbanisme - art. R*313-23 (M)
-  - Code général des collectivités territoriales - art. R1311-6 (V)
-  - Code général des collectivités territoriales - art. R1311-8 (V)
-
-
 ###### Article *R11-10
 
 Le commissaire enquêteur ou la commission examine [*attributions*] les observations consignées ou annexées aux registres et
@@ -4178,6 +4129,55 @@ _Modifié par_:
 
 
 ##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.<a id=33></a>
+
+###### Article **R11-14
+
+Lorsque l'opération doit être réalisée sur le territoire de deux ou de plusieurs départements, l'enquête s'ouvre à la
+préfecture du département sur le territoire duquel la plus grande partie de l'opération doit être réalisée. Le préfet de ce
+département désigné éventuellement par le ou les ministres compétents d'après la nature des opérations, est chargé de
+centraliser les résultats de l'enquête. 
+
+Un arrêté concerté des préfets intéressés désigne le commissaire enquêteur ou les membres et le président de la commission
+d'enquête. Le même arrêté fixe les conditions de l'enquête publique, telles qu'elles sont prévues aux articles **R. 11-4 et
+**R. 11-7 à **R. 11-10. 
+
+Les dossiers et registres d'enquêtes déposés dans les lieux situé hors du département où l'enquête a été ouverte sont
+transmis au commissaire enquêteur ou au président de la commission d'enquête par l'intermédiaire du ou des préfets
+intéressés, lesquels formulent leur avis sur l'opération projetée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-393 du 28 mars 1977
+
+**Liens**:
+
+  - DEPLACE: Décret n°2011-2018 du 29 décembre 2011 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R242-1 (M)
+  - Code de l'urbanisme - art. R*160-17 (M)
+  - Code de l'urbanisme - art. R*313-23 (M)
+  - Code général des collectivités territoriales - art. R1311-6 (V)
+  - Code général des collectivités territoriales - art. R1311-8 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-7 (VT)
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-11 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-18 (V)
+
 
 ###### Article R11-14-1
 
