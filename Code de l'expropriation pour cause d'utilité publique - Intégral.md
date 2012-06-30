@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -33,32 +33,30 @@ Version Consolidée au 2012-06-01
       - [CHAPITRE Ier : Déclaration d'utilité publique et arrêté de cessibilité (art. **R11-1 à R11-20)](#30)
         - [Section 1 : Déclaration d'utilité publique. (art. **R11-1 à R11-18)](#31)
           - [Sous-section 1 : Autorité compétente pour déclarer l'utilité publique. (art. **R11-1 à **R11-2)](#32)
-          - [Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement. (art.  à **R11-2)](#33)
-          - [Sous-section 2 : Procédure d'enquête publique préalable en application du III de l'article L. 11-1. (art. **R11-3 à R11-6-1)](#34)
-          - [Sous-section 3 : Dispositions communes. (art.  à R11-6-1)](#35)
-          - [Sous-section 3 : Avis et consultations spécifiques à certaines enquêtes. (art. **R11-16 à R11-18)](#36)
-        - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#37)
-      - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. **R12-3 à **R12-11)](#38)
-        - [Section 1 : Transfert de propriété. (art. **R12-3 à R12-5-6)](#39)
-          - [Sous-section 1 : Prononcé de l'ordonnance d'expropriation. (art. **R12-3 à R12-5)](#40)
-          - [Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation. (art. R12-5-1 à R12-5-6)](#41)
-        - [Section 2 : Droit de rétrocession. (art. **R12-6 à **R12-11)](#42)
-      - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à **R13-78)](#43)
-        - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à **R13-14)](#44)
-        - [Section 2 : Procédure. (art. **R13-15 à R13-42)](#45)
-        - [Section 3 : Fixation des indemnités. (art. **R13-43 à **R13-46)](#46)
-        - [Section 4 : Voies de recours. (art. **R13-47 à R13-52)](#47)
-        - [Section 5 : Frais et dépens. (art. **R13-55 à **R13-61)](#48)
-        - [Section 6 : Paiement et consignation. (art. **R13-62 à **R13-78)](#49)
-      - [CHAPITRE IV : Relogement des expropriés. (art. R14-1 à R14-11)](#50)
-      - [CHAPITRE V : Prise de possession (art. R15-1 à R15-8)](#51)
-        - [Section 1 : Règles générales. (art. R15-1)](#52)
-        - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#53)
-      - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-3)](#54)
-        - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-3)](#55)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R22-1)](#56)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1 à R21-2)](#57)
-      - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics (art. R22-1)](#58)
+          - [Sous-section 2 : Procédure d'enquête publique préalable en application du III de l'article L. 11-1. (art. **R11-3 à R11-6-1)](#33)
+          - [Sous-section 3 : Avis et consultations spécifiques à certaines enquêtes. (art. **R11-16 à R11-18)](#34)
+        - [Section 2 : Arrêté de cessibilité. (art. **R11-19 à R11-20)](#35)
+      - [CHAPITRE II : Transfert de propriété et droit de rétrocession (art. **R12-3 à **R12-11)](#36)
+        - [Section 1 : Transfert de propriété. (art. **R12-3 à R12-5-6)](#37)
+          - [Sous-section 1 : Prononcé de l'ordonnance d'expropriation. (art. **R12-3 à R12-5)](#38)
+          - [Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation. (art. R12-5-1 à R12-5-6)](#39)
+        - [Section 2 : Droit de rétrocession. (art. **R12-6 à **R12-11)](#40)
+      - [CHAPITRE III : Fixation et paiement des indemnités (art. **R13-1 à **R13-78)](#41)
+        - [Section 1 : Juridiction de l'expropriation. (art. **R13-1 à **R13-14)](#42)
+        - [Section 2 : Procédure. (art. **R13-15 à R13-42)](#43)
+        - [Section 3 : Fixation des indemnités. (art. **R13-43 à **R13-46)](#44)
+        - [Section 4 : Voies de recours. (art. **R13-47 à R13-52)](#45)
+        - [Section 5 : Frais et dépens. (art. **R13-55 à **R13-61)](#46)
+        - [Section 6 : Paiement et consignation. (art. **R13-62 à **R13-78)](#47)
+      - [CHAPITRE IV : Relogement des expropriés. (art. R14-1 à R14-11)](#48)
+      - [CHAPITRE V : Prise de possession (art. R15-1 à R15-8)](#49)
+        - [Section 1 : Règles générales. (art. R15-1)](#50)
+        - [Section 2 : Procédure d'urgence. (art. **R15-3 à R15-8)](#51)
+      - [CHAPITRE VI : Dispositions diverses et fiscales (art. **R16-1 à R16-3)](#52)
+        - [Section 1 : Dispositions diverses. (art. **R16-1 à R16-3)](#53)
+    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. R21-1 à R22-1)](#54)
+      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. R21-1 à R21-2)](#55)
+      - [CHAPITRE II : Agglomérations détruites à la suite de travaux publics (art. R22-1)](#56)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Règles générales<a id=2></a>
@@ -2893,12 +2891,12 @@ par des travaux s'étendant en dehors de l'établissement ;
 aménagé par l'Etat, les départements, les communes, les associations foncières ou les groupements de ces collectivités ainsi
 que leurs concessionnaires ; 
 
-5° Dans les périmètres de protection et de reconstitution forestières créés en application de l'article L. 321-6 du code
-forestier et dans les périmètres de restauration des terrains en montagne créés en application de l'article L. 424-1 du code
-forestier, les immeubles expropriés en application de ces dispositions. Les catégories de personnes auxquelles ces immeubles
-pourront être cédés de gré à gré sont fixées par décret en Conseil d'Etat. Pour ces cessions de gré à gré, une priorité sera
-accordée aux anciens propriétaires expropriés et à leurs ascendants et, en cas de refus de leur part, aux collectivités
-locales. 
+5° Dans les périmètres de protection et de reconstitution forestières créés en application des articles L133-1 à L133-3 et
+L133-8 du nouveau code forestier et dans les périmètres de restauration des terrains en montagne créés en application de
+l'article L. 424-1 du code forestier, les immeubles expropriés en application de ces dispositions. Les catégories de
+personnes auxquelles ces immeubles pourront être cédés de gré à gré sont fixées par décret en Conseil d'Etat. Pour ces
+cessions de gré à gré, une priorité sera accordée aux anciens propriétaires expropriés et à leurs ascendants et, en cas de
+refus de leur part, aux collectivités locales. 
 
 Les propriétaires ayant cédé leur terrain à l'amiable et leurs descendants bénéficient de la même priorité que les
 propriétaires expropriés ; 
@@ -2939,6 +2937,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. L*311-8 (MMN)
   - Code de l'expropriation pour cause d'utilité pu... - art. L21-2 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. L21-3 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L21-4 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. R14-6 (VT)
   - Code de l'expropriation pour cause d'utilité pu... - art. R21-1 (VT)
   - Code du domaine de l'Etat - art. R142 (Ab)
@@ -2950,29 +2949,27 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3221-1 (VT)
   - Code général des collectivités territoriales - art. L2421-18 (V)
 
-_Anciens textes_:
-
-  - Ordonnance 58-997 1958-10-23 art. 41
-  - Loi n°75-1328 1975-12-31 art. 41
-
 _Cite_:
 
-  - Loi n°70-612 du 10 juillet 1970 - art. 13 (V)
-  - Loi n°70-612 du 10 juillet 1970 - art. 25 (T)
-  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
-  - Code général des collectivités territoriales - art. L2243-4 (V)
-  - Code de l'urbanisme - art. L221-1 (V)
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L313-4-1 (V)
-  - Code de la construction et de l'habitation. - art. L615-1 (V)
+  - Loi n°70-612 du 10 juillet 1970 - art. 13
+  - Loi n°70-612 du 10 juillet 1970 - art. 25
+  - Loi n°95-115 du 4 février 1995 - art. 42
+  - Code général des collectivités territoriales - art. L2243-4
+  - Code de l'urbanisme - art. L221-1
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L313-4-1
+  - Code de la construction et de l'habitation. - art. L615-1
+  - Code forestier (nouveau) - art. L133-1
+  - Code forestier (nouveau) - art. L133-8
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
-_Modifié par_:
+_Nouveaux textes_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 21 () JORF 2 août 2003
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-5 (VD)
 
 
 ###### Article L21-2
@@ -3516,9 +3513,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R121-2 (V)
 
 
-##### Sous-section 2 : Procédure spécifique aux enquêtes préalables portant sur des opérations entrant dans le champ d'application des articles L123-1 à L123-16 du code de l'environnement.<a id=33></a>
-
-##### Sous-section 2 : Procédure d'enquête publique préalable en application du III de l'article L. 11-1.<a id=34></a>
+##### Sous-section 2 : Procédure d'enquête publique préalable en application du III de l'article L. 11-1.<a id=33></a>
 
 ###### Article **R11-3
 
@@ -4227,9 +4222,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (T)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=35></a>
-
-##### Sous-section 3 : Avis et consultations spécifiques à certaines enquêtes.<a id=36></a>
+##### Sous-section 3 : Avis et consultations spécifiques à certaines enquêtes.<a id=34></a>
 
 ###### Article **R11-16
 
@@ -4469,7 +4462,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L11-7
 
 
-#### Section 2 : Arrêté de cessibilité.<a id=37></a>
+#### Section 2 : Arrêté de cessibilité.<a id=35></a>
 
 ###### Article **R11-19
 
@@ -5030,11 +5023,11 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R131-5 (V)
 
 
-### CHAPITRE II : Transfert de propriété et droit de rétrocession<a id=38></a>
+### CHAPITRE II : Transfert de propriété et droit de rétrocession<a id=36></a>
 
-#### Section 1 : Transfert de propriété.<a id=39></a>
+#### Section 1 : Transfert de propriété.<a id=37></a>
 
-##### Sous-section 1 : Prononcé de l'ordonnance d'expropriation.<a id=40></a>
+##### Sous-section 1 : Prononcé de l'ordonnance d'expropriation.<a id=38></a>
 
 ###### Article **R12-3
 
@@ -5272,7 +5265,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R221-8 (V)
 
 
-##### Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation.<a id=41></a>
+##### Sous-section 2 : Perte de base légale de l'ordonnance d'expropriation.<a id=39></a>
 
 ###### Article R12-5-1
 
@@ -5472,7 +5465,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R223-8 (V)
 
 
-#### Section 2 : Droit de rétrocession.<a id=42></a>
+#### Section 2 : Droit de rétrocession.<a id=40></a>
 
 ###### Article **R12-6
 
@@ -5682,9 +5675,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R421-8 (V)
 
 
-### CHAPITRE III : Fixation et paiement des indemnités<a id=43></a>
+### CHAPITRE III : Fixation et paiement des indemnités<a id=41></a>
 
-#### Section 1 : Juridiction de l'expropriation.<a id=44></a>
+#### Section 1 : Juridiction de l'expropriation.<a id=42></a>
 
 ###### Article **R13-1
 
@@ -6055,7 +6048,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-32 (V)
 
 
-#### Section 2 : Procédure.<a id=45></a>
+#### Section 2 : Procédure.<a id=43></a>
 
 ###### Article **R13-15
 
@@ -7116,7 +7109,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-30 (V)
 
 
-#### Section 3 : Fixation des indemnités.<a id=46></a>
+#### Section 3 : Fixation des indemnités.<a id=44></a>
 
 ###### Article **R13-43
 
@@ -7266,7 +7259,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R322-5 (V)
 
 
-#### Section 4 : Voies de recours.<a id=47></a>
+#### Section 4 : Voies de recours.<a id=45></a>
 
 ###### Article **R13-47
 
@@ -7489,7 +7482,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-28 (V)
 
 
-#### Section 5 : Frais et dépens.<a id=48></a>
+#### Section 5 : Frais et dépens.<a id=46></a>
 
 ###### Article **R13-55
 
@@ -7718,7 +7711,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R312-9 (V)
 
 
-#### Section 6 : Paiement et consignation.<a id=49></a>
+#### Section 6 : Paiement et consignation.<a id=47></a>
 
 ###### Article **R13-62
 
@@ -8223,7 +8216,7 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R323-14 (V)
 
 
-### CHAPITRE IV : Relogement des expropriés.<a id=50></a>
+### CHAPITRE IV : Relogement des expropriés.<a id=48></a>
 
 ###### Article R14-1
 
@@ -8544,9 +8537,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R423-10 (V)
 
 
-### CHAPITRE V : Prise de possession<a id=51></a>
+### CHAPITRE V : Prise de possession<a id=49></a>
 
-#### Section 1 : Règles générales.<a id=52></a>
+#### Section 1 : Règles générales.<a id=50></a>
 
 ###### Article R15-1
 
@@ -8576,7 +8569,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-1 (VT)
 
 
-#### Section 2 : Procédure d'urgence.<a id=53></a>
+#### Section 2 : Procédure d'urgence.<a id=51></a>
 
 ###### Article **R15-3
 
@@ -8836,9 +8829,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R232-8 (V)
 
 
-### CHAPITRE VI : Dispositions diverses et fiscales<a id=54></a>
+### CHAPITRE VI : Dispositions diverses et fiscales<a id=52></a>
 
-#### Section 1 : Dispositions diverses.<a id=55></a>
+#### Section 1 : Dispositions diverses.<a id=53></a>
 
 ###### Article **R16-1
 
@@ -8927,9 +8920,9 @@ _Nouveaux textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-29 (V)
 
 
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=56></a>
+## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=54></a>
 
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=57></a>
+### CHAPITRE Ier : Cession des immeubles expropriés.<a id=55></a>
 
 ###### Article R21-1
 
@@ -9004,7 +8997,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L21-3
 
 
-### CHAPITRE II : Agglomérations détruites à la suite de travaux publics<a id=58></a>
+### CHAPITRE II : Agglomérations détruites à la suite de travaux publics<a id=56></a>
 
 ###### Article R22-1
 
