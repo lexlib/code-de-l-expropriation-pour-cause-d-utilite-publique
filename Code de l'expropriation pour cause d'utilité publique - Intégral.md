@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-05-30
 ## Contenu: 
   - [Partie législative (art. L11-1 à L24-1)](#1)
     - [TITRE Ier : Règles générales (art. L11-1 à L16-9)](#2)
@@ -2200,61 +2200,77 @@ _Nouveaux textes_:
 
 ###### Article L15-1
 
-Dans le délai d'un mois, soit du paiement ou de la consignation de l'indemnité, soit de l'acceptation ou de la validation de
-l'offre d'un local de remplacement, les détenteurs sont tenus d'abandonner les lieux. Passé ce délai qui ne peut, en aucun
-cas, être modifié, même par autorité de justice, il peut être procédé à l'expulsion des occupants.
-
-**Nota:**
-
-Dans sa décision n° 2012-226 QPC du 6 avril 2012 (NOR : CSCX1210225S), le Conseil constitutionnel a déclaré l'article L. 15-1
-du code de l'expropriation pour cause d'utilité publique contraire à la Constitution. La déclaration d'inconstitutionnalité
-prend effet le 1er juillet 2013 dans les conditions fixées au considérant 7.
+Dans le délai d'un mois, soit du paiement de l'indemnité ou, en cas d'obstacle au paiement ou de refus de recevoir, de sa
+consignation, soit de l'acceptation ou de la validation de l'offre d'un local de remplacement, les détenteurs sont tenus
+d'abandonner les lieux. Passé ce délai qui ne peut, en aucun cas, être modifié, même par autorité de justice, il peut être
+procédé à l'expulsion des occupants.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-997 1958-10-23 art. 25
 
 _Cité par_:
 
   - Décret n°61-605 du 13 juin 1961 - art. 6 (Ab)
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R15-1 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L15-2 (VT)
   - Code de l'urbanisme - art. L314-6 (V)
 
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
+
+_Modifié par_:
+
+  - Loi n°2013-431 du 28 mai 2013 - art. 42
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L231-1 (VD)
 
 
 ###### Article L15-2
 
-L'expropriant peut prendre possession, moyennant versement d'une indemnité au moins égale aux propositions faites par lui et
-consignation du surplus de l'indemnité fixée par le juge.
+En cas d'appel du jugement fixant l'indemnité, lorsqu'il existe des indices sérieux laissant présumer qu'en cas
+d'infirmation, l'expropriant ne pourrait recouvrer tout ou partie des sommes qui lui seraient dues en restitution, celui-ci
+peut être autorisé par le juge à consigner tout ou partie du montant de l'indemnité supérieur à ce que l'expropriant avait
+proposé. Cette consignation vaut paiement. La prise de possession intervient selon les modalités définies à l'article L.
+15-1.
 
 **Nota:**
 
-Dans sa décision n° 2012-226 QPC du 6 avril 2012 (NOR : CSCX1210225S), le Conseil constitutionnel a déclaré l'article L. 15-2
-du code de l'expropriation pour cause d'utilité publique contraire à la Constitution. La déclaration d'inconstitutionnalité
-prend effet le 1er juillet 2013 dans les conditions fixées au considérant 7.
+Dans sa décision n° 2014-451 QPC du 13 février 2015 (NOR : CSCX1504234S), le Conseil constitutionnel a déclaré l'article L.
+15-2 du code de l'expropriation pour cause d'utilité publique, dans sa rédaction issue de la loi n° 2013-431 du 28 mai 2013
+portant diverses dispositions en matière d'infrastructures et de services de transports, conforme à la Constitution, sous la
+réserve énoncée au considérant 8.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 58-997 1958-10-23 art. 32
-
 _Codifié par_:
 
-  - Décret n°77-392 1977-03-28 JORF 14 avril 1977
+  - Décret n°77-392 du 28 mars 1977
 
 _Modifié par_:
 
-  - Décret n°2005-467 du 13 mai 2005 - art. 10 () JORF 15 mai 2005 en vigueur le 1er août 2005
+  - Loi n°2013-431 du 28 mai 2013 - art. 42
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6
 
 _Cité par_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. L12-1 (VT)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L15-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L331-3 (VD)
 
 
 ###### Article L15-3
