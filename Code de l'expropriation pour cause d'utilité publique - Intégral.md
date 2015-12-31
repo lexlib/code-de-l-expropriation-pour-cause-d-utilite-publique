@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -79,93 +79,88 @@ Version Consolidée au 2015-01-01
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. R111-1 à R132-4)](#76)
       - [TITRE  Ier : ENQUÊTE PUBLIQUE (art. R111-1 à R112-27)](#77)
         - [Chapitre Ier : Désignation et indemnisation du commissaire enquêteur (art. R111-1 à R111-9)](#78)
-          - [Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête (art. R111-2 à R111-4)](#79)
-            - [Sous-section 1 : Enquêtes publiques préalables à une déclaration d'utilité publique (art. R111-2)](#80)
-            - [Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2 (art. R111-3 à R111-4)](#81)
-          - [Section 2 : Indemnisation du commissaire enquêteur ou des membres de la commission d'enquête (art. R111-5 à R111-9)](#82)
-            - [Sous-section 1 : Enquêtes publiques préalables à une déclaration d'utilité publique (art. R111-5)](#83)
-            - [Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2 (art. R111-6 à R111-9)](#84)
-        - [Chapitre II : Déroulement de l'enquête (art. R112-1 à R112-27)](#85)
-          - [Section 1 : Autorité compétente pour ouvrir et organiser l'enquête (art. R112-1 à R112-3)](#86)
-          - [Section 2 : Dossier d'enquête (art. R112-4 à R112-7)](#87)
-          - [Section 3 : Ouverture de l'enquête (art. R112-8 à R112-16)](#88)
-          - [Section 4 : Observations formulées au cours de l'enquête (art. R112-17)](#89)
-          - [Section 5 : Clôture de l'enquête (art. R112-18 à R112-23)](#90)
-            - [Sous-section 1 : Dispositions générales (art. R112-18 à R112-21)](#91)
-            - [Sous-section 2 : Dispositions particulières (art. R112-22 à R112-23)](#92)
-          - [Section 6 : Communication des conclusions du commissaire enquêteur (art. R112-24)](#93)
-          - [Section 7 : Enquêtes publiques relevant de l'article L. 110-2 (art. R112-25 à R112-27)](#94)
-      - [TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE (art. R121-1 à R122-8)](#95)
-        - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-2)](#96)
-        - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations (art. R122-1 à R122-8)](#97)
-          - [Section 1 : Opération intéressant des monuments historiques (art. R122-1)](#98)
-          - [Section 2 : Opération intéressant des monuments et sites naturels (art. R122-2)](#99)
-          - [Section 3 : Opération intéressant des vignes soumises au régime des appellations d'origine (art. R122-3)](#100)
-          - [Section 4 : Opération secrète intéressant la défense nationale (art. R122-4 à R122-8)](#101)
-      - [TITRE  III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES (art. R131-1 à R132-4)](#102)
-        - [Chapitre Ier : Enquête parcellaire (art. R131-1 à R131-14)](#103)
-          - [Section 1 : Désignation et indemnisation du commissaire enquêteur ou de la commission d'enquête (art. R131-1 à R131-2)](#104)
-          - [Section 2 : Déroulement de l'enquête (art. R131-3 à R131-8)](#105)
-          - [Section 3 : Clôture de l'enquête (art. R131-9 à R131-10)](#106)
-          - [Section 4 : Cas particuliers (art. R131-11 à R131-14)](#107)
-        - [Chapitre II : Cessibilité (art. R132-1 à R132-4)](#108)
-    - [LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION (art. R211-1 à R242-1)](#109)
-      - [TITRE  Ier : JURIDICTION DE L'EXPROPRIATION ET COMMISSAIRE DU GOUVERNEMENT (art. R211-1 à R212-1)](#110)
-        - [Chapitre Ier : Juridiction de l'expropriation (art. R211-1 à R211-6)](#111)
-        - [Chapitre II : Commissaire du Gouvernement (art. R212-1)](#112)
-      - [TITRE  II : TRANSFERT DE PROPRIÉTÉ (art. R221-1 à R223-8)](#113)
-        - [Chapitre Ier : Ordonnance d'expropriation (art. R221-1 à R221-8)](#114)
-        - [Chapitre III : Recours contre l'ordonnance d'expropriation (art. R223-1 à R223-8)](#115)
-      - [TITRE  III : PRISE DE POSSESSION (art. R231-1 à R232-8)](#116)
-        - [Chapitre Ier : Dispositions générales (art. R231-1 à R231-2)](#117)
-        - [Chapitre II : Procédure d'urgence (art. R232-1 à R232-8)](#118)
-      - [TITRE  IV : DROIT DE DÉLAISSEMENT ET DEMANDE D'EMPRISE TOTALE D'UN BIEN PARTIELLEMENT EXPROPRIÉ (art. R241-1 à R242-1)](#119)
-        - [Chapitre Ier : Droit de délaissement (art. R241-1)](#120)
-        - [Chapitre II : Demande d'emprise totale d'un bien partiellement exproprié (art. R242-1)](#121)
-    - [LIVRE III : INDEMNISATION (art. R311-1 à R323-14)](#122)
-      - [TITRE  Ier : DISPOSITIONS GÉNÉRALES (art. R311-1 à R312-9)](#123)
-        - [Chapitre Ier : Procédure (art. R311-1 à R311-32)](#124)
-          - [Section 1 : Notification par l'expropriant et détermination des ayants droit (art. R311-1 à R311-3)](#125)
-          - [Section 2 : Offres de l'expropriant et notification des mémoires (art. R311-4 à R311-13)](#126)
-          - [Section 3 : Transport sur les lieux et audience (art. R311-14 à R311-20)](#127)
-          - [Section 4 : Fixation des indemnités (art. R311-21 à R311-23)](#128)
-          - [Section 5 : Voies de recours (art. R311-24 à R311-29)](#129)
-          - [Section 6 : Dispositions diverses (art. R311-30 à R311-32)](#130)
-        - [Chapitre II : Frais et dépens (art. R312-1 à R312-9)](#131)
-      - [TITRE  II : FIXATION ET PAIEMENT DES INDEMNITÉS (art. R322-1 à R323-14)](#132)
-        - [Chapitre II : Modalités d'évaluation de l'indemnité d'expropriation (art. R322-1 à R322-6)](#133)
-        - [Chapitre III : Paiement et consignation (art. R323-1 à R323-14)](#134)
-          - [Section 1 : Paiement (art. R323-1 à R323-7)](#135)
-          - [Section 2 : Consignation (art. R323-8 à R323-12)](#136)
-          - [Section 3 : Dispositions communes (art. R323-13 à R323-14)](#137)
-    - [LIVRE IV : SUITES DE L'EXPROPRIATION (art. R411-1 à D431-1)](#138)
-      - [TITRE  Ier : CESSION DES IMMEUBLES EXPROPRIÉS (art. R411-1 à R411-3)](#139)
-        - [Chapitre unique (art. R411-1 à R411-3)](#140)
-      - [TITRE  II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION (art. R421-1 à R424-1)](#141)
-        - [Chapitre Ier : Droit de rétrocession (art. R421-1 à R421-8)](#142)
-        - [Chapitre III : Droits de relogement (art. R423-1 à R423-10)](#143)
-        - [Chapitre IV : Dispositions particulières aux terrains agricoles (art. R424-1)](#144)
-      - [TITRE  III : DISPOSITIONS RELATIVES À LA RÉORGANISATION DES TERRITOIRES À LA SUITE D'UNE EXPROPRIATION (art. D431-1)](#145)
-        - [Chapitre unique. (art. D431-1)](#146)
-    - [LIVRE V : PROCÉDURES SPÉCIALES (art. R511-1 à R522-1)](#147)
-      - [TITRE  Ier : EXPROPRIATION DES IMMEUBLES INSALUBRES OU MENAÇANT RUINE (art. R511-1 à R511-3)](#148)
-        - [Chapitre unique. (art. R511-1 à R511-3)](#149)
-      - [TITRE  II : PROCÉDURE D'EXTRÊME URGENCE (art. R521-1 à R522-1)](#150)
-        - [Chapitre Ier : Travaux intéressant la défense nationale (art. R521-1 à R521-3)](#151)
-        - [Chapitre II : Autres travaux (art. R522-1)](#152)
-    - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R611-1 à R641-3)](#153)
-      - [TITRE  Ier : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R611-1 à R611-2)](#154)
-        - [Chapitre unique. (art. R611-1 à R611-2)](#155)
-      - [TITRE  II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY (art. R621-1 à R621-3)](#156)
-        - [Chapitre unique. (art. R621-1 à R621-3)](#157)
-      - [TITRE  III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. R631-1 à R631-3)](#158)
-        - [Chapitre unique. (art. R631-1 à R631-3)](#159)
-      - [TITRE  IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. R641-1 à R641-3)](#160)
-        - [Chapitre unique. (art. R641-1 à R641-3)](#161)
-    - [ANNEXES (art. Annexe 1 à Annexe 5)](#162)
-  - [Partie législative (art. L21-1)](#163)
-    - [TITRE II : Dispositions propres à certaines catégories d'opérations (art. L21-1)](#164)
-      - [CHAPITRE Ier : Cession des immeubles expropriés. (art. L21-1)](#165)
+          - [Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête (art. R111-3)](#79)
+            - [Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2 (art. R111-3)](#80)
+          - [Section 2 : Indemnisation du commissaire enquêteur ou des membres de la commission d'enquête (art. R111-9)](#81)
+            - [Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2 (art. R111-9)](#82)
+        - [Chapitre II : Déroulement de l'enquête (art. R112-1 à R112-27)](#83)
+          - [Section 1 : Autorité compétente pour ouvrir et organiser l'enquête (art. R112-1 à R112-3)](#84)
+          - [Section 2 : Dossier d'enquête (art. R112-4 à R112-7)](#85)
+          - [Section 3 : Ouverture de l'enquête (art. R112-8 à R112-16)](#86)
+          - [Section 4 : Observations formulées au cours de l'enquête (art. R112-17)](#87)
+          - [Section 5 : Clôture de l'enquête (art. R112-18 à R112-23)](#88)
+            - [Sous-section 1 : Dispositions générales (art. R112-18 à R112-21)](#89)
+            - [Sous-section 2 : Dispositions particulières (art. R112-22 à R112-23)](#90)
+          - [Section 6 : Communication des conclusions du commissaire enquêteur (art. R112-24)](#91)
+          - [Section 7 : Enquêtes publiques relevant de l'article L. 110-2 (art. R112-25 à R112-27)](#92)
+      - [TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE (art. R121-1 à R122-8)](#93)
+        - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-2)](#94)
+        - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations (art. R122-1 à R122-8)](#95)
+          - [Section 1 : Opération intéressant des monuments historiques (art. R122-1)](#96)
+          - [Section 2 : Opération intéressant des monuments et sites naturels (art. R122-2)](#97)
+          - [Section 3 : Opération intéressant des vignes soumises au régime des appellations d'origine (art. R122-3)](#98)
+          - [Section 4 : Opération secrète intéressant la défense nationale (art. R122-4 à R122-8)](#99)
+      - [TITRE  III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES (art. R131-1 à R132-4)](#100)
+        - [Chapitre Ier : Enquête parcellaire (art. R131-1 à R131-14)](#101)
+          - [Section 1 : Désignation et indemnisation du commissaire enquêteur ou de la commission d'enquête (art. R131-1 à R131-2)](#102)
+          - [Section 2 : Déroulement de l'enquête (art. R131-3 à R131-8)](#103)
+          - [Section 3 : Clôture de l'enquête (art. R131-9 à R131-10)](#104)
+          - [Section 4 : Cas particuliers (art. R131-11 à R131-14)](#105)
+        - [Chapitre II : Cessibilité (art. R132-1 à R132-4)](#106)
+    - [LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION (art. R211-1 à R242-1)](#107)
+      - [TITRE  Ier : JURIDICTION DE L'EXPROPRIATION ET COMMISSAIRE DU GOUVERNEMENT (art. R211-1 à R212-1)](#108)
+        - [Chapitre Ier : Juridiction de l'expropriation (art. R211-1 à R211-6)](#109)
+        - [Chapitre II : Commissaire du Gouvernement (art. R212-1)](#110)
+      - [TITRE  II : TRANSFERT DE PROPRIÉTÉ (art. R221-1 à R223-8)](#111)
+        - [Chapitre Ier : Ordonnance d'expropriation (art. R221-1 à R221-8)](#112)
+        - [Chapitre III : Recours contre l'ordonnance d'expropriation (art. R223-1 à R223-8)](#113)
+      - [TITRE  III : PRISE DE POSSESSION (art. R231-1 à R232-8)](#114)
+        - [Chapitre Ier : Dispositions générales (art. R231-1 à R231-2)](#115)
+        - [Chapitre II : Procédure d'urgence (art. R232-1 à R232-8)](#116)
+      - [TITRE  IV : DROIT DE DÉLAISSEMENT ET DEMANDE D'EMPRISE TOTALE D'UN BIEN PARTIELLEMENT EXPROPRIÉ (art. R241-1 à R242-1)](#117)
+        - [Chapitre Ier : Droit de délaissement (art. R241-1)](#118)
+        - [Chapitre II : Demande d'emprise totale d'un bien partiellement exproprié (art. R242-1)](#119)
+    - [LIVRE III : INDEMNISATION (art. R311-1 à R323-14)](#120)
+      - [TITRE  Ier : DISPOSITIONS GÉNÉRALES (art. R311-1 à R312-9)](#121)
+        - [Chapitre Ier : Procédure (art. R311-1 à R311-32)](#122)
+          - [Section 1 : Notification par l'expropriant et détermination des ayants droit (art. R311-1 à R311-3)](#123)
+          - [Section 2 : Offres de l'expropriant et notification des mémoires (art. R311-4 à R311-13)](#124)
+          - [Section 3 : Transport sur les lieux et audience (art. R311-14 à R311-20)](#125)
+          - [Section 4 : Fixation des indemnités (art. R311-21 à R311-23)](#126)
+          - [Section 5 : Voies de recours (art. R311-24 à R311-29)](#127)
+          - [Section 6 : Dispositions diverses (art. R311-30 à R311-32)](#128)
+        - [Chapitre II : Frais et dépens (art. R312-1 à R312-9)](#129)
+      - [TITRE  II : FIXATION ET PAIEMENT DES INDEMNITÉS (art. R322-1 à R323-14)](#130)
+        - [Chapitre II : Modalités d'évaluation de l'indemnité d'expropriation (art. R322-1 à R322-6)](#131)
+        - [Chapitre III : Paiement et consignation (art. R323-1 à R323-14)](#132)
+          - [Section 1 : Paiement (art. R323-1 à R323-7)](#133)
+          - [Section 2 : Consignation (art. R323-8 à R323-12)](#134)
+          - [Section 3 : Dispositions communes (art. R323-13 à R323-14)](#135)
+    - [LIVRE IV : SUITES DE L'EXPROPRIATION (art. R411-1 à D431-1)](#136)
+      - [TITRE  Ier : CESSION DES IMMEUBLES EXPROPRIÉS (art. R411-1 à R411-3)](#137)
+        - [Chapitre unique (art. R411-1 à R411-3)](#138)
+      - [TITRE  II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION (art. R421-1 à R424-1)](#139)
+        - [Chapitre Ier : Droit de rétrocession (art. R421-1 à R421-8)](#140)
+        - [Chapitre III : Droits de relogement (art. R423-1 à R423-10)](#141)
+        - [Chapitre IV : Dispositions particulières aux terrains agricoles (art. R424-1)](#142)
+      - [TITRE  III : DISPOSITIONS RELATIVES À LA RÉORGANISATION DES TERRITOIRES À LA SUITE D'UNE EXPROPRIATION (art. D431-1)](#143)
+        - [Chapitre unique. (art. D431-1)](#144)
+    - [LIVRE V : PROCÉDURES SPÉCIALES (art. R511-1 à R522-1)](#145)
+      - [TITRE  Ier : EXPROPRIATION DES IMMEUBLES INSALUBRES OU MENAÇANT RUINE (art. R511-1 à R511-3)](#146)
+        - [Chapitre unique. (art. R511-1 à R511-3)](#147)
+      - [TITRE  II : PROCÉDURE D'EXTRÊME URGENCE (art. R521-1 à R522-1)](#148)
+        - [Chapitre Ier : Travaux intéressant la défense nationale (art. R521-1 à R521-3)](#149)
+        - [Chapitre II : Autres travaux (art. R522-1)](#150)
+    - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R611-1 à R641-3)](#151)
+      - [TITRE  Ier : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R611-1 à R611-2)](#152)
+        - [Chapitre unique. (art. R611-1 à R611-2)](#153)
+      - [TITRE  II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY (art. R621-1 à R621-3)](#154)
+        - [Chapitre unique. (art. R621-1 à R621-3)](#155)
+      - [TITRE  III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. R631-1 à R631-3)](#156)
+        - [Chapitre unique. (art. R631-1 à R631-3)](#157)
+      - [TITRE  IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. R641-1 à R641-3)](#158)
+        - [Chapitre unique. (art. R641-1 à R641-3)](#159)
+    - [ANNEXES (art. Annexe 1 à Annexe 5)](#160)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article L1
@@ -249,50 +244,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. L11-1, al. 2 et 3 v. 3.1 (VT)
-
-
-###### Article L110-2
-
-Sans préjudice des dispositions particulières contenues dans d'autres textes, les dispositions du présent titre régissent les
-enquêtes publiques qui ne sont pas préalables à une déclaration d'utilité publique pour lesquelles il est fait renvoi au code
-de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-_Abrogé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 6
-
-_Cité par_:
-
-  - Décret n°2016-308 du 17 mars 2016 - art. 6
-  - Code de l'environnement - art. R571-32 (M)
-  - Code de l'environnement - art. R571-52 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R112-25 (Ab)
-  - Code de l'urbanisme - art. R*160-17 (VT)
-  - Code de l'urbanisme - art. R*318-6 (M)
-  - Code de l'énergie - art. R721-3 (M)
-  - Code de la santé publique - art. R1322-18 (M)
-  - Code de la voirie routière - art. R*141-10 (M)
-  - Code de la voirie routière - art. R*151-3 (M)
-  - Code de la voirie routière - art. R*151-5 (M)
-  - Code de la voirie routière - art. R*171-6 (M)
-  - Code général de la propriété des personnes publ... - art. R2111-15 (M)
-  - Code général des collectivités territoriales - art. R1311-8 (M)
-  - Code rural - art. R152-30 (M)
-  - Code rural et de la pêche maritime - art. R161-25 (M)
-
-_Nouveaux textes_:
-
-  - Code des relations entre le public et l'adminis... - art. L134-1 (VD)
 
 
 #### Chapitre II : Déroulement de l'enquête<a id=4></a>
@@ -1033,7 +984,7 @@ justification, par tout intéressé, du caractère irrévocable ou définitif de
 des droits réels ou personnels existant sur les immeubles expropriés.
 
 Les dispositions du présent article sont applicables aux acquisitions réalisées dans les conditions prévues aux articles L.
-123-17 et L. 213-5 du code de l'urbanisme.
+152-2 et L. 213-5 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -1041,14 +992,14 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-17 (V)
-  - Code de l'urbanisme - art. L213-5 (M)
+  - Code de l'urbanisme - art. L152-2 (VD)
+  - Code de l'urbanisme - art. L213-5 (V)
 
 _Cité par_:
 
@@ -1282,8 +1233,8 @@ Lorsqu'un délai d'un an s'est écoulé à compter de la publication d'un acte p
 opération, les propriétaires des biens à acquérir compris dans cette opération peuvent mettre en demeure l'expropriant au
 bénéfice duquel la déclaration d'utilité publique est intervenue de procéder à l'acquisition de leur bien dans un délai de
 deux ans à compter du jour de la demande. Ce délai peut être prorogé une fois pour une durée d'un an, sauf dans les cas où
-une décision de sursis à statuer a été opposée antérieurement à l'intéressé en application des dispositions des articles L.
-111-9 à L. 111-11 du code de l'urbanisme. 
+une décision de sursis à statuer a été opposée antérieurement à l'intéressé en application des dispositions de l'article L.
+424-1 du code de l'urbanisme. 
 
 Les dispositions du présent article ne sont pas applicables lorsque l'opération tend à la conservation des forêts. 
 
@@ -1296,13 +1247,13 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L111-9 (V)
+  - Code de l'urbanisme - art. L424-1 (VD)
 
 _Cité par_:
 
@@ -2204,8 +2155,8 @@ _Créé par_:
 ###### Article L322-6
 
 Lorsqu'il s'agit de l'expropriation d'un terrain compris dans un emplacement réservé par un plan local d'urbanisme en
-application du V de l'article L. 123-1-5 du code de l'urbanisme, par un document d'urbanisme en tenant lieu, ou par un plan
-d'occupation des sols en application du 8° de l'article L. 123-1 de ce code dans sa rédaction antérieure à la loi n°
+application des 1° à 4° de l'article L. 151-41 du code de l'urbanisme, par un document d'urbanisme en tenant lieu, ou par un
+plan d'occupation des sols en application du 8° de l'article L. 123-1 de ce code dans sa rédaction antérieure à la loi n°
 2000-1208 du 13 décembre 2000, le terrain est considéré, pour son évaluation, comme ayant cessé d'être compris dans un
 emplacement réservé. 
 
@@ -2217,18 +2168,18 @@ situé l'emplacement réservé.
 
 _Cite_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 (V)
-  - Code de l'urbanisme - art. L123-1 (V)
-  - Code de l'urbanisme - art. L123-1-5 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L322-3 (VD)
+  - Loi n°2000-1208 du 13 décembre 2000
+  - Code de l'urbanisme - art. L123-1
+  - Code de l'urbanisme - art. L151-41 (VD)
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-3
 
 _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 
 ###### Article L322-7
@@ -4497,19 +4448,16 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 al. 1 phrase 3 (Ab)
 
 
-##### Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête<a id=79></a>
-
-##### Sous-section 1 : Enquêtes publiques préalables à une déclaration d'utilité publique<a id=80></a>
-
 ###### Article R111-2
 
-Sous réserve des cas où une autre autorité administrative est compétente pour y procéder, le préfet du département où doit se
-dérouler l'opération en vue de laquelle l'enquête publique est demandée désigne, par arrêté, un commissaire enquêteur.
-
-Lorsque cette opération doit se dérouler sur le territoire de plusieurs départements, cette désignation s'effectue par arrêté
-conjoint des préfets concernés.
+L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
+aux articles R. 123-25 à R. 123-27 du code de l'environnement.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 _Cité par_:
 
@@ -4517,21 +4465,22 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R111-3 (V)
   - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Code de l'environnement - art. R123-25 (V)
 
 _Anciens textes_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 al. 2 phrase 1 (Ab)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 al. 1 phrase 1 (Ab)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (T)
 
 
-##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2<a id=81></a>
+##### Section 1 : Désignation du commissaire enquêteur ou de la commission d'enquête<a id=79></a>
+
+##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2<a id=80></a>
 
 ###### Article R111-3
 
@@ -4561,209 +4510,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. R111-2
 
 
-###### Article R111-4
+##### Section 2 : Indemnisation du commissaire enquêteur ou des membres de la commission d'enquête<a id=81></a>
 
-Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis parmi les personnes figurant sur les listes
-d'aptitude prévues à l'article L. 123-4 du code de l'environnement.
-
-Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur ou de membre de la commission d'enquête ni les
-personnes appartenant à l'administration de la collectivité ou de l'organisme bénéficiaire de l'opération projetée ou
-participant à son contrôle, ni les personnes intéressées à l'opération, soit à titre personnel, soit en raison des fonctions
-qu'elles exercent, ou ont exercées depuis moins de cinq ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-_Cité par_:
-
-  - Décret n°2019-1432 du 23 décembre 2019 - art. 5
-  - Arrêté du 27 février 1986 - art. 4 (Ab)
-  - Code de l'environnement - art. R422-17 (V)
-  - Code de la sécurité sociale. - art. D311-1 (M)
-  - Code de la voirie routière - art. R*131-3 (VT)
-  - Code rural et de la pêche maritime - art. R151-43 (Ab)
-
-_Cite_:
-
-  - Code de l'environnement - art. L123-4
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-5 (Ab)
-
-_Nouveaux textes_:
-
-  - Code des relations entre le public et l'adminis... - art. R134-17 (VD)
-
-
-##### Section 2 : Indemnisation du commissaire enquêteur ou des membres de la commission d'enquête<a id=82></a>
-
-##### Sous-section 1 : Enquêtes publiques préalables à une déclaration d'utilité publique<a id=83></a>
-
-###### Article R111-5
-
-L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée dans les conditions prévues
-aux articles R. 123-25 à R. 123-27 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-_Cite_:
-
-  - Code de l'environnement - art. R123-25
-
-_Cité par_:
-
-  - Code de l'environnement - art. R123-26 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R11-6-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (VD)
-
-
-##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2<a id=84></a>
-
-###### Article R111-6
-
-Le commissaire enquêteur et les membres de la commission d'enquête ont droit à une indemnité, à la charge du maître
-d'ouvrage, qui comprend des vacations et le remboursement des frais qu'ils engagent pour l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 2 (Ab)
-
-_Cité par_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R131-2 (M)
-  - Code de l'urbanisme - art. R*318-7 (V)
-  - Code de la sécurité sociale. - art. D311-1 (M)
-
-_Nouveaux textes_:
-
-  - Code des relations entre le public et l'adminis... - art. R134-18 (VD)
-
-
-###### Article R111-7
-
-I. - Sous réserve des cas où une autre autorité administrative les a désignés, le préfet ayant désigné le commissaire
-enquêteur ou les membres de la commission d'enquête détermine le nombre de vacations qui leur sont allouées sur la base du
-nombre d'heures que le commissaire enquêteur ou les membres de la commission déclarent avoir consacrées à l'enquête, en
-tenant compte des difficultés de l'enquête ainsi que de la nature et de la qualité du travail fourni.
-
-Il arrête, sur justificatifs, le montant des frais qui sont remboursés au commissaire enquêteur ou aux membres de la
-commission d'enquête.
-
-Il fixe le montant de l'indemnité, par un arrêté qu'il notifie au commissaire enquêteur ou aux membres de la commission
-d'enquête et au maître d'ouvrage.
-
-II. - Lorsque l'opération en vue de laquelle l'enquête publique est demandée doit se dérouler sur le territoire de plusieurs
-départements, la détermination de l'indemnisation s'effectue par arrêté conjoint des préfets concernés selon les modalités
-définies au I.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 3 à 5 (Ab)
-
-_Cité par_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R111-8 (VT)
-  - Code de la sécurité sociale. - art. D311-1 (M)
-
-_Nouveaux textes_:
-
-  - Code des relations entre le public et l'adminis... - art. R134-19 (VD)
-
-
-###### Article R111-8
-
-Le maître d'ouvrage verse sans délai au commissaire enquêteur ou aux membres de la commission d'enquête le montant de
-l'indemnité arrêté conformément à l'article R. 111-7.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-6, al. 5 (Ab)
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité publique - art. R111-7
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. D311-1 (M)
-
-_Nouveaux textes_:
-
-  - Code des relations entre le public et l'adminis... - art. R134-20 (VD)
-
+##### Sous-section 2 : Enquêtes publiques relevant de l'article L. 110-2<a id=82></a>
 
 ###### Article R111-9
 
@@ -4789,9 +4538,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (M)
 
 
-#### Chapitre II : Déroulement de l'enquête<a id=85></a>
+#### Chapitre II : Déroulement de l'enquête<a id=83></a>
 
-##### Section 1 : Autorité compétente pour ouvrir et organiser l'enquête<a id=86></a>
+##### Section 1 : Autorité compétente pour ouvrir et organiser l'enquête<a id=84></a>
 
 ###### Article R112-1
 
@@ -4869,7 +4618,7 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R112-21 (V)
 
 
-##### Section 2 : Dossier d'enquête<a id=87></a>
+##### Section 2 : Dossier d'enquête<a id=85></a>
 
 ###### Article R112-4
 
@@ -4961,35 +4710,6 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3, al. 10 à 14 (Ab)
 
 
-###### Article R112-6
-
-La notice explicative prévue aux articles R. 112-4 et R. 112-5 indique l'objet de l'opération et les raisons pour lesquelles,
-parmi les partis envisagés, le projet soumis à l'enquête a été retenu, notamment du point de vue de son insertion dans
-l'environnement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2015-1342 du 23 octobre 2015 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3, al. 15 et 16 (Ab)
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité publique - art. R112-4
-
-
 ###### Article R112-7
 
 Tous documents, plans et maquettes établis par l'expropriant peuvent, en outre, venir préciser l'opération en vue de laquelle
@@ -5010,7 +4730,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-7 al. 2 (Ab)
 
 
-##### Section 3 : Ouverture de l'enquête<a id=88></a>
+##### Section 3 : Ouverture de l'enquête<a id=86></a>
 
 ###### Article R112-8
 
@@ -5299,7 +5019,7 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R131-5 (V)
 
 
-##### Section 4 : Observations formulées au cours de l'enquête<a id=89></a>
+##### Section 4 : Observations formulées au cours de l'enquête<a id=87></a>
 
 ###### Article R112-17
 
@@ -5337,9 +5057,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R112-13 (V)
 
 
-##### Section 5 : Clôture de l'enquête<a id=90></a>
+##### Section 5 : Clôture de l'enquête<a id=88></a>
 
-##### Sous-section 1 : Dispositions générales<a id=91></a>
+##### Sous-section 1 : Dispositions générales<a id=89></a>
 
 ###### Article R112-18
 
@@ -5472,7 +5192,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R112-3 (V)
 
 
-##### Sous-section 2 : Dispositions particulières<a id=92></a>
+##### Sous-section 2 : Dispositions particulières<a id=90></a>
 
 ###### Article R112-22
 
@@ -5529,7 +5249,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R112-22 (V)
 
 
-##### Section 6 : Communication des conclusions du commissaire enquêteur<a id=93></a>
+##### Section 6 : Communication des conclusions du commissaire enquêteur<a id=91></a>
 
 ###### Article R112-24
 
@@ -5562,7 +5282,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L112-1 (V)
 
 
-##### Section 7 : Enquêtes publiques relevant de l'article L. 110-2<a id=94></a>
+##### Section 7 : Enquêtes publiques relevant de l'article L. 110-2<a id=92></a>
 
 ###### Article R112-25
 
@@ -5631,9 +5351,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. R112-15
 
 
-### TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE<a id=95></a>
+### TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE<a id=93></a>
 
-#### Chapitre Ier : Dispositions générales<a id=96></a>
+#### Chapitre Ier : Dispositions générales<a id=94></a>
 
 ###### Article R121-1
 
@@ -5736,9 +5456,9 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-2 (Ab)
 
 
-#### Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations<a id=97></a>
+#### Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations<a id=95></a>
 
-##### Section 1 : Opération intéressant des monuments historiques<a id=98></a>
+##### Section 1 : Opération intéressant des monuments historiques<a id=96></a>
 
 ###### Article R122-1
 
@@ -5773,7 +5493,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*152-2 (V)
 
 
-##### Section 2 : Opération intéressant des monuments et sites naturels<a id=99></a>
+##### Section 2 : Opération intéressant des monuments et sites naturels<a id=97></a>
 
 ###### Article R122-2
 
@@ -5803,7 +5523,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R121-2 (V)
 
 
-##### Section 3 : Opération intéressant des vignes soumises au régime des appellations d'origine<a id=100></a>
+##### Section 3 : Opération intéressant des vignes soumises au régime des appellations d'origine<a id=98></a>
 
 ###### Article R122-3
 
@@ -5836,7 +5556,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R643-1 (V)
 
 
-##### Section 4 : Opération secrète intéressant la défense nationale<a id=101></a>
+##### Section 4 : Opération secrète intéressant la défense nationale<a id=99></a>
 
 ###### Article R122-4
 
@@ -5986,11 +5706,11 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 
-### TITRE  III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES<a id=102></a>
+### TITRE  III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES<a id=100></a>
 
-#### Chapitre Ier : Enquête parcellaire<a id=103></a>
+#### Chapitre Ier : Enquête parcellaire<a id=101></a>
 
-##### Section 1 : Désignation et indemnisation du commissaire enquêteur ou de la commission d'enquête<a id=104></a>
+##### Section 1 : Désignation et indemnisation du commissaire enquêteur ou de la commission d'enquête<a id=102></a>
 
 ###### Article R131-1
 
@@ -6038,19 +5758,15 @@ _Anciens textes_:
 ###### Article R131-2
 
 L'indemnisation du commissaire enquêteur ou des membres de la commission d'enquête est assurée soit dans les conditions
-prévues à l'article R. 111-5, lorsque l'enquête parcellaire est conduite en vue d'une expropriation pour cause d'utilité
+prévues à l'article R. 111-2, lorsque l'enquête parcellaire est conduite en vue d'une expropriation pour cause d'utilité
 publique, soit dans les conditions prévues aux articles R. 111-6 à R. 111-9, lorsque l'enquête parcellaire n'est pas engagée
 à une telle fin.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2015-1342 du 23 octobre 2015 - art. 3 (V)
 
 _Cité par_:
 
@@ -6063,11 +5779,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R111-5 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R111-2 (V)
   - Code de l'expropriation pour cause d'utilité pu... - art. R111-6 (V)
 
 
-##### Section 2 : Déroulement de l'enquête<a id=105></a>
+##### Section 2 : Déroulement de l'enquête<a id=103></a>
 
 ###### Article R131-3
 
@@ -6287,7 +6003,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R131-4 (V)
 
 
-##### Section 3 : Clôture de l'enquête<a id=106></a>
+##### Section 3 : Clôture de l'enquête<a id=104></a>
 
 ###### Article R131-9
 
@@ -6346,7 +6062,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R131-4 (V)
 
 
-##### Section 4 : Cas particuliers<a id=107></a>
+##### Section 4 : Cas particuliers<a id=105></a>
 
 ###### Article R131-11
 
@@ -6475,7 +6191,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*123-3 (V)
 
 
-#### Chapitre II : Cessibilité<a id=108></a>
+#### Chapitre II : Cessibilité<a id=106></a>
 
 ###### Article R132-1
 
@@ -6591,11 +6307,11 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R132-2 (V)
 
 
-## LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION<a id=109></a>
+## LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION<a id=107></a>
 
-### TITRE  Ier : JURIDICTION DE L'EXPROPRIATION ET COMMISSAIRE DU GOUVERNEMENT<a id=110></a>
+### TITRE  Ier : JURIDICTION DE L'EXPROPRIATION ET COMMISSAIRE DU GOUVERNEMENT<a id=108></a>
 
-#### Chapitre Ier : Juridiction de l'expropriation<a id=111></a>
+#### Chapitre Ier : Juridiction de l'expropriation<a id=109></a>
 
 ###### Article R211-1
 
@@ -6754,7 +6470,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R16-3 (Ab)
 
 
-#### Chapitre II : Commissaire du Gouvernement<a id=112></a>
+#### Chapitre II : Commissaire du Gouvernement<a id=110></a>
 
 ###### Article R212-1
 
@@ -6792,9 +6508,9 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-7 (Ab)
 
 
-### TITRE  II : TRANSFERT DE PROPRIÉTÉ<a id=113></a>
+### TITRE  II : TRANSFERT DE PROPRIÉTÉ<a id=111></a>
 
-#### Chapitre Ier : Ordonnance d'expropriation<a id=114></a>
+#### Chapitre Ier : Ordonnance d'expropriation<a id=112></a>
 
 ###### Article R221-1
 
@@ -7025,7 +6741,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R12-5 al. 1 et 2 (Ab)
 
 
-#### Chapitre III : Recours contre l'ordonnance d'expropriation<a id=115></a>
+#### Chapitre III : Recours contre l'ordonnance d'expropriation<a id=113></a>
 
 ###### Article R223-1
 
@@ -7241,9 +6957,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R223-6 (V)
 
 
-### TITRE  III : PRISE DE POSSESSION<a id=116></a>
+### TITRE  III : PRISE DE POSSESSION<a id=114></a>
 
-#### Chapitre Ier : Dispositions générales<a id=117></a>
+#### Chapitre Ier : Dispositions générales<a id=115></a>
 
 ###### Article R231-1
 
@@ -7288,7 +7004,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L331-3 (V)
 
 
-#### Chapitre II : Procédure d'urgence<a id=118></a>
+#### Chapitre II : Procédure d'urgence<a id=116></a>
 
 ###### Article R232-1
 
@@ -7498,9 +7214,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R322-1 (V)
 
 
-### TITRE  IV : DROIT DE DÉLAISSEMENT ET DEMANDE D'EMPRISE TOTALE D'UN BIEN PARTIELLEMENT EXPROPRIÉ<a id=119></a>
+### TITRE  IV : DROIT DE DÉLAISSEMENT ET DEMANDE D'EMPRISE TOTALE D'UN BIEN PARTIELLEMENT EXPROPRIÉ<a id=117></a>
 
-#### Chapitre Ier : Droit de délaissement<a id=120></a>
+#### Chapitre Ier : Droit de délaissement<a id=118></a>
 
 ###### Article R241-1
 
@@ -7534,7 +7250,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R11-18 (Ab)
 
 
-#### Chapitre II : Demande d'emprise totale d'un bien partiellement exproprié<a id=121></a>
+#### Chapitre II : Demande d'emprise totale d'un bien partiellement exproprié<a id=119></a>
 
 ###### Article R242-1
 
@@ -7568,13 +7284,13 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R232-1 (V)
 
 
-## LIVRE III : INDEMNISATION<a id=122></a>
+## LIVRE III : INDEMNISATION<a id=120></a>
 
-### TITRE  Ier : DISPOSITIONS GÉNÉRALES<a id=123></a>
+### TITRE  Ier : DISPOSITIONS GÉNÉRALES<a id=121></a>
 
-#### Chapitre Ier : Procédure<a id=124></a>
+#### Chapitre Ier : Procédure<a id=122></a>
 
-##### Section 1 : Notification par l'expropriant et détermination des ayants droit<a id=125></a>
+##### Section 1 : Notification par l'expropriant et détermination des ayants droit<a id=123></a>
 
 ###### Article R311-1
 
@@ -7667,7 +7383,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-2 (V)
 
 
-##### Section 2 : Offres de l'expropriant et notification des mémoires<a id=126></a>
+##### Section 2 : Offres de l'expropriant et notification des mémoires<a id=124></a>
 
 ###### Article R311-4
 
@@ -7991,7 +7707,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-5 (V)
 
 
-##### Section 3 : Transport sur les lieux et audience<a id=127></a>
+##### Section 3 : Transport sur les lieux et audience<a id=125></a>
 
 ###### Article R311-14
 
@@ -8203,7 +7919,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R322-1 (V)
 
 
-##### Section 4 : Fixation des indemnités<a id=128></a>
+##### Section 4 : Fixation des indemnités<a id=126></a>
 
 ###### Article R311-21
 
@@ -8292,7 +8008,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R311-20 (V)
 
 
-##### Section 5 : Voies de recours<a id=129></a>
+##### Section 5 : Voies de recours<a id=127></a>
 
 ###### Article R311-24
 
@@ -8460,7 +8176,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R312-2 (V)
 
 
-##### Section 6 : Dispositions diverses<a id=130></a>
+##### Section 6 : Dispositions diverses<a id=128></a>
 
 ###### Article R311-30
 
@@ -8548,7 +8264,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-14 (Ab)
 
 
-#### Chapitre II : Frais et dépens<a id=131></a>
+#### Chapitre II : Frais et dépens<a id=129></a>
 
 ###### Article R312-1
 
@@ -8768,9 +8484,9 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-61 (Ab)
 
 
-### TITRE  II : FIXATION ET PAIEMENT DES INDEMNITÉS<a id=132></a>
+### TITRE  II : FIXATION ET PAIEMENT DES INDEMNITÉS<a id=130></a>
 
-#### Chapitre II : Modalités d'évaluation de l'indemnité d'expropriation<a id=133></a>
+#### Chapitre II : Modalités d'évaluation de l'indemnité d'expropriation<a id=131></a>
 
 ###### Article R322-1
 
@@ -8944,9 +8660,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L322-12 (V)
 
 
-#### Chapitre III : Paiement et consignation<a id=134></a>
+#### Chapitre III : Paiement et consignation<a id=132></a>
 
-##### Section 1 : Paiement<a id=135></a>
+##### Section 1 : Paiement<a id=133></a>
 
 ###### Article R323-1
 
@@ -9150,7 +8866,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-72 (Ab)
 
 
-##### Section 2 : Consignation<a id=136></a>
+##### Section 2 : Consignation<a id=134></a>
 
 ###### Article R323-8
 
@@ -9311,7 +9027,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R13-69 (Ab)
 
 
-##### Section 3 : Dispositions communes<a id=137></a>
+##### Section 3 : Dispositions communes<a id=135></a>
 
 ###### Article R323-13
 
@@ -9378,11 +9094,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R136-8 (V)
 
 
-## LIVRE IV : SUITES DE L'EXPROPRIATION<a id=138></a>
+## LIVRE IV : SUITES DE L'EXPROPRIATION<a id=136></a>
 
-### TITRE  Ier : CESSION DES IMMEUBLES EXPROPRIÉS<a id=139></a>
+### TITRE  Ier : CESSION DES IMMEUBLES EXPROPRIÉS<a id=137></a>
 
-#### Chapitre unique<a id=140></a>
+#### Chapitre unique<a id=138></a>
 
 ###### Article R411-1
 
@@ -9463,9 +9179,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L411-3
 
 
-### TITRE  II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION<a id=141></a>
+### TITRE  II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION<a id=139></a>
 
-#### Chapitre Ier : Droit de rétrocession<a id=142></a>
+#### Chapitre Ier : Droit de rétrocession<a id=140></a>
 
 ###### Article R421-1
 
@@ -9691,7 +9407,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R12-11 (Ab)
 
 
-#### Chapitre III : Droits de relogement<a id=143></a>
+#### Chapitre III : Droits de relogement<a id=141></a>
 
 ###### Article R423-1
 
@@ -9944,7 +9660,7 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R14-11 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières aux terrains agricoles<a id=144></a>
+#### Chapitre IV : Dispositions particulières aux terrains agricoles<a id=142></a>
 
 ###### Article R424-1
 
@@ -9972,9 +9688,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L424-1 (V)
 
 
-### TITRE  III : DISPOSITIONS RELATIVES À LA RÉORGANISATION DES TERRITOIRES À LA SUITE D'UNE EXPROPRIATION<a id=145></a>
+### TITRE  III : DISPOSITIONS RELATIVES À LA RÉORGANISATION DES TERRITOIRES À LA SUITE D'UNE EXPROPRIATION<a id=143></a>
 
-#### Chapitre unique.<a id=146></a>
+#### Chapitre unique.<a id=144></a>
 
 ###### Article D431-1
 
@@ -10000,11 +9716,11 @@ _Anciens textes_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R22-1 (Ab)
 
 
-## LIVRE V : PROCÉDURES SPÉCIALES<a id=147></a>
+## LIVRE V : PROCÉDURES SPÉCIALES<a id=145></a>
 
-### TITRE  Ier : EXPROPRIATION DES IMMEUBLES INSALUBRES OU MENAÇANT RUINE<a id=148></a>
+### TITRE  Ier : EXPROPRIATION DES IMMEUBLES INSALUBRES OU MENAÇANT RUINE<a id=146></a>
 
-#### Chapitre unique.<a id=149></a>
+#### Chapitre unique.<a id=147></a>
 
 ###### Article R511-1
 
@@ -10088,9 +9804,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L511-2 (V)
 
 
-### TITRE  II : PROCÉDURE D'EXTRÊME URGENCE<a id=150></a>
+### TITRE  II : PROCÉDURE D'EXTRÊME URGENCE<a id=148></a>
 
-#### Chapitre Ier : Travaux intéressant la défense nationale<a id=151></a>
+#### Chapitre Ier : Travaux intéressant la défense nationale<a id=149></a>
 
 ###### Article R521-1
 
@@ -10161,7 +9877,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L521-3 (V)
 
 
-#### Chapitre II : Autres travaux<a id=152></a>
+#### Chapitre II : Autres travaux<a id=150></a>
 
 ###### Article R522-1
 
@@ -10183,11 +9899,11 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L522-3 (V)
 
 
-## LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=153></a>
+## LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=151></a>
 
-### TITRE  Ier : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=154></a>
+### TITRE  Ier : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=152></a>
 
-#### Chapitre unique.<a id=155></a>
+#### Chapitre unique.<a id=153></a>
 
 ###### Article R611-1
 
@@ -10229,9 +9945,9 @@ _Créé par_:
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 
-### TITRE  II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY<a id=156></a>
+### TITRE  II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY<a id=154></a>
 
-#### Chapitre unique.<a id=157></a>
+#### Chapitre unique.<a id=155></a>
 
 ###### Article R621-1
 
@@ -10304,9 +10020,9 @@ _Créé par_:
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 
-### TITRE  III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=158></a>
+### TITRE  III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=156></a>
 
-#### Chapitre unique.<a id=159></a>
+#### Chapitre unique.<a id=157></a>
 
 ###### Article R631-1
 
@@ -10379,9 +10095,9 @@ _Créé par_:
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 
-### TITRE  IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=160></a>
+### TITRE  IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=158></a>
 
-#### Chapitre unique.<a id=161></a>
+#### Chapitre unique.<a id=159></a>
 
 ###### Article R641-1
 
@@ -10478,7 +10194,7 @@ _Créé par_:
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 
-## ANNEXES<a id=162></a>
+## ANNEXES<a id=160></a>
 
 ###### Article Annexe 1
 
@@ -11155,124 +10871,5 @@ _Cite_:
   - Code de l'urbanisme - art. R442-13 (M)
   - Code de l'expropriation pour cause d'utilité pu... - art. L411-3 (V)
   - Code de l'expropriation pour cause d'utilité pu... - art. L411-4 (V)
-
-
-# Partie législative<a id=163></a>
-
-## TITRE II : Dispositions propres à certaines catégories d'opérations<a id=164></a>
-
-### CHAPITRE Ier : Cession des immeubles expropriés.<a id=165></a>
-
-###### Article L21-1
-
-Peuvent être cédés de gré à gré ou concédés temporairement à des personnes de droit privé ou de droit public et sous
-condition que ces personnes les utilisent aux fins prescrites par le cahier des charges annexé à l'acte de cession ou de
-concession temporaire : 
-
-1° Les immeubles expropriés en vue de la construction d'ensembles immobiliers à usage d'habitation avec leurs installations
-annexes ou en vue de la création de lotissements destinés à l'habitation ou à l'industrie ; 
-
-2° Les immeubles expropriés en vue :
-
-- de l'aménagement progressif et suivant des plans d'ensemble des zones affectées à l'habitation ou à des activités par des
-projets d'aménagement, des plans d'urbanisme approuvés ou par des plans d'occupation des sols rendus publics ou approuvés ;
-
-- d'opérations dans les zones d'aménagement concerté prévues à l'article L. 311-1 du code de l'urbanisme ;
-
-- d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies par les articles 25 et 26 de la loi n°
-70-612 du 10 juillet 1970 ; 
-
-2° bis Les immeubles en état manifeste d'abandon expropriés en application de l'article L. 2243-4 du code général des
-collectivités territoriales, les immeubles expropriés et situés dans un ensemble immobilier faisant l'objet d'un plan de
-sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation ou pour lesquels l'état de
-carence a été déclaré en application de l'article L. 615-6 du même code, les immeubles expropriés en vue de leur restauration
-en application de l'article L. 313-4-1 du code de l'urbanisme ; 
-
-3° Les immeubles expropriés en vue de l'épuration des eaux provenant d'un établissement industriel, commercial, artisanal ou
-agricole et, d'une façon générale, les immeubles expropriés en vue d'éviter la pollution des eaux par des déversements,
-écoulements, jets, dépôts directs ou indirects de matières de cet établissement, lorsque ce résultat ne peut être obtenu que
-par des travaux s'étendant en dehors de l'établissement ; 
-
-4° Les immeubles expropriés compris dans le plan d'aménagement touristique ou sportif des abords d'un plan d'eau créé ou
-aménagé par l'Etat, les départements, les communes, les associations foncières ou les groupements de ces collectivités ainsi
-que leurs concessionnaires ; 
-
-5° Dans les périmètres de protection et de reconstitution forestières créés en application des articles L133-1 à L133-3 et
-L133-8 du nouveau code forestier et dans les périmètres de restauration des terrains en montagne créés en application de
-l'article L. 424-1 du code forestier, les immeubles expropriés en application de ces dispositions. Les catégories de
-personnes auxquelles ces immeubles pourront être cédés de gré à gré sont fixées par décret en Conseil d'Etat. Pour ces
-cessions de gré à gré, une priorité sera accordée aux anciens propriétaires expropriés et à leurs ascendants et, en cas de
-refus de leur part, aux collectivités locales. 
-
-Les propriétaires ayant cédé leur terrain à l'amiable et leurs descendants bénéficient de la même priorité que les
-propriétaires expropriés ; 
-
-6° Les immeubles expropriés pour la constitution de réserves foncières lorsque la cession ou la concession temporaire de ces
-immeubles est faite en vue de la réalisation d'opérations pour lesquelles la réserve a été constituée conformément aux
-dispositions des articles L. 221-1 et L. 221-2 du code de l'urbanisme ou de l'article 13 (2ème alinéa) de la loi n° 70-612 du
-10 juillet 1970 ; 
-
-7° Les immeubles expropriés en vue de l'aménagement et de l'exploitation d'installations d'élimination ou de traitement des
-déchets ; 
-
-8° Les immeubles expropriés par l'établissement public créé par l'article L. 325-1 du code de l'urbanisme en vue de la
-création, l'extension, la transformation ou la reconversion des espaces commerciaux et artisanaux dans les quartiers
-prioritaires de la politique de la ville.
-
-**Nota:**
-
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
-fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-216 du 3 février 1955 - art. ANNEXE 3 (VT)
-  - Décret n°55-216 du 3 février 1955 - art. ANNEXE 5 (VT)
-  - Décret n°72-27 du 10 janvier 1972 - art. 3 (VT)
-  - Décret n°72-770 du 17 août 1972 - art. 3 (VT)
-  - Décret n°73-968 du 15 octobre 1973 - art. 3 (VT)
-  - Décret n°87-191 du 24 mars 1987 - art. 3 (V)
-  - Décret n°87-191 du 24 mars 1987 - art. 5 (V)
-  - Décret n°95-1102 du 13 octobre 1995 - art. 2 (M)
-  - Décret n°96-325 du 10 avril 1996 - art. 2 (M)
-  - Décret n°2000-1237 du 19 décembre 2000 - art. 2 (Ab)
-  - Décret n°2002-477 du 8 avril 2002 - art. 2 (Ab)
-  - Décret n°2007-88 du 24 janvier 2007 - art. 2 (M)
-  - Décret n°2007-785 du 10 mai 2007 - art. 2 (V)
-  - Décret n°2008-773 du 30 juillet 2008 - art. 2 (M)
-  - Décret n°2010-306 du 22 mars 2010 - art. 2 (M)
-  - Décret n°2010-743 du 2 juillet 2010 - art. 2 (V)
-  - CODE DES COMMUNES. - art. L*311-8 (MMN)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L21-2 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L21-3 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R14-6 (VT)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R21-1 (VT)
-  - Code du domaine de l'Etat - art. R142 (Ab)
-  - Code du domaine de l'Etat - art. R171 (Ab)
-  - Code forestier (nouveau) - art. L133-5 (V)
-  - Code forestier - art. L321-10 (VT)
-  - Code forestier - art. R321-21 (T)
-  - Code forestier - art. R321-31 (Ab)
-  - Code général de la propriété des personnes publ... - art. R3221-1 (VT)
-  - Code général des collectivités territoriales - art. L2421-18 (V)
-
-_Cite_:
-
-  - Loi n°70-612 du 10 juillet 1970 - art. 13
-  - Loi n°70-612 du 10 juillet 1970 - art. 25
-  - Loi n°95-115 du 4 février 1995 - art. 42
-  - Code général des collectivités territoriales - art. L2243-4
-  - Code de l'urbanisme - art. L221-1
-  - Code de l'urbanisme - art. L311-1
-  - Code de l'urbanisme - art. L313-4-1
-  - Code de la construction et de l'habitation. - art. L615-1
-  - Code forestier (nouveau) - art. L133-1
-  - Code forestier (nouveau) - art. L133-8
-
-_Modifié par_:
-
-  - Loi n°2014-173 du 21 février 2014 - art. 26
 
 
