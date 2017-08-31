@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2017-04-28
+Version Consolidée au 2017-09-01
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -6315,8 +6315,9 @@ _Anciens textes_:
 
 ###### Article R212-1
 
-Le directeur des finances publiques du département dans lequel la juridiction de l'expropriation a son siège exerce les
-fonctions de commissaire du Gouvernement auprès de cette juridiction.
+Le directeur départemental ou le directeur régional des finances publiques territorialement compétent pour procéder aux
+évaluations dans le département dans lequel la juridiction de l'expropriation a son siège exerce les fonctions de commissaire
+du Gouvernement auprès de cette juridiction.
 
 Il peut désigner des fonctionnaires de l'administration chargée des domaines aux fins de le suppléer dans les fonctions de
 commissaire du Gouvernement.
@@ -6326,7 +6327,25 @@ expropriante, donné l'avis d'estimation préalable aux offres d'indemnité.
 
 Le commissaire du Gouvernement exerce ses missions dans le respect de la contradiction guidant le procès civil.
 
+**Nota:**
+
+Aux termes de l'article 5 du décret n° 2017-1255 du 8 août 2017, les présentes dispositions entrent en vigueur le 1er
+septembre 2017.
+
+Toutefois, elles ne s'appliquent pas :
+
+1° Aux procédures en cours devant le juge de l'expropriation lorsque l'ordonnance fixant les jour et heure du transport sur
+les lieux et mentionnée à l'article R. 311-14 du code de l'expropriation pour cause d'utilité publique a été notifiée au
+commissaire du Gouvernement en application de l'article R. 311-15 du même code ;
+
+2° Aux procédures pendantes devant la cour d'appel lorsque le commissaire du Gouvernement a interjeté appel ou lorsque les
+conclusions de l'appelant, mentionnées au premier alinéa de l'article R. 311-26 du code précité, lui ont été notifiées.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 _Cité par_:
 
@@ -6336,17 +6355,9 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R179 (V)
   - Code général de la propriété des personnes publ... - art. R1212-12 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-7 (Ab)
+  - Décret n°2017-1255 du 8 août 2017 - art. 3
 
 
 ### TITRE  II : TRANSFERT DE PROPRIÉTÉ<a id=106></a>
@@ -7857,12 +7868,26 @@ L'appel est interjeté par les parties ou par le commissaire du Gouvernement dan
 notification du jugement, par déclaration faite ou adressée par lettre recommandée au greffe de la cour. La déclaration
 d'appel est accompagnée d'une copie de la décision.
 
-Le commissaire du Gouvernement peut être suppléé soit par des directeurs des finances publiques des autres départements
-situés dans le ressort de la cour d'appel, soit par des fonctionnaires de l'administration chargée des domaines qu'il désigne
-spécialement à cet effet.
+Le commissaire du Gouvernement peut être suppléé soit par un directeur départemental ou régional des finances publiques
+compétent pour procéder aux évaluations dans le département où est situé l'immeuble, soit par des fonctionnaires de
+l'administration chargée des domaines qu'il désigne spécialement à cet effet.
 
 Il est fait application des dispositions de l'article 936 du code de procédure civile aux parties et au commissaire du
 Gouvernement.
+
+**Nota:**
+
+Aux termes de l'article 5 du décret n° 2017-1255 du 8 août 2017, les présentes dispositions entrent en vigueur le 1er
+septembre 2017.
+
+Toutefois, elles ne s'appliquent pas :
+
+1° Aux procédures en cours devant le juge de l'expropriation lorsque l'ordonnance fixant les jour et heure du transport sur
+les lieux et mentionnée à l'article R. 311-14 du code de l'expropriation pour cause d'utilité publique a été notifiée au
+commissaire du Gouvernement en application de l'article R. 311-15 du même code ;
+
+2° Aux procédures pendantes devant la cour d'appel lorsque le commissaire du Gouvernement a interjeté appel ou lorsque les
+conclusions de l'appelant, mentionnées au premier alinéa de l'article R. 311-26 du code précité, lui ont été notifiées.
 
 **Liens relatifs à cet article**
 
@@ -7870,19 +7895,13 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2017-1255 du 8 août 2017 - art. 4
 
 _Cite_:
 
-  - Code de procédure civile - art. 936 (M)
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-47 (Ab)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-7 (Ab)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R13-48 (Ab)
+  - Code de procédure civile - art. 936
 
 _Cité par_:
 
@@ -7910,19 +7929,19 @@ _Créé par_:
 ###### Article R311-26
 
 A peine de caducité de la déclaration d'appel, relevée d'office, l'appelant dépose ou adresse au greffe de la cour ses
-conclusions et les documents qu'il entend produire dans un délai de trois mois à compter de la déclaration d'appel.
+conclusions et les documents qu'il entend produire dans un délai de trois mois à compter de la déclaration d'appel. 
 
 A peine d'irrecevabilité, relevée d'office, l'intimé dépose ou adresse au greffe de la cour ses conclusions et les documents
-qu'il entend produire dans un délai de deux mois à compter de la notification des conclusions de l'appelant. Le cas échéant,
-il forme appel incident dans le même délai et sous la même sanction.
+qu'il entend produire dans un délai de trois mois à compter de la notification des conclusions de l'appelant. Le cas échéant,
+il forme appel incident dans le même délai et sous la même sanction. 
 
-L'intimé à un appel incident ou à un appel provoqué dispose, à peine d'irrecevabilité relevée d'office, d'un délai de deux
-mois à compter de la notification qui lui en est faite pour conclure.
+L'intimé à un appel incident ou à un appel provoqué dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois
+mois à compter de la notification qui lui en est faite pour conclure. 
 
 Le commissaire du Gouvernement dépose ou adresse au greffe de la cour ses conclusions et l'ensemble des pièces sur lesquelles
-il fonde son évaluation dans le même délai et sous la même sanction que celle prévue au deuxième alinéa.
+il fonde son évaluation dans le même délai et sous la même sanction que celle prévue au deuxième alinéa. 
 
-Les conclusions et les documents sont produits en autant d'exemplaires qu'il y a de parties, plus un.
+Les conclusions et les documents sont produits en autant d'exemplaires qu'il y a de parties, plus un. 
 
 Le greffe notifie à chaque intéressé et au commissaire du Gouvernement, dès leur réception, une copie des pièces qui lui sont
 transmises.
@@ -7933,13 +7952,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R13-49 (Ab)
+  - Décret n°2017-891 du 6 mai 2017 - art. 41
 
 
 ###### Article R311-27
