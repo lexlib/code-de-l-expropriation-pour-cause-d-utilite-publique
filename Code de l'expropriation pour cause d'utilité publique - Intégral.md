@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2018-01-03
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -8708,9 +8708,15 @@ _Cité par_:
 
 Si le remploi de l'indemnité est effectué en valeurs mobilières, l'expropriant, ou la Caisse des dépôts et consignations si
 l'indemnité a été consignée, est, en l'absence de tout autre obstacle au paiement, déchargé de sa responsabilité par la
-remise des fonds au prestataire de services d'investissement désigné par l'exproprié, par contrat ou par autorité de justice,
-pour procéder à l'achat des titres acquis en remploi. La remise des fonds a lieu sur production d'une attestation du
-prestataire de services d'investissement certifiant la mission qui lui a été confiée.
+remise des fonds au prestataire de services d'investissement autre qu'une société de gestion de portefeuille désigné par
+l'exproprié, par contrat ou par autorité de justice, pour procéder à l'achat des titres acquis en remploi. La remise des
+fonds a lieu sur production d'une attestation du prestataire de services d'investissement certifiant la mission qui lui a été
+confiée.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -8718,17 +8724,13 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
 _Cité par_:
 
   - Décret n°2017-1253 du 9 août 2017 - art. 12
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R13-72 (Ab)
+  - Décret n°2017-1253 du 9 août 2017 - art. 12
 
 
 ##### Section 2 : Consignation<a id=129></a>
