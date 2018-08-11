@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2018-01-03
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -3959,12 +3959,17 @@ _Anciens textes_:
 ###### Article L522-1
 
 Lorsque l'exécution des travaux de construction d'autoroutes, de routes express, de routes nationales ou de sections
-nouvelles de routes nationales, de voies de chemins de fer, de voies de tramways ou de transport en commun en site propre et
-d'oléoducs régulièrement déclarés d'utilité publique risque d'être retardée par des difficultés tenant à la prise de
-possession d'un ou de plusieurs terrains non bâtis, situés dans les emprises de l'ouvrage, un décret pris sur l'avis conforme
-du Conseil d'Etat peut, à titre exceptionnel, en autoriser la prise de possession.
+nouvelles de routes nationales, de voies de chemins de fer, de voies de tramways ou de transport en commun en site propre,
+d'oléoducs et d'ouvrages des réseaux publics d'électricité régulièrement déclarés d'utilité publique risque d'être retardée
+par des difficultés tenant à la prise de possession d'un ou de plusieurs terrains non bâtis, situés dans les emprises de
+l'ouvrage, un décret pris sur l'avis conforme du Conseil d'Etat peut, à titre exceptionnel, en autoriser la prise de
+possession.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
 _Cité par_:
 
@@ -3976,13 +3981,9 @@ _Cité par_:
   - Code de la voirie routière - art. L121-3 (VD)
   - Code de la voirie routière - art. L151-5 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Loi n°2018-727 du 10 août 2018 - art. 61 (V)
 
 _Anciens textes_:
 
