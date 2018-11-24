@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -594,7 +594,7 @@ _Cité par_:
 ###### Article L122-7
 
 Lorsque les travaux ou les opérations à réaliser intéressent plusieurs personnes publiques, l'acte déclarant l'utilité
-publique précise celle qui est chargée de conduire la procédure d'expropriation.
+publique peut prévoir qu'une seule de ces personnes est chargée de conduire la procédure d'expropriation.
 
 **Liens relatifs à cet article**
 
@@ -602,9 +602,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 13
 
 _Cité par_:
 
@@ -1995,11 +1995,14 @@ _Cite_:
 
 Les biens sont estimés à la date de la décision de première instance.
 
-Toutefois, et sous réserve de l'application des dispositions des articles L. 322-3 à L. 322-6, est seul pris en considération
-l'usage effectif des immeubles et droits réels immobiliers un an avant l'ouverture de l'enquête prévue à l'article L. 1 ou,
-dans le cas prévu à l'article L. 122-4, un an avant la déclaration d'utilité publique ou, dans le cas des projets ou
-programmes soumis au débat public prévu par l'article L. 121-8 du code de l'environnement ou par l'article 3 de la loi n°
-2010-597 du 3 juin 2010 relative au Grand Paris, au jour de la mise à disposition du public du dossier de ce débat.
+Toutefois, et sous réserve de  l'application des dispositions des articles L. 322-3 à L. 322-6, est seul pris en
+considération l'usage effectif des immeubles et droits réels immobiliers un an avant l'ouverture de l'enquête prévue à
+l'article L. 1 ou, dans le cas prévu à l'article L. 122-4, un an avant la déclaration d'utilité publique ou, dans le cas des
+projets ou programmes soumis au débat public prévu par l'article L. 121-8 du code de l'environnement ou par l'article 3 de la
+loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, au jour de la mise à disposition du public du dossier de ce débat ou,
+lorsque le bien est situé à l'intérieur du périmètre d'une zone d'aménagement concerté mentionnée à l'article L. 311-1 du
+code de l'urbanisme, à la date de publication de l'acte créant la zone, si elle est antérieure d'au moins un an à la date
+d'ouverture de l'enquête publique préalable à la déclaration d'utilité publique.
 
 Il est tenu compte des servitudes et des restrictions administratives affectant de façon permanente l'utilisation ou
 l'exploitation des biens à la date correspondante pour chacun des cas prévus au deuxième alinéa, sauf si leur institution
@@ -2015,18 +2018,18 @@ l'immeuble.
 
 _Cite_:
 
-  - Loi n°2010-597 du 3 juin 2010 - art. 3 (V)
-  - Code de l'environnement - art. L121-8 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L1 (VD)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L122-4 (VD)
+  - Loi n°2010-597 du 3 juin 2010 - art. 3
+  - Code de l'environnement - art. L121-8
+  - Code de l'expropriation pour cause d'utilité publique - art. L1
+  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 9
 
 _Cité par_:
 
@@ -2037,7 +2040,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L213-6 (V)
   - Code de l'urbanisme - art. L215-17 (VD)
   - Code de l'urbanisme - art. L215-18 (VD)
-  - Code de l'urbanisme - art. L230-3 (VD)
+  - Code de l'urbanisme - art. L230-3 (V)
   - Code de l'urbanisme - art. L314-6 (VD)
   - Code de l'énergie - art. L323-10 (V)
   - Code des transports - art. L6353-2 (VD)
@@ -3953,6 +3956,12 @@ par des difficultés tenant à la prise de possession d'un ou de plusieurs terra
 l'ouvrage, un décret pris sur l'avis conforme du Conseil d'Etat peut, à titre exceptionnel, en autoriser la prise de
 possession.
 
+Un décret pris sur l'avis conforme du Conseil d'Etat peut autoriser la prise de possession d'un ou plusieurs immeubles
+dégradés situés dans le périmètre défini par le décret mentionné à l'article L. 741-2 du code de la construction et de
+l'habitation, dont l'acquisition est prévue pour la réalisation d'une opération d'aménagement déclarée d'utilité publique,
+lorsque des risques sérieux pour la sécurité des occupants rendent nécessaires la prise de possession anticipée et qu'un
+projet de plan de relogement des occupants a été établi.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -3971,7 +3980,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 61 (V)
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 202 (V)
 
 _Anciens textes_:
 
