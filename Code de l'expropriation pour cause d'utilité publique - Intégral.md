@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -132,8 +132,8 @@ Version Consolidée au 2018-11-25
           - [Section 2 : Consignation (art. R323-8 à R323-12)](#129)
           - [Section 3 : Dispositions communes (art. R323-13 à R323-14)](#130)
     - [LIVRE IV : SUITES DE L'EXPROPRIATION (art. R411-1 à D431-1)](#131)
-      - [TITRE  Ier : CESSION DES IMMEUBLES EXPROPRIÉS (art. R411-1 à R411-3)](#132)
-        - [Chapitre unique (art. R411-1 à R411-3)](#133)
+      - [TITRE  Ier : CESSION DES IMMEUBLES EXPROPRIÉS (art. R411-1 à R411-2)](#132)
+        - [Chapitre unique (art. R411-1 à R411-2)](#133)
       - [TITRE  II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION (art. R421-1 à R424-1)](#134)
         - [Chapitre Ier : Droit de rétrocession (art. R421-1 à R421-8)](#135)
         - [Chapitre III : Droits de relogement (art. R423-1 à R423-10)](#136)
@@ -788,16 +788,21 @@ _Créé par_:
 
 ###### Article L211-1
 
-Dans chaque département, il est désigné au moins un juge de l'expropriation parmi les magistrats du siège d'un tribunal de
-grande instance de ce département.
+Dans chaque département, il est désigné au moins un juge de l'expropriation parmi les magistrats du siège d'un   tribunal
+judiciaire de ce département. 
 
 Ce juge et les magistrats habilités à le suppléer en cas d'empêchement sont désignés par ordonnance du premier président de
 la cour d'appel, après avis de l'assemblée des magistrats du siège de ce tribunal, pour une durée de trois années
-renouvelables.
+renouvelables. 
 
 Si le nombre des juges dans le département est insuffisant pour permettre le règlement des affaires en cours, le premier
-président de la cour d'appel peut déléguer temporairement dans ces fonctions d'autres magistrats du tribunal de grande
-instance mentionné au premier alinéa ou des magistrats d'un autre tribunal de grande instance du ressort de la cour d'appel.
+président de la cour d'appel peut déléguer temporairement dans ces fonctions d'autres magistrats du   tribunal judiciaire
+mentionné au premier alinéa ou des magistrats d'un autre   tribunal judiciaire du ressort de la cour d'appel.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -805,9 +810,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -2727,20 +2732,24 @@ dispositions des articlesL. 221-1etL. 221-2du code de l'urbanisme ;
 8° Les immeubles expropriés en vue de l'aménagement et de l'exploitation d'installations d'élimination ou de traitement des
 déchets ;
 
-9° Les immeubles expropriés par l'établissement public créé par l'article L. 325-1 du code de l'urbanismeen vue de la
-création, l'extension, la transformation ou la reconversion des espaces commerciaux et artisanaux dans les quartiers
-prioritaires de la politique de la ville ;
+9° Les immeubles expropriés par l'Agence nationale de la cohésion des territoires en vue de la création, l'extension, la
+transformation ou la reconversion des espaces commerciaux et artisanaux dans les quartiers prioritaires de la politique de la
+ville ;
 
 10° Les immeubles classés au titre des monuments historiques, expropriés dans les conditions prévues au titre II du livre VI
 du code du patrimoine.
 
+**Nota:**
+
+Conformément à l'article 14 de de la loi n° 2019-753 du 22 juillet 2019 : A une date prévue par le décret en Conseil d'Etat
+mentionné à l'article 15 de la présente loi, et au plus tard le 1er janvier 2020, l'Etablissement public d'aménagement et de
+restructuration des espaces commerciaux et artisanaux est dissous. Ce décret précise les conditions dans lesquelles les
+contrats des salariés ainsi que les biens, droits et obligations de l'Etablissement public d'aménagement et de
+restructuration des espaces commerciaux et artisanaux sont transférés à l'Agence nationale de la cohésion des territoires.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-_Créé par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
@@ -2761,21 +2770,25 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3221-1 (V)
   - Code général des collectivités territoriales - art. L2421-18 (VD)
 
+_Modifié par_:
+
+  - Loi n°2019-753 du 22 juillet 2019 - art. 14 (V)
+
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2243-4 (VD)
-  - Code de l'urbanisme - art. L221-1 (M)
-  - Code de l'urbanisme - art. L221-2 (M)
-  - Code de l'urbanisme - art. L311-1 (M)
-  - Code de l'urbanisme - art. L313-4-1 (M)
-  - Code de l'urbanisme - art. L325-1 (M)
-  - Code de la construction et de l'habitation. - art. L522-2 (V)
-  - Code de la construction et de l'habitation. - art. L531-1 (M)
-  - Code de la construction et de l'habitation. - art. L615-1 (M)
-  - Code de la construction et de l'habitation. - art. L615-6 (V)
-  - Code forestier (nouveau) - art. L133-1 (V)
-  - Code forestier (nouveau) - art. L133-8 (V)
-  - Code forestier (nouveau) - art. L142-7 (VT)
+  - Code général des collectivités territoriales - art. L2243-4
+  - Code de l'urbanisme - art. L221-1
+  - Code de l'urbanisme - art. L221-2
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L313-4-1
+  - Code de l'urbanisme - art. L325-1
+  - Code de la construction et de l'habitation. - art. L522-2
+  - Code de la construction et de l'habitation. - art. L531-1
+  - Code de la construction et de l'habitation. - art. L615-1
+  - Code de la construction et de l'habitation. - art. L615-6
+  - Code forestier (nouveau) - art. L133-1
+  - Code forestier (nouveau) - art. L133-8
+  - Code forestier (nouveau) - art. L142-7
 
 _Anciens textes_:
 
@@ -4382,9 +4395,9 @@ Pour l'application de la partie législative du code à Saint-Pierre-et-Miquelon
 2° La référence au conseil général et la référence au conseil régional sont remplacées par la référence au conseil
 territorial de Saint-Pierre-et-Miquelon ;
 
-3° La référence au tribunal de grande instance est remplacée par la référence au tribunal de première instance et les
-références à la cour d'appel et au premier président de la cour d'appel sont remplacées par la référence au tribunal
-supérieur d'appel et par la référence au président du tribunal supérieur d'appel ;
+3° La référence au tribunal judiciaire est remplacée par la référence au tribunal de première instance et les références à la
+cour d'appel et au premier président de la cour d'appel sont remplacées par la référence au tribunal supérieur d'appel et par
+la référence au président du tribunal supérieur d'appel ;
 
 4° Les références au plan d'occupation des sols, au plan local d'urbanisme ou des documents d'urbanisme en tenant lieu, au
 schéma de cohérence territoriale, au schéma directeur de la région Ile-de-France, à une zone d'aménagement concerté et à une
@@ -4398,19 +4411,20 @@ remplacées par la référence aux dispositions ayant le même objet applicables
 l'article L. 123 du livre des procédures fiscales ", " conformément à l'article L. 135 B du même livre " et " conformément
 aux dispositions de l'article L. 144 du même livre " sont supprimés.
 
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°93-1 du 4 janvier 1993 - art. 47 (al. 63 à 66) (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (V)
 
 _Cite_:
 
@@ -6199,9 +6213,14 @@ _Cite_:
 
 ###### Article R211-1
 
-La juridiction de l'expropriation mentionnée à l'article L. 211-1 a son siège auprès du tribunal de grande instance du chef-
-lieu du département, ou, à défaut, du tribunal de grande instance désigné, dans ce département, par arrêté du garde des
-sceaux, ministre de la justice.
+La juridiction de l'expropriation mentionnée à l'article L. 211-1 a son siège auprès du   tribunal judiciaire du chef-lieu du
+département, ou, à défaut, du   tribunal judiciaire désigné, dans ce département, par arrêté du garde des sceaux, ministre de
+la justice.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6209,15 +6228,15 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
 _Cité par_:
 
-  - Décret n°2016-814 du 17 juin 2016 - art. 1 (V)
+  - Décret n°2016-814 du 17 juin 2016 - art. 1 (VD)
   - Code de l'expropriation pour cause d'utilité pu... - art. R211-2 (VD)
   - Code de l'expropriation pour cause d'utilité pu... - art. R232-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -6225,19 +6244,24 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. L211-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L211-1
 
 
 ###### Article R211-2
 
 Le nombre des juges de l'expropriation dans un même département est fixé par arrêté du garde des sceaux, ministre de la
-justice.
+justice. 
 
 Les juges et les magistrats appelés à les suppléer en cas d'absence ou d'empêchement sont choisis parmi les magistrats du
-siège du tribunal de grande instance mentionné à l'article R. 211-1.
+siège du   tribunal judiciaire mentionné à l'article R. 211-1. 
 
 Il peut être mis fin à leurs fonctions par ordonnance du premier président de la cour d'appel, après avis de l'assemblée des
 magistrats du siège de ce tribunal.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6245,9 +6269,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -6256,14 +6280,19 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R211-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R211-1
 
 
 ###### Article R211-3
 
-Lorsqu'ont été désignés au moins trois juges auprès d'un tribunal de grande instance, l'un d'entre eux, choisi parmi les
-vice-présidents de ce tribunal, assure la coordination des tâches entre les différents juges. Ce magistrat est désigné dans
-les conditions prévues à l'article L. 211-1.
+Lorsqu'ont été désignés au moins trois juges auprès d'un   tribunal judiciaire, l'un d'entre eux, choisi parmi les vice-
+présidents de ce tribunal, assure la coordination des tâches entre les différents juges. Ce magistrat est désigné dans les
+conditions prévues à l'article L. 211-1.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6271,9 +6300,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -6281,7 +6310,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. L211-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L211-1
 
 
 ###### Article R211-4
@@ -6308,12 +6337,17 @@ _Anciens textes_:
 
 ###### Article R211-5
 
-Le greffe de la juridiction de l'expropriation est le greffe du tribunal de grande instance auprès duquel cette juridiction a
-son siège.
+Le greffe de la juridiction de l'expropriation est le greffe du   tribunal judiciaire auprès duquel cette juridiction a son
+siège. 
 
 Chaque juge est assisté d'un greffier ou d'une personne habilitée en vertu de l'article R. 123-14 du code de l'organisation
 judiciaire, désigné par le directeur de greffe et qui ne peut être suppléé dans l'exercice de ses fonctions qu'en cas
 d'empêchement. Si cet empêchement dure plus de deux mois, le directeur de greffe désigne un remplaçant.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6321,13 +6355,13 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'organisation judiciaire - art. R123-14 (V)
+  - Code de l'organisation judiciaire - art. R123-14
 
 _Anciens textes_:
 
@@ -6863,7 +6897,12 @@ _Cite_:
 ###### Article R231-1
 
 Sauf dans les cas où cette décision relève de la compétence du juge administratif, l'expulsion prévue à l'article L. 231-1
-est ordonnée par le juge de l'expropriation statuant en la forme des référés.
+est ordonnée par le juge de l'expropriation statuant selon la procédure accélérée au fond.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6875,13 +6914,13 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 3
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. L231-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L231-1
 
 
 ###### Article R231-2
@@ -7034,11 +7073,16 @@ _Anciens textes_:
 
 ###### Article R232-6
 
-A l'issue du transport sur les lieux, le juge tient une audience au cours de laquelle les parties ou leurs représentants
-peuvent, par dérogation aux dispositions de l'article R. 311-20, développer tous moyens et conclusions.
+A l'issue du transport sur les lieux, le juge tient une audience au cours de laquelle les parties peuvent, par dérogation aux
+dispositions de l'article R. 311-20, développer tous moyens et conclusions.
 
 Si le juge s'estime suffisamment éclairé, il peut fixer le montant des indemnités définitives dans la limite de ces moyens et
 conclusions.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -7046,9 +7090,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 21
 
 _Anciens textes_:
 
@@ -7056,7 +7100,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-20 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R311-20
 
 
 ###### Article R232-7
@@ -7448,16 +7492,20 @@ A défaut d'accord dans le délai d'un mois à compter soit de la notification d
 conformément aux articles R. 311-4 et R. 311-5, soit de la notification du mémoire prévue à l'article R. 311-6, soit de la
 mise en demeure prévue à l'article R. 311-7, le juge peut être saisi par la partie la plus diligente.
 
+Les parties sont tenues de constituer avocat. L'Etat, les régions, les départements, les communes et leurs établissements
+publics peuvent se faire assister ou représenter par un fonctionnaire ou un agent de leur administration.
+
 Le mémoire de saisine est adressé par lettre recommandée avec demande d'avis de réception au greffe de la juridiction du
 ressort dans lequel sont situés les biens à exproprier. Il est accompagné de deux copies.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
@@ -7474,15 +7522,19 @@ _Cité par_:
   - Code des transports - art. R1251-6 (VD)
   - Code du patrimoine - art. R621-9 (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 11
+
 _Anciens textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R13-21 (Ab)
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-4 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-6 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-7 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R311-4
+  - Code de l'expropriation pour cause d'utilité publique - art. R311-6
+  - Code de l'expropriation pour cause d'utilité publique - art. R311-7
 
 
 ###### Article R311-10
@@ -7550,8 +7602,8 @@ _Cité par_:
 
 ###### Article R311-12
 
-Les mémoires, signés par les parties ou leurs représentants, comportent l'exposé des moyens et prétentions des parties.
-Celles-ci y joignent les documents et pièces qu'elles entendent produire.
+Les mémoires, signés par les parties lorsqu'elles sont dispensées de constituer avocat ou leurs représentants, comportent
+l'exposé des moyens et prétentions des parties. Celles-ci y joignent les documents et pièces qu'elles entendent produire.
 
 Les mémoires indiquent le montant demandé ou offert pour l'indemnité principale et, le cas échéant, pour chacune des
 indemnités accessoires. Ils donnent éventuellement toutes précisions utiles au sujet des offres en nature.
@@ -7560,15 +7612,20 @@ Les mémoires produits par les expropriés énoncent, en outre, leurs nom, prén
 que le titre pour lequel ils sont susceptibles de bénéficier de l'indemnité demandée et, en ce qui concerne les personnes
 morales, toutes indications propres à les identifier.
 
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 11
 
 _Anciens textes_:
 
@@ -7781,9 +7838,8 @@ _Cité par_:
 
 ###### Article R311-20
 
-A l'audience, le juge entend les parties. Toutefois, les parties peuvent se faire assister ou représenter par un avocat ou
-par un parent ou allié jusqu'au sixième degré. Le représentant, s'il n'est avocat, justifie d'un pouvoir spécial. Les parties
-ne peuvent développer que des éléments des mémoires qu'elles ont présentés.
+A l'audience, le juge entend les parties. Les parties ne peuvent développer que des éléments des mémoires qu'elles ont
+présentés.
 
 Le juge entend le commissaire du Gouvernement à sa demande.
 
@@ -7791,15 +7847,20 @@ Les personnes désignées en application de l'article R. 322-1 peuvent être ent
 
 Le juge donne acte, le cas échéant, des accords intervenus entre l'expropriant et l'exproprié.
 
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 11
 
 _Anciens textes_:
 
@@ -7815,7 +7876,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R322-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R322-1
 
 
 ##### Section 4 : Fixation des indemnités<a id=121></a>
@@ -7883,20 +7944,23 @@ _Cite_:
 ###### Article R311-23
 
 Lorsqu'il s'agit de statuer sur des difficultés relatives à l'exécution d'une décision rendue en application du présent
-livre, la demande est portée à une audience tenue à cet effet par le juge de l'expropriation aux jour et heure indiqués par
-celui-ci. Il est, en ce cas, statué en la forme des référés.
+livre, la demande est portée à une audience tenue à cet effet par le juge de l'expropriation qui statue selon la procédure
+accélérée au fond.
 
-Les parties peuvent se faire assister ou représenter comme il est prévu à l'article R. 311-20.
+Les parties sont tenues de constituer avocat dans les conditions de l'article R. 311-9.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 55 du décret n° 2019-1333 du 11 décembre 2019 modifié par l'article 22 du
+décret n° 2019-1419 du 20 décembre 2019 ces dispositions sont applicables aux instances introduites à compter du 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 21
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 3
 
 _Anciens textes_:
 
@@ -7904,7 +7968,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-20 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R311-9
 
 
 ##### Section 5 : Voies de recours<a id=122></a>
@@ -8008,9 +8072,15 @@ _Modifié par_:
 
 ###### Article R311-27
 
-Les parties et le commissaire du Gouvernement sont convoqués à l'audience par le greffe.
+Les parties et le commissaire du Gouvernement sont convoqués à l'audience par le greffe. 
 
-Les parties peuvent se faire assister ou représenter comme il est prévu à l'article R. 311-20.
+Les parties sont tenues de constituer avocat dans les conditions de l'article R. 311-9.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 55 du décret n° 2019-1333 du 11 décembre 2019 modifié par l'article 22 du
+décret n° 2019-1419 du 20 décembre 2019 ces dispositions sont applicables aux instances introduites à compter du 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
@@ -8018,9 +8088,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 21
 
 _Anciens textes_:
 
@@ -8028,7 +8098,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-20 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R311-9
 
 
 ###### Article R311-28
@@ -9055,35 +9125,6 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (V)
 
 
-###### Article R411-3
-
-L'action en nullité prévue à l'article L. 411-3 est dispensée du ministère d'avocat.
-
-.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 11
-
-_Anciens textes_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R21-2 (Ab)
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité publique - art. L411-3
-
-
 ### TITRE  II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION<a id=134></a>
 
 #### Chapitre Ier : Droit de rétrocession<a id=135></a>
@@ -9238,11 +9279,16 @@ _Cite_:
 
 ###### Article R421-6
 
-Le tribunal de grande instance est compétent pour connaître des litiges nés de la mise en œuvre du droit prévu à l'article L.
-421-1, lorsque la contestation porte sur le droit du réclamant.
+Le   tribunal judiciaire est compétent pour connaître des litiges nés de la mise en œuvre du droit prévu à l'article L.
+421-1, lorsque la contestation porte sur le droit du réclamant. 
 
 Le recours est introduit, à peine de déchéance, dans le délai de deux mois à compter de la réception de la notification de la
 décision administrative de rejet.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -9250,9 +9296,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -9260,7 +9306,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. L421-1 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L421-1
 
 
 ###### Article R421-7
@@ -9548,7 +9594,13 @@ _Anciens textes_:
 ###### Article R423-10
 
 Les contestations relatives au relogement des locataires ou des occupants de locaux d'habitation ou à usage professionnel, en
-application du présent titre, relèvent de la compétence du juge de l'expropriation statuant en la forme des référés.
+application du présent titre, relèvent de la compétence du juge de l'expropriation statuant selon la procédure accélérée au
+fond.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -9556,9 +9608,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 3
 
 _Anciens textes_:
 
@@ -10064,25 +10116,30 @@ _Cite_:
 
 ###### Article R641-3
 
-Pour l'application de la partie réglementaire du code à Saint-Pierre-et-Miquelon :
+Pour l'application de la partie réglementaire du code à Saint-Pierre-et-Miquelon : 
 
-1° La référence au département et la référence à la région sont remplacées par la référence à Saint-Pierre-et-Miquelon ;
+1° La référence au département et la référence à la région sont remplacées par la référence à Saint-Pierre-et-Miquelon ; 
 
-2° La référence au préfet de département est remplacée par la référence au représentant de l'Etat ;
+2° La référence au préfet de département est remplacée par la référence au représentant de l'Etat ; 
 
 3° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
-publiques sont remplacées par la référence au directeur local des finances publiques ;
+publiques sont remplacées par la référence au directeur local des finances publiques ; 
 
-4° La référence au tribunal de grande instance est remplacée par la référence au tribunal de première instance et les
-références à la cour d'appel et au premier président de la cour d'appel sont remplacées par la référence au tribunal
-supérieur d'appel et par la référence au président du tribunal supérieur d'appel ;
+4° La référence au   tribunal judiciaire est remplacée par la référence au tribunal de première instance et les références à
+la cour d'appel et au premier président de la cour d'appel sont remplacées par la référence au tribunal supérieur d'appel et
+par la référence au président du tribunal supérieur d'appel ; 
 
 5° Les références à la chambre de commerce et d'industrie, à la chambre d'agriculture ou à la chambre des métiers et de
 l'artisanat sont remplacées par la référence à la chambre d'agriculture, de commerce, d'industrie, des métiers et de
-l'artisanat ;
+l'artisanat ; 
 
 6° Les dispositions du code en matière d'habitat et la référence au code de la construction et de l'habitation sont
 remplacées par la référence aux dispositions ayant le même objet applicables localement.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10094,9 +10151,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ## ANNEXES<a id=155></a>
@@ -10276,505 +10333,521 @@ _Cite_:
 
 CLAUSES TYPES À INSÉRER DANS LE CAHIER DES CHARGES ANNEXÉ À L'ACTE DE CESSION D'UN TERRAIN DESTINÉ À LA CONSTRUCTION D'UN
 SEUL BÂTIMENT À USAGE PRINCIPAL AUTRE QUE L'HABITATION OU À L'INSTALLATION D'UN ÉTABLISSEMENT INDUSTRIEL OU COMMERCIAL
-COMPORTANT UN OU PLUSIEURS BÂTIMENTS LORSQUE LE CESSIONNAIRE N'EST PAS UNE COLLECTIVITÉ PUBLIQUE OU UN ÉTABLISSEMENT PUBLIC
+COMPORTANT UN OU PLUSIEURS BÂTIMENTS LORSQUE LE CESSIONNAIRE N'EST PAS UNE COLLECTIVITÉ PUBLIQUE OU UN ÉTABLISSEMENT PUBLIC 
 
-Article A. - Objet de la cession.
+Article A.-Objet de la cession. 
 
-La présente cession est consentie à C (la lettre C désigne le bénéficiaire de la cession) en vue de...
+La présente cession est consentie à C (la lettre C désigne le bénéficiaire de la cession) en vue de... 
 
-(Nota. - Préciser la nature de l'opération, objet de la cession.)
+(Nota.-Préciser la nature de l'opération, objet de la cession.) 
 
-Ce bâtiment (ou "cet établissement industriel") devra être édifié (ou "installé") en conformité des dispositions de...
+Ce bâtiment (ou " cet établissement industriel ") devra être édifié (ou " installé ") en conformité des dispositions de... 
 
-(Nota. - A compléter en fonction de la nature du projet.)
+(Nota.-A compléter en fonction de la nature du projet.) 
 
-Il devra, en outre, être observé les prescriptions ci-après :
+Il devra, en outre, être observé les prescriptions ci-après : 
 
-(Nota. - Alinéa à insérer seulement si des obligations particulières sont spécialement imposées dans le cas de l'espèce.)
+(Nota.-Alinéa à insérer seulement si des obligations particulières sont spécialement imposées dans le cas de l'espèce.) 
 
-Article B. - Délais d'exécution.
+Article B.-Délais d'exécution. 
 
 C doit :
 
 - déposer, dans un délai de... mois, à dater de la signature de l'acte de cession, la demande de permis de construire ;
 
 - avoir terminé lesdits travaux et présenter la déclaration attestant l'achèvement et la conformité des travaux dans un délai
-de... à dater de la délivrance du permis de construire.
+de... à dater de la délivrance du permis de construire. 
 
-(Nota. - Lorsque la cession aura pour objet l'installation d'un établissement industriel, cet article pourra prévoir la
-réalisation de cette installation en plusieurs tranches de travaux.)
+(Nota.-Lorsque la cession aura pour objet l'installation d'un établissement industriel, cet article pourra prévoir la
+réalisation de cette installation en plusieurs tranches de travaux.) 
 
-En ce cas, cet article peut :
+En ce cas, cet article peut : 
 
 1. Soit définir, au moins sommairement, le contenu de chacune des tranches et fixer des délais fermes pour le dépôt des
-demandes de permis de construire afférentes à chacune d'elles et pour leur réalisation ;
+demandes de permis de construire afférentes à chacune d'elles et pour leur réalisation ; 
 
 2. Soit définir l'objet de la première tranche (par exemple : partie des terrains à construire, importance de la
 construction) et fixer des délais fermes pour la réalisation de cette tranche et comporter, en ce qui concerne les autres
-tranches, une clause ainsi rédigée :
+tranches, une clause ainsi rédigée : 
 
-"En ce qui concerne les autres travaux, s'ils n'ont pas été réalisés le... (date à fixer en accord entre le cessionnaire et
+" En ce qui concerne les autres travaux, s'ils n'ont pas été réalisés le... (date à fixer en accord entre le cessionnaire et
 le cédant en fonction des prévisions relatives au développement de l'établissement industriel), P devra mettre C en demeure
 de les réaliser, en une ou plusieurs tranches, dans des délais qui lui seront impartis en ce moment, sous peine de résolution
 de la cession des terrains non encore utilisés à cette date. Si C refuse de souscrire cet engagement, il sera mis en demeure
 de rétrocéder immédiatement les terrains non utilisés à P ou de les vendre à un acquéreur qui lui sera désigné, le prix de
-rétrocession ou le prix de vente étant fixé dans les conditions prévues à l'article E."
+rétrocession ou le prix de vente étant fixé dans les conditions prévues à l'article E. " 
 
-Article C. - Prolongation éventuelle des délais.
+Article C.-Prolongation éventuelle des délais. 
 
 Les délais d'exécution prévus au présent cahier des charges seront, si leur inobservation est due à un cas de force majeure,
 prolongés d'une durée égale à celle durant laquelle C a été dans l'impossibilité de réaliser ses obligations. La preuve de la
-force majeure et de la durée de l'empêchement est à la charge de C.
+force majeure et de la durée de l'empêchement est à la charge de C. 
 
-Les difficultés de financement ne sont pas considérées comme constituant des cas de force majeure.
+Les difficultés de financement ne sont pas considérées comme constituant des cas de force majeure. 
 
 Toutefois, seront considérés pour l'application du présent article comme constituant des cas de force majeure les retards non
-imputables à C, dans l'octroi du prêt du fonds national d'aménagement du territoire (section B).
+imputables à C, dans l'octroi du prêt du fonds national d'aménagement du territoire (section B). 
 
-(Nota. - Alinéa à insérer uniquement si la cession est consentie en vue de l'installation d'un bâtiment industriel avec
-l'aide d'un prêt du fonds national d'aménagement du territoire [section B] et à condition que l'octroi de ce prêt ait fait
-l'objet d'une décision définitive.)
+(Nota.-Alinéa à insérer uniquement si la cession est consentie en vue de l'installation d'un bâtiment industriel avec l'aide
+d'un prêt du fonds national d'aménagement du territoire [section B] et à condition que l'octroi de ce prêt ait fait l'objet
+d'une décision définitive.) 
 
-Article D. - Résolution en cas d'inobservation des délais.
+Article D.-Résolution en cas d'inobservation des délais. 
 
 La cession pourra être résolue par décision de P (la lettre P désigne la collectivité publique ou l'établissement public
-cédant) notifiée par acte d'huissier en cas d'inobservation d'un des délais fixés.
+cédant) notifiée par acte d'huissier en cas d'inobservation d'un des délais fixés. 
 
-C aura droit en contrepartie à une indemnité de résolution qui sera calculée ainsi qu'il suit :
+C aura droit en contrepartie à une indemnité de résolution qui sera calculée ainsi qu'il suit : 
 
 1. Si la résolution intervient avant le commencement de tous travaux, l'indemnité sera égale au prix de cession, déduction
-faite de 10 % à titre de dommages et intérêts forfaitaires ;
+faite de 10 % à titre de dommages et intérêts forfaitaires ; 
 
 2. Si la résolution intervient après le commencement des travaux, l'indemnité ci-dessus est augmentée d'une somme égale au
 montant de la plus-value apportée aux terrains par les travaux régulièrement réalisés sans que cette somme puisse dépasser la
-valeur des matériaux et le prix de la main-d'œuvre utilisée.
+valeur des matériaux et le prix de la main-d'œuvre utilisée. 
 
 La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P étant l'administration des domaines, celui de C
-pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du tribunal de grande instance sur
-requête de P.
+pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du   tribunal judiciaire sur requête
+de P. 
 
-Tous les frais seront à la charge de C.
+Tous les frais seront à la charge de C. 
 
 Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de
-résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
+résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique. 
 
-Article E. - Vente, location, partage des terrains cédés.
+Article E.-Vente, location, partage des terrains cédés. 
 
 Il est interdit à C de mettre en vente des terrains qui lui sont cédés avant l'achèvement de la totalité des travaux prévus,
-sans en avoir, au moins trois mois à l'avance, avisé... (Nota. - Le représentant qualifié de P.)
+sans en avoir, au moins trois mois à l'avance, avisé... (Nota.-Le représentant qualifié de P.) 
 
 P pourra exiger soit que les terrains lui soient rétrocédés, soit qu'ils soient vendus à un acquéreur agréé ou désigné par
-lui (ou elle).
+lui (ou elle). 
 
-(Nota. - Alinéa à insérer uniquement si la cession a été effectuée de gré à gré.)
+(Nota.-Alinéa à insérer uniquement si la cession a été effectuée de gré à gré.) 
 
 Tout morcellement, quelle qu'en soit la cause, des terrains cédés est interdit, même après réalisation des travaux prévus,
 sauf autorisation spéciale et expresse accordée par P et ce, sans préjudice, s'il y a lieu, de l'application des dispositions
-législatives et réglementaires relatives aux lotissements.
+législatives et réglementaires relatives aux lotissements. 
 
-(Nota. - Disposition à insérer uniquement lorsqu'il est prévu que l'installation de l'établissement industriel sera effectuée
-en plusieurs tranches de travaux.)
+(Nota.-Disposition à insérer uniquement lorsqu'il est prévu que l'installation de l'établissement industriel sera effectuée
+en plusieurs tranches de travaux.) 
 
 Toutefois C, après réalisation de la première tranche de travaux prévus, pourra vendre la partie des terrains non utilisés
-par lui à condition d'en avoir avisé (Nota. - Le représentant qualifié de P.)
+par lui à condition d'en avoir avisé (Nota.-Le représentant qualifié de P.) 
 
 Six mois à l'avance, P pourra jusqu'à l'expiration de ce délai exiger que ces terrains lui soient rétrocédés ou soient vendus
-à un acquéreur agréé ou désigné par lui (ou elle).
+à un acquéreur agréé ou désigné par lui (ou elle). 
 
-En cas de rétrocession.
+En cas de rétrocession. 
 
-(Nota. - Disposition à insérer uniquement lorsqu'il est prévu que l'installation de l'établissement industriel sera effectuée
-en plusieurs tranches de travaux.)
+(Nota.-Disposition à insérer uniquement lorsqu'il est prévu que l'installation de l'établissement industriel sera effectuée
+en plusieurs tranches de travaux.) 
 
 Le prix de rétrocession sera calculé dans les conditions prévues pour l'indemnité de résolution, sans qu'il y ait lieu à une
 déduction de 10 %. En cas de vente à un acquéreur désigné ou agréé par P, celui-ci (ou celle-ci) pourra exiger que le prix de
-vente soit fixé comme il est dit ci-dessus.
+vente soit fixé comme il est dit ci-dessus. 
 
-(Nota. - Alinéa à insérer uniquement si la cession a été effectuée de gré à gré.)
+(Nota.-Alinéa à insérer uniquement si la cession a été effectuée de gré à gré.) 
 
-Aucune location des terrains cédés ne pourra être consentie tant qu'ils n'auront pas reçu l'affectation prévue.
+Aucune location des terrains cédés ne pourra être consentie tant qu'ils n'auront pas reçu l'affectation prévue. 
 
 Les actes de vente, de location ou de partage qui seraient consentis par C en méconnaissance des dispositions du présent
-article seraient nuls en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique.
+article seraient nuls en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique. 
 
-Article F. - Obligation de maintenir l'affectation prévue après réalisation des travaux.
+Article F.-Obligation de maintenir l'affectation prévue après réalisation des travaux. 
 
-Après achèvement des travaux, C sera tenu de ne pas modifier l'affectation du bâtiment (ou "de l'établissement industriel")
-sans en avoir avisé... (Nota. - Le représentant qualifié de P) au moins deux mois à l'avance. P pourra jusqu'à l'expiration
-de ce délai exiger que le changement d'affectation soit différé pour une durée de... mois et ne soit effectué que si, durant
-ce dernier délai, il n'a pu être trouvé un acquéreur pour l'ensemble du fonds s'engageant à maintenir l'affectation, le prix
+Après achèvement des travaux, C sera tenu de ne pas modifier l'affectation du bâtiment (ou " de l'établissement industriel ")
+sans en avoir avisé... (Nota.-Le représentant qualifié de P) au moins deux mois à l'avance. P pourra jusqu'à l'expiration de
+ce délai exiger que le changement d'affectation soit différé pour une durée de... mois et ne soit effectué que si, durant ce
+dernier délai, il n'a pu être trouvé un acquéreur pour l'ensemble du fonds s'engageant à maintenir l'affectation, le prix
 d'acquisition étant fixé, à défaut d'accord amiable, par voie d'expertise contradictoire. L'expert de C, si ce dernier ne
-pourvoit pas à sa désignation, pourra être désigné d'office par le président du tribunal de grande instance sur la requête de
-P.
+pourvoit pas à sa désignation, pourra être désigné d'office par le président du   tribunal judiciaire sur la requête de P. 
 
-(Nota. - Article à insérer uniquement lorsque la cession est consentie spécialement en vue de l'exercice par le cessionnaire
+(Nota.-Article à insérer uniquement lorsque la cession est consentie spécialement en vue de l'exercice par le cessionnaire
 d'une activité déterminée présentant un intérêt particulier, soit pour la vie économique et sociale de la localité ou de la
 région, soit pour celle des habitants d'un groupe d'habitations ou d'un lotissement.)
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. L411-3 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L411-4 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L411-3
+  - Code de l'expropriation pour cause d'utilité publique - art. L411-4
 
 
 ###### Article Annexe 4
 
 CLAUSES TYPES À INSÉRER DANS LE CAHIER DES CHARGES ANNEXÉ À L'ACTE DE CESSION D'UN TERRAIN DESTINÉ À LA CRÉATION D'UN GROUPE
-DE CONSTRUCTIONS LORSQUE LE BÉNÉFICIAIRE DE LA CESSION N'EST PAS UNE COLLECTIVITÉ PUBLIQUE OU UN ÉTABLISSEMENT
+DE CONSTRUCTIONS LORSQUE LE BÉNÉFICIAIRE DE LA CESSION N'EST PAS UNE COLLECTIVITÉ PUBLIQUE OU UN ÉTABLISSEMENT 
 
-Article A. - Objet de la cession.
+Article A.-Objet de la cession. 
 
 La présente cession est consentie à C (la lettre C désigne le bénéficiaire de la cession) en vue de la création d'un...
-(Nota. - Suivant les cas "groupe d'habitations" ou "groupe de constructions à usage principal de... ".)
+(Nota.-Suivant les cas " groupe d'habitations " ou " groupe de constructions à usage principal de... ".) 
 
-Ce... (Nota. - Suivant les cas "groupe d'habitation " ou "groupe de constructions à usage principal de... ") devra être
-réalisé conformément à un projet d'aménagement qui sera établi et approuvé dans les conditions définies...
+Ce... (Nota.-Suivant les cas " groupe d'habitation " ou " groupe de constructions à usage principal de... ") devra être
+réalisé conformément à un projet d'aménagement qui sera établi et approuvé dans les conditions définies... 
 
-(Nota. - Alinéa insérer si le projet d'aménagement du groupe de constructions n'a pas encore été approuvé.)
+(Nota.-Alinéa insérer si le projet d'aménagement du groupe de constructions n'a pas encore été approuvé.) 
 
-Ce... (Nota. - Suivants les cas "groupe d'habitation " ou "groupe de constructions à usage principal de... ") devra être
-réalisé conformément aux prévisions du projet d'aménagement approuvé à cet effet par arrêté préfectoral du...
+Ce... (Nota.-Suivants les cas " groupe d'habitation " ou " groupe de constructions à usage principal de... ") devra être
+réalisé conformément aux prévisions du projet d'aménagement approuvé à cet effet par arrêté préfectoral du... 
 
-(Nota. - Alinéa à insérer si le projet d'aménagement du groupe de constructions est déjà approuvé.)
+(Nota.-Alinéa à insérer si le projet d'aménagement du groupe de constructions est déjà approuvé.) 
 
-Article B. - Participation aux travaux d'équipements généraux.
+Article B.-Participation aux travaux d'équipements généraux. 
 
-C devra réaliser les travaux d'équipements généraux définis en annexe au présent cahier des charges.
+C devra réaliser les travaux d'équipements généraux définis en annexe au présent cahier des charges. 
 
 C s'engage à participer par voie de fonds de concours (ou d'offres de concours) à la réalisation des travaux d'équipements
-généraux définis en annexe au présent cahier des charges à concurrence de... (X, ... € ou X % du coût des travaux).
+généraux définis en annexe au présent cahier des charges à concurrence de... (X,... € ou X % du coût des travaux). 
 
-(Nota. - Insérer l'un ou l'autre de ces alinéas suivant que le cessionnaire doit réaliser lui-même ces travaux ou seulement
-participer financièrement à leur réalisation.)
+(Nota.-Insérer l'un ou l'autre de ces alinéas suivant que le cessionnaire doit réaliser lui-même ces travaux ou seulement
+participer financièrement à leur réalisation.) 
 
-Cette réalisation (ou "cette participation ") est garantie par le versement entre les mains de... d'un cautionnement de...€.
+Cette réalisation (ou " cette participation ") est garantie par le versement entre les mains de... d'un cautionnement de...
+€.
 
 ... se porte caution solidaire pour C par engagement enregistré le..., dont copie est annexée au présent cahier des charges.
-(Nota. - Insérer, suivant le cas, l'un ou l'autre de ces alinéas, si une garantie (cautionnement ou caution solvable) est
-demandée à C.)
+(Nota.-Insérer, suivant le cas, l'un ou l'autre de ces alinéas, si une garantie (cautionnement ou caution solvable) est
+demandée à C.) 
 
-Article C. - Délais d'exécution des travaux d'équipements généraux.
+Article C.-Délais d'exécution des travaux d'équipements généraux. 
 
 C doit avoir réalisé les travaux d'équipements généraux mis à sa charge dans un délai de... à dater de la signature de l'acte
-de cession.
+de cession. 
 
-(Nota. - Le cas échéant, des délais différents pourront être prévus par catégorie de travaux. Les préciser) (Nota. - Article
-à insérer uniquement si l'exécution de travaux d'équipements généraux est mise à la charge du cessionnaire.)
+(Nota.-Le cas échéant, des délais différents pourront être prévus par catégorie de travaux. Les préciser) (Nota.-Article à
+insérer uniquement si l'exécution de travaux d'équipements généraux est mise à la charge du cessionnaire.) 
 
-Article D. - Délais d'exécution du... (suivant les cas "groupe d'habitations " ou "groupe de constructions à usage principal
-de... ")
+Article D.-Délais d'exécution du... (suivant les cas " groupe d'habitations " ou " groupe de constructions à usage principal
+de... ") 
 
 C doit :
 
-- déposer le projet d'aménagement du... (suivant les cas "groupe d'habitations " ou "groupe de constructions à usage
-principal de... ") dans un délai de... mois à dater de la signature de l'acte de cession ;
+- déposer le projet d'aménagement du... (suivant les cas " groupe d'habitations " ou " groupe de constructions à usage
+principal de... ") dans un délai de... mois à dater de la signature de l'acte de cession ; 
 
-(Nota. - Alinéa à insérer si le projet d'aménagement du groupe de constructions n'a pas encore été approuvé.)
+(Nota.-Alinéa à insérer si le projet d'aménagement du groupe de constructions n'a pas encore été approuvé.)
 
-- entreprendre les travaux d'aménagement dans un délai de... et les avoir réalisés dans un délai de... à dater... (Nota. - Si
-le projet d'aménagement est déjà approuvé, ajouter : "de la signature de l'acte de cession ". Si le projet d'aménagement
-n'est pas encore approuvé, ajouter : "de l'approbation du projet d'aménagement ") ;
+- entreprendre les travaux d'aménagement dans un délai de... et les avoir réalisés dans un délai de... à dater... (Nota.-Si
+le projet d'aménagement est déjà approuvé, ajouter : " de la signature de l'acte de cession ". Si le projet d'aménagement
+n'est pas encore approuvé, ajouter : " de l'approbation du projet d'aménagement ") ;
 
-- déposer les demandes de permis de construire dans un délai de... à dater... (Nota. - Si le projet d'aménagement est déjà
-approuvé, ajouter : "de la signature de l'acte de cession ". Si le projet d'aménagement n'est pas encore approuvé, ajouter
-"de l'approbation du projet d'aménagement ") ;
+- déposer les demandes de permis de construire dans un délai de... à dater... (Nota.-Si le projet d'aménagement est déjà
+approuvé, ajouter : " de la signature de l'acte de cession ". Si le projet d'aménagement n'est pas encore approuvé, ajouter "
+de l'approbation du projet d'aménagement ") ;
 
 - entreprendre les travaux de construction dans un délai de... à dater de la délivrance du permis de construire ;
 
-- avoir réalisé les constructions dans un délai de... à dater de la délivrance du permis de construire (ou "à dater de la
-signature de l'acte de cession ").
+- avoir réalisé les constructions dans un délai de... à dater de la délivrance du permis de construire (ou " à dater de la
+signature de l'acte de cession "). 
 
-(Nota. - Eventuellement, le groupe de constructions pourra être réalisé en plusieurs tranches de travaux.) En ce cas, cet
-article peut :
+(Nota.-Eventuellement, le groupe de constructions pourra être réalisé en plusieurs tranches de travaux.) En ce cas, cet
+article peut : 
 
 1. Soit définir (sommairement si le projet d'aménagement du groupe de constructions n'a pas encore été approuvé, par
 référence à ce projet d'aménagement s'il est approuvé) chacune des tranches de travaux (travaux d'aménagement et
 construction), fixer des délais fermes pour la réalisation de chacune des tranches (délais de réalisation pour les travaux
-d'aménagement, délais de demande du permis de construire et d'achèvement de la construction pour les bâtiments) ;
+d'aménagement, délais de demande du permis de construire et d'achèvement de la construction pour les bâtiments) ; 
 
 2. Soit définir les travaux afférents à la première tranche en fixant des délais fermes pour leur réalisation et comporter en
-ce qui concerne les autres travaux une clause ainsi rédigée : "En ce qui concerne les autres travaux, s'ils n'ont pas été
+ce qui concerne les autres travaux une clause ainsi rédigée : " En ce qui concerne les autres travaux, s'ils n'ont pas été
 réalisés le... (date à fixer, en accord entre le cessionnaire et le cédant, en fonction des prévisions relatives au
 déroulement probable dans le temps de l'opération), P pourra mettre C en demeure de les réaliser en une ou plusieurs tranches
 dans les délais qui lui seront impartis à ce moment, sous peine de résolution de la cession des terrains non encore utilisés
-à cette date. "
+à cette date. " 
 
 Si C refuse de souscrire cet engagement, il sera mis en demeure de rétrocéder immédiatement ces terrains à P ou de les vendre
 à un acquéreur qui lui sera désigné. Le prix de rétrocession ou le prix de vente sera, en ce cas, fixé dans les conditions
-prévues à l'article G ci-après.
+prévues à l'article G ci-après. 
 
-Article E. - Prolongation éventuelle des délais.
+Article E.-Prolongation éventuelle des délais. 
 
 Les délais d'exécution prévus au présent cahier des charges seront, si leur inobservation est due à un cas de force majeure,
 prolongés d'une durée égale à celle durant laquelle C a été dans l'impossibilité de réaliser ses obligations. La preuve de la
-force majeure et de la durée de l'empêchement est à la charge de C.
+force majeure et de la durée de l'empêchement est à la charge de C. 
 
-Les difficultés de financement ne sont pas considérées comme constituant des cas de force majeure.
+Les difficultés de financement ne sont pas considérées comme constituant des cas de force majeure. 
 
 Toutefois seront considérés pour l'application du présent article comme constituant des cas de force majeure les retards non
-imputables à C, dans l'octroi de... (Nota. - Préciser la nature du financement prévu.)
+imputables à C, dans l'octroi de... (Nota.-Préciser la nature du financement prévu.) 
 
-(Nota. - Alinéa à insérer uniquement si la cession est consentie en vue de la construction de logements dont le financement
+(Nota.-Alinéa à insérer uniquement si la cession est consentie en vue de la construction de logements dont le financement
 doit être effectué avec l'aide des prêts prévus par la législation relative aux HLM ou par celle relative aux primes et prêts
-spéciaux à la construction.)
+spéciaux à la construction.) 
 
-Article F. - Résolution en cas d'inobservation des délais.
+Article F.-Résolution en cas d'inobservation des délais. 
 
-La cession pourra être résolue par décision de P, notifiée par acte d'huissier en cas d'inobservation d'un des délais fixés.
+La cession pourra être résolue par décision de P, notifiée par acte d'huissier en cas d'inobservation d'un des délais fixés. 
 
-C aura droit, en contrepartie, à une indemnité de résolution qui sera calculée ainsi qu'il suit :
+C aura droit, en contrepartie, à une indemnité de résolution qui sera calculée ainsi qu'il suit : 
 
 1. Si la résolution intervient avant le commencement de tous travaux, l'indemnité sera égale au prix de cession, déduction
-faite de 10 % à titre de dommages et intérêts forfaitaires ;
+faite de 10 % à titre de dommages et intérêts forfaitaires ; 
 
 2. Si la résolution intervient après le commencement des travaux, l'indemnité ci-dessus est augmentée d'une somme égale au
 montant de la plus-value apportée aux terrains par les travaux régulièrement réalisés sans que cette somme puisse dépasser la
-valeur des matériaux et le prix de la main-d'œuvre utilisée.
+valeur des matériaux et le prix de la main-d'œuvre utilisée. 
 
 La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P étant l'administration des domaines, celui de C
-pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du tribunal de grande instance sur
-requête de P.
+pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du   tribunal judiciaire sur requête
+de P. 
 
-Tous les frais seront à la charge de C.
+Tous les frais seront à la charge de C. 
 
 Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de
-résolution dans les conditions fixées à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
+résolution dans les conditions fixées à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique. 
 
-Toutefois, pour l'application du présent article, l'obligation de construire sera (Nota. - Si la construction doit être
-effectuée en plusieurs tranches de travaux, insérer les mots : "en ce qui concerne la tranche de travaux en cause ")
+Toutefois, pour l'application du présent article, l'obligation de construire sera (Nota.-Si la construction doit être
+effectuée en plusieurs tranches de travaux, insérer les mots : " en ce qui concerne la tranche de travaux en cause ")
 considérée comme remplie au jour du versement par le Crédit foncier de France de la première tranche du prêt consenti par cet
-établissement ou d'une avance sur ce prêt à titre de démarrage ou de préfinancement.
+établissement ou d'une avance sur ce prêt à titre de démarrage ou de préfinancement. 
 
-(Nota. - Alinéa à insérer uniquement si les constructions doivent être édifiées avec l'aide de prêts du Crédit foncier.)
+(Nota.-Alinéa à insérer uniquement si les constructions doivent être édifiées avec l'aide de prêts du Crédit foncier.) 
 
-Article G. - Vente, partage, location des terrains cédés.
+Article G.-Vente, partage, location des terrains cédés. 
 
 Les terrains ne pourront être vendus par C qu'après réalisation des travaux d'aménagement et des constructions prévus au
-projet d'aménagement du... (Nota. - Suivant les cas "groupe d'habitation " ou "groupe de constructions à usage principal
-de... ") et en conformité des dispositions dudit projet d'aménagement.
+projet d'aménagement du... (Nota.-Suivant les cas " groupe d'habitation " ou " groupe de constructions à usage principal
+de... ") et en conformité des dispositions dudit projet d'aménagement. 
 
-Toutefois, C pourra procéder à la vente globale des terrains (Nota. - S'il est prévu que la réalisation des travaux doit être
-effectuée en plusieurs tranches, ajouter : "ou, si une partie des aménagements et des constructions a déjà été effectuée, à
+Toutefois, C pourra procéder à la vente globale des terrains (Nota.-S'il est prévu que la réalisation des travaux doit être
+effectuée en plusieurs tranches, ajouter : " ou, si une partie des aménagements et des constructions a déjà été effectuée, à
 la vente globale de la partie des terrains non encore utilisés "), à charge pour l'acquéreur de réaliser ou d'achever les
-travaux d'aménagement et de construction. Avant toute mise en vente, C devra aviser au moins quatre mois à l'avance (Nota. -
-Le représentant qualifié de P)... de ses intentions. P pourra, jusqu'à l'expiration de ce délai, exiger que les terrains lui
+travaux d'aménagement et de construction. Avant toute mise en vente, C devra aviser au moins quatre mois à l'avance (Nota.-Le
+représentant qualifié de P)... de ses intentions. P pourra, jusqu'à l'expiration de ce délai, exiger que les terrains lui
 soient rétrocédés ou soient vendus à un acquéreur désigné ou agréé par lui. En cas de rétrocession, le prix de rétrocession
 sera calculé dans les conditions prévues pour l'indemnité de résolution, sans qu'il y ait lieu à une déduction de 10 %. En
 cas de vente à un acquéreur désigné ou agréé par P de la totalité des terrains ou d'une partie non encore entièrement
-aménagée, P pourra exiger que le prix de vente soit fixé dans les mêmes conditions.
+aménagée, P pourra exiger que le prix de vente soit fixé dans les mêmes conditions. 
 
-Aucune location des terrains cédés ne pourra être consentie tant qu'ils n'auront pas reçu l'affectation prévue.
+Aucune location des terrains cédés ne pourra être consentie tant qu'ils n'auront pas reçu l'affectation prévue. 
 
 Les actes de vente, de partage ou de location qui seraient consentis par C en méconnaissance des dispositions du présent
-article seraient nuls en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique.
+article seraient nuls en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique. 
 
-Article H. - Vente ou location des logements construits.
+Article H.-Vente ou location des logements construits. 
 
 P se réserve le droit de contrôler le caractère non lucratif de l'opération poursuivie par C et de demander que les prix de
-vente ou de location des logements construits soient soumis à son agrément.
+vente ou de location des logements construits soient soumis à son agrément. 
 
-Plusieurs locaux ne peuvent être loués ou vendus à une même personne qu'avec l'agrément préalable de P.
+Plusieurs locaux ne peuvent être loués ou vendus à une même personne qu'avec l'agrément préalable de P. 
 
 Les actes de vente ou de location qui seraient consentis par C en méconnaissance des dispositions du présent article seraient
-nuls, en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique.
+nuls, en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique. 
 
-(Nota. - Clause à insérer uniquement lorsque la cession a été effectuée de gré à gré en raison du caractère non lucratif de
+(Nota.-Clause à insérer uniquement lorsque la cession a été effectuée de gré à gré en raison du caractère non lucratif de
 l'opération de construction de logements poursuivie par le cessionnaire. Cette clause n'a pas à être insérée si le
-cessionnaire est une société HLM.
+cessionnaire est une société HLM. 
 
 Lorsque l'opération poursuivie n'est pas à but désintéressé, il est toutefois recommandé d'insérer une clause prévoyant au
 profit du cédant un droit de contrôle des ventes et des locations et limitant à un certain pourcentage le bénéfice maximum du
-cessionnaire.
+cessionnaire. 
 
 Une telle clause devra être insérée lorsque le bénéfice susceptible d'être réalisé par le constructeur est limité par un
 texte législatif ou réglementaire, notamment par les textes relatifs à la participation des employeurs à l'effort de
 construction.)
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. L411-3 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L411-4 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L411-3
+  - Code de l'expropriation pour cause d'utilité publique - art. L411-4
 
 
 ###### Article Annexe 5
 
 CLAUSES TYPES À INSÉRER DANS LE CAHIER DES CHARGES ANNEXÉ À L'ACTE DE CESSION D'UN TERRAIN DESTINÉ À ÊTRE LOTI DANS UN BUT
 NON LUCRATIF PAR LE BÉNÉFICIAIRE DE LA CESSION, LORSQUE CE DERNIER N'EST PAS UNE COLLECTIVITÉ PUBLIQUE OU UN ÉTABLISSEMENT
-PUBLIC
+PUBLIC 
 
-Article A. – Objet de la cession.
+Article A. – Objet de la cession. 
 
 La présente cession est consentie à C (la lettre C désigne le bénéficiaire de la cession) en raison du caractère non lucratif
-de l'opération qu'il désire réaliser.
+de l'opération qu'il désire réaliser. 
 
-Cette cession est consentie en vue de la création d'un lotissement à usage de...
+Cette cession est consentie en vue de la création d'un lotissement à usage de... 
 
 Ce lotissement devra être réalisé conformément à un projet d'aménagement qui sera établi dans les conditions définies...
 (Nota.-" aux articles R. 441-3 et R. 441-4 du code de l'urbanisme ") et agréées par P (la lettre P désigne la collectivité
-publique ou l'établissement public cédant).
+publique ou l'établissement public cédant). 
 
-(Nota. – Alinéa à insérer si le projet d'aménagement du lotissement n'a pas été encore approuvé.)
+(Nota. – Alinéa à insérer si le projet d'aménagement du lotissement n'a pas été encore approuvé.) 
 
 Ce lotissement devra être réalisé conformément aux prévisions du projet d'aménagement approuvé à cet effet par arrêté
-préfectoral du...
+préfectoral du... 
 
-(Nota. – Alinéa à insérer si le projet d'aménagement du lotissement est déjà approuvé.)
+(Nota. – Alinéa à insérer si le projet d'aménagement du lotissement est déjà approuvé.) 
 
-Article B. – Participation aux travaux d'équipements généraux.
+Article B. – Participation aux travaux d'équipements généraux. 
 
-C devra réaliser les travaux d'équipements généraux définis en annexe au présent cahier des charges.
+C devra réaliser les travaux d'équipements généraux définis en annexe au présent cahier des charges. 
 
 C s'engage à participer par voie de fonds de concours (ou " d'offres de concours ") à la réalisation des travaux
 d'équipements généraux définis en annexe au présent cahier des charges, à concurrence de... (X... € ou X... % du coût des
-travaux).
+travaux). 
 
 (Nota. – Insérer l'un ou l'autre de ces alinéas suivant que le cessionnaire doit réaliser lui-même ces travaux ou seulement
-participer financièrement à leur réalisation.)
+participer financièrement à leur réalisation.) 
 
 Cette réalisation (ou " cette participation ") est garantie par le versement entre les mains de... d'un cautionnement de...
-€.
+€. 
 
-M... se porte caution solvable pour C par engagement enregistré le... dont copie est annexée au présent cahier des charges.
+M... se porte caution solvable pour C par engagement enregistré le... dont copie est annexée au présent cahier des charges. 
 
 (Nota. – Insérer, s'il y a lieu, l'un ou l'autre de ces alinéas si une garantie (cautionnement ou caution solvable) est
-demandée.)
+demandée.) 
 
-Article C. – Délai d'exécution des travaux d'équipements généraux.
+Article C. – Délai d'exécution des travaux d'équipements généraux. 
 
-(Nota. – Article à insérer uniquement si l'exécution de travaux d'équipements généraux est mise à la charge du cessionnaire.)
+(Nota. – Article à insérer uniquement si l'exécution de travaux d'équipements généraux est mise à la charge du
+cessionnaire.) 
 
 C doit avoir réalisé les travaux d'équipements généraux mis à sa charge dans un délai de... à dater de la signature de l'acte
-de cession.
+de cession. 
 
-(Nota.-Le cas échéant, des délais différents pourront être prévus par catégories de travaux. Les préciser.)
+(Nota.-Le cas échéant, des délais différents pourront être prévus par catégories de travaux. Les préciser.) 
 
-Article D. – Délais de réalisation du lotissement.
+Article D. – Délais de réalisation du lotissement. 
 
-C doit :
+C doit : 
 
 – déposer le dossier du projet d'aménagement du lotissement dans un délai de... mois à dater de la signature de l'acte de
-cession ;
+cession ; 
 
-(Nota. – Alinéa à insérer si le projet d'aménagement du lotissement n'a pas encore été approuvé.) ;
+(Nota. – Alinéa à insérer si le projet d'aménagement du lotissement n'a pas encore été approuvé.) ; 
 
-– entreprendre les travaux d'aménagement dans un délai de... et les avoir réalisés dans un délai de... à dater... ;
+– entreprendre les travaux d'aménagement dans un délai de... et les avoir réalisés dans un délai de... à dater... ; 
 
 (Nota. – Si le projet d'aménagement est déjà approuvé, ajouter : " de la signature de l'acte de cession ". Si le projet
-d'aménagement n'est pas encore approuvé, ajouter : " de l'approbation du projet d'aménagement ") ;
+d'aménagement n'est pas encore approuvé, ajouter : " de l'approbation du projet d'aménagement ") ; 
 
-– mettre les lots en vente dès l'achèvement des travaux d'aménagement ;
+– mettre les lots en vente dès l'achèvement des travaux d'aménagement ; 
 
 (Nota. – Eventuellement, la réalisation du lotissement peut être autorisée en plusieurs tranches. En ce cas, cet article
-peut :
+peut : 
 
 – définir (sommairement, si le projet d'aménagement n'a pas encore été approuvé, par référence à ce projet d'aménagement au
-cas contraire) les travaux compris dans chaque tranche ;
+cas contraire) les travaux compris dans chaque tranche ; 
 
-– fixer des délais différents pour l'achèvement de chacune des tranches ;
+– fixer des délais différents pour l'achèvement de chacune des tranches ; 
 
-– préciser que les lots pourront être mis en vente au fur et à mesure de l'achèvement de chacune des tranches).
+– préciser que les lots pourront être mis en vente au fur et à mesure de l'achèvement de chacune des tranches). 
 
-Article E. – Prolongation éventuelle des délais.
+Article E. – Prolongation éventuelle des délais. 
 
 Les délais d'exécution prévus au présent cahier des charges seront, si leur inobservation est due à un cas de force majeure,
 prolongés d'une durée égale à celle durant laquelle C a été dans l'impossibilité de réaliser ses obligations. La preuve de la
-force majeure et de la durée de l'empêchement est à la charge de C.
+force majeure et de la durée de l'empêchement est à la charge de C. 
 
-Les difficultés de financement des travaux ne sont pas considérées comme constituant des cas de force majeure.
+Les difficultés de financement des travaux ne sont pas considérées comme constituant des cas de force majeure. 
 
-Article F. – Résolution en cas d'inobservation d'un des délais.
+Article F. – Résolution en cas d'inobservation d'un des délais. 
 
-La cession pourra être résolue par décision de P notifiée par acte d'huissier en cas d'inobservation d'un des délais fixés.
+La cession pourra être résolue par décision de P notifiée par acte d'huissier en cas d'inobservation d'un des délais fixés. 
 
-C aura droit, en contrepartie, à une indemnité de résolution qui sera calculée ainsi qu'il suit :
+C aura droit, en contrepartie, à une indemnité de résolution qui sera calculée ainsi qu'il suit : 
 
 1. Si la résolution intervient avant le commencement de tous travaux, l'indemnité sera égale au prix de cession, déduction
-faite de 10 % à titre de dommages et intérêts forfaitaires ;
+faite de 10 % à titre de dommages et intérêts forfaitaires ; 
 
 2. Si la résolution intervient après le commencement des travaux, l'indemnité ci-dessus est augmentée d'une somme égale au
 montant de la plus-value apportée aux terrains par les travaux régulièrement réalisés sans que cette somme puisse dépasser la
-valeur des matériaux et le prix de la main-d'œuvre utilisée.
+valeur des matériaux et le prix de la main-d'œuvre utilisée. 
 
 La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P étant l'administration des domaines, celui de C
-pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du tribunal de grande instance sur
-requête de P.
+pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du   tribunal judiciaire sur requête
+de P. 
 
-Tous les frais seront à la charge de C.
+Tous les frais seront à la charge de C. 
 
 Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de
-résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
+résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique. 
 
-Article G. – Vente, location ou partage.
+Article G. – Vente, location ou partage. 
 
 Aucune vente ou location de lots ne pourra être effectuée avant complet achèvement des travaux d'aménagement, sous réserve
-toutefois de l'application éventuelle de l'article R. 442-13 du code de l'urbanisme.
+toutefois de l'application éventuelle de l'article R. 442-13 du code de l'urbanisme. 
 
 (Nota. – Si la réalisation du lotissement est prévue en plusieurs tranches, ajouter " et des dispositions du présent cahier
-des charges relatives à la réalisation du lotissement en plusieurs tranches de travaux ").
+des charges relatives à la réalisation du lotissement en plusieurs tranches de travaux "). 
 
 Il sera également interdit à C de procéder, avant achèvement des travaux, à la vente, au partage ou à la location globale de
 l'ensemble ou d'une fraction des terrains cédés. Si C renonce à poursuivre personnellement la réalisation du lotissement, il
 devra rétrocéder les terrains à P. Le prix de rétrocession sera calculé dans les conditions prévues pour l'indemnité de
-résolution sans qu'il y ait lieu à une déduction de 10 %.
+résolution sans qu'il y ait lieu à une déduction de 10 %. 
 
 L'opération poursuivie par C ayant un caractère non lucratif, le total des prix de vente des lots ne devra pas excéder le
 montant du coût de l'opération calculé, compte tenu des frais généraux, de l'intérêt au taux commercial des capitaux apportés
-par C et de la charge des emprunts contractés par lui.
+par C et de la charge des emprunts contractés par lui. 
 
 Le prix de vente de chaque lot devra être soumis à l'agrément de P, qui pourra exiger toutes justifications utiles des
-dépenses à prendre en compte.
+dépenses à prendre en compte. 
 
-Plusieurs lots ne peuvent être vendus à un même acquéreur qu'avec l'agrément de P.
+Plusieurs lots ne peuvent être vendus à un même acquéreur qu'avec l'agrément de P. 
 
 Le cahier des charges annexé à chacun des actes de vente ou de location des lots ou d'attribution dans le partage sera soumis
 à l'agrément de P. Ce cahier des charges devra obligatoirement comporter une clause prévoyant les délais dans lesquels
 l'acquéreur, le locataire ou l'attributaire sera tenu, sous peine de résolution de plein droit de la vente, de la location ou
 de l'attribution à la requête de C ou de P, de déposer la demande de permis de construire et d'édifier la construction
-prévue.
+prévue. 
 
 (Nota. – P devra veiller à ce que ces cahiers des charges soient analogues à ceux faisant l'objet de l'annexe 2 du code de
-l'expropriation pour cause d'utilité publique.)
+l'expropriation pour cause d'utilité publique.) 
 
 Les actes de vente, d'attribution, dans le partage ou de location qui seraient consentis par C en méconnaissance des
 dispositions du présent article seraient nuls en application de l'article L. 411-3 du code de l'expropriation pour cause
 d'utilité publique.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
 
 _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code de l'urbanisme - art. R*441-3 (V)
-  - Code de l'urbanisme - art. R*441-4 (V)
-  - Code de l'urbanisme - art. R442-13 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L411-3 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L411-4 (V)
+  - Code de l'urbanisme - art. R*441-3
+  - Code de l'urbanisme - art. R*441-4
+  - Code de l'urbanisme - art. R442-13
+  - Code de l'expropriation pour cause d'utilité publique - art. L411-3
+  - Code de l'expropriation pour cause d'utilité publique - art. L411-4
 
 
