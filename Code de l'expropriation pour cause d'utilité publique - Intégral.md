@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-08
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 2020-01-01
         - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations (art. L122-1 à L122-7)](#7)
           - [Section 1 : Opération ayant une incidence sur l'environnement ou le patrimoine culturel (art. L122-1 à L122-2)](#8)
           - [Section 2 : Opération ayant des conséquences sur une exploitation agricole (art. L122-3)](#9)
-          - [Section 3 : Opération intéressant la défense nationale (art. L122-4)](#10)
+          - [Section 3 : Opération intéressant la défense nationale (art. L122-4 à L122-4-2)](#10)
           - [Section 4 : Opération incompatible avec un document d'urbanisme (art. L122-5)](#11)
           - [Section 5 : Opération relative à des immeubles soumis au régime de la copropriété (art. L122-6)](#12)
           - [Section 6 : Opération intéressant plusieurs personnes publiques (art. L122-7)](#13)
@@ -508,9 +508,14 @@ _Cité par_:
 
 ###### Article L122-4
 
-Par dérogation aux principes du présent code, l'utilité publique des opérations secrètes intéressant la défense nationale
-peut, eu égard aux impératifs de la défense nationale, être régulièrement déclarée sans enquête préalable, sur l'avis
-conforme d'une commission.
+Par dérogation aux dispositions du présent code, peut être régulièrement déclarée, sans enquête préalable, l'utilité
+publique :
+
+1° Des opérations soumises à des règles de protection du secret de la défense nationale et, le cas échéant, des servitudes
+qui leur sont associées ;
+
+2° Des opérations qualifiées d'opération sensible intéressant la défense nationale en application de l'article L. 2391-1 du
+code de la défense et, le cas échéant, des servitudes qui leur sont associées.
 
 **Liens relatifs à cet article**
 
@@ -518,9 +523,13 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Ordonnance n°2020-7 du 6 janvier 2020 - art. 9
+
+_Cite_:
+
+  - Code de la défense. - art. L2391-1
 
 _Cité par_:
 
@@ -528,11 +537,41 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. L322-3 (VD)
   - Code de l'expropriation pour cause d'utilité pu... - art. R122-4 (V)
   - Code de l'expropriation pour cause d'utilité pu... - art. R122-8 (Ab)
+  - Code de la défense. - art. L2313-4 (Ab)
   - Code de la défense. - art. L2391-3 (V)
   - Code de la défense. - art. L5111-1 (VD)
   - Code de la défense. - art. L5111-5 (VD)
   - Code de la défense. - art. L5112-1 (VD)
   - Code de la défense. - art. L5114-1 (VD)
+
+
+###### Article L122-4-1
+
+L'utilité publique est déclarée par décret pris sur l'avis conforme d'une commission placée auprès du Premier ministre.
+
+La composition et le fonctionnement de cette commission sont précisés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-7 du 6 janvier 2020 - art. 9
+
+
+###### Article L122-4-2
+
+Ne peuvent figurer dans un dossier soumis à enquête publique, ni être communiqués, mis à disposition du public ou soumis à
+consultation ou à participation du public :
+
+1° Des éléments soumis à des règles de protection du secret de la défense nationale ;
+
+2° Des éléments nécessaires à la sauvegarde des intérêts de la défense nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-7 du 6 janvier 2020 - art. 9
 
 
 ##### Section 4 : Opération incompatible avec un document d'urbanisme<a id=11></a>
