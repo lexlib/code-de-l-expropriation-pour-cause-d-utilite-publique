@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2020-01-08
+Version Consolidée au 2020-02-21
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -88,13 +88,13 @@ Version Consolidée au 2020-01-08
             - [Sous-section 1 : Dispositions générales (art. R112-18 à R112-21)](#85)
             - [Sous-section 2 : Dispositions particulières (art. R112-22 à R112-23)](#86)
           - [Section 6 : Communication des conclusions du commissaire enquêteur (art. R112-24)](#87)
-      - [TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE (art. R121-1 à R122-8)](#88)
+      - [TITRE  II : DÉCLARATION DE L'UTILITÉ PUBLIQUE (art. R121-1 à R122-7)](#88)
         - [Chapitre Ier : Dispositions générales (art. R121-1 à R121-2)](#89)
-        - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations (art. R122-1 à R122-8)](#90)
+        - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations (art. R122-1 à R122-7)](#90)
           - [Section 1 : Opération intéressant des monuments historiques (art. R122-1)](#91)
           - [Section 2 : Opération intéressant des monuments et sites naturels (art. R122-2)](#92)
           - [Section 3 : Opération intéressant des vignes soumises au régime des appellations d'origine (art. R122-3)](#93)
-          - [Section 4 : Opération secrète intéressant la défense nationale (art. R122-4 à R122-8)](#94)
+          - [Section 4 : Opérations intéressant la sauvegarde des intérêts de la défense nationale (art. R122-4 à R122-7)](#94)
       - [TITRE  III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES (art. R131-1 à R132-4)](#95)
         - [Chapitre Ier : Enquête parcellaire (art. R131-1 à R131-14)](#96)
           - [Section 1 : Désignation et indemnisation du commissaire enquêteur ou de la commission d'enquête (art. R131-1 à R131-2)](#97)
@@ -5498,14 +5498,12 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R643-1 (V)
 
 
-##### Section 4 : Opération secrète intéressant la défense nationale<a id=94></a>
+##### Section 4 : Opérations intéressant la sauvegarde des intérêts de la défense nationale<a id=94></a>
 
 ###### Article R122-4
 
-Les opérations définies à l'article L. 122-4 sont désignées par arrêté du ministre de la défense.
-
-Leur utilité publique est déclarée par décret, pris sur l'avis conforme de la commission d'examen des opérations immobilières
-présentant un caractère secret.
+L'utilité publique des opérations mentionnées à l'article L. 122-4 est déclarée par décret, pris sur l'avis conforme d'une
+commission.
 
 **Liens relatifs à cet article**
 
@@ -5513,13 +5511,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. L122-4 (V)
+  - Décret n°2020-133 du 18 février 2020 - art. 7
 
 _Anciens textes_:
 
@@ -5528,16 +5522,25 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R122-5 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R122-6 (M)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-6 (V)
   - Code de la défense. - art. R2313-4 (V)
   - Code de la voirie routière - art. R*151-5 (M)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 
 ###### Article R122-5
 
-Placée auprès du Premier ministre, la commission mentionnée à l'article R. 122-4 examine les opérations immobilières secrètes
-intéressant la défense nationale poursuivies par voie d'expropriation pour cause d'utilité publique par les services publics,
-relevant du ministère de la défense ou placés sous sa tutelle, en vue de leur déclaration d'utilité publique.
+Placée auprès du Premier ministre, la commission mentionnée à l'article R. 122-4 examine, en vue de leur déclaration
+d'utilité publique, les opérations immobilières poursuivies par voie d'expropriation pour cause d'utilité publique par les
+services publics relevant du ministre de la défense ou placés sous sa tutelle, ainsi que leurs servitudes associées, et qui :
+
+- sont soumises à des règles de protection du secret de la défense nationale ;
+
+- ou bénéficient de la qualification d'opération sensible intéressant la défense nationale au titre de l'article L. 2391-1 du
+code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -5545,23 +5548,25 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2020-133 du 18 février 2020 - art. 7
 
 _Cité par_:
 
   - Décret n°2020-133 du 18 février 2020 - art. 8
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-7 (V)
   - Code du domaine de l'Etat - art. R21-1 (V)
   - Code général de la propriété des personnes publ... - art. R1211-8 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L2391-1
+  - Code de l'expropriation pour cause d'utilité publique - art. R122-4
 
 _Anciens textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R11-17 (Ab)
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R122-4 (V)
 
 
 ###### Article R122-6
@@ -5575,7 +5580,7 @@ conseillers maîtres à la Cour des comptes ;
 
 3° Un représentant du ministre de la défense ;
 
-4° Le directeur général des finances publiques ou, à défaut, le chef du service France Domaine.
+4° Le directeur général des finances publiques ou, à défaut, le directeur de l'immobilier de l'Etat.
 
 II. - Le président et son suppléant sont nommés par arrêté du Premier ministre pour une durée de deux ans renouvelable.
 
@@ -5585,9 +5590,9 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2020-133 du 18 février 2020 - art. 7
 
 _Anciens textes_:
 
@@ -5600,11 +5605,11 @@ _Cite_:
 
 ###### Article R122-7
 
-Le rapport sur l'utilité publique d'une opération immobilière présentant un caractère secret est établi par le service
-intéressé qui est admis à présenter des observations orales complémentaires.
+Le rapport sur l'utilité publique d'une opération immobilière mentionnée à l'article R. 122-5 est établi par le service
+intéressé qui est admis à présenter des observations orales complémentaires. 
 
 La commission peut également recueillir l'avis de toutes personnes qualifiées en raison de leurs compétences ou de leurs
-fonctions. Ces personnes sont convoquées par les soins du président.
+fonctions. Ces personnes sont convoquées par les soins du président. 
 
 En cas de partage égal des voix, la voix du président est prépondérante.
 
@@ -5614,38 +5619,17 @@ _Codifié par_:
 
   - Décret n°2014-1635 du 26 décembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
+  - Décret n°2020-133 du 18 février 2020 - art. 7
 
 _Anciens textes_:
 
   - Code de l'expropriation pour cause d'utilité pu... - art. R11-17-3 (Ab)
 
-
-###### Article R122-8
-
-Lorsqu'il est décidé de procéder à une enquête préalable à une déclaration d'utilité publique portant sur une opération
-définie à l'article L. 122-4, elle s'effectue dans le respect du secret de la défense nationale. Son déroulement ainsi que
-les modalités de sa conduite peuvent être adaptés en conséquence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-133 du 18 février 2020 - art. 7
-
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
+  - Code de l'expropriation pour cause d'utilité pu... - art. R122-5 (V)
 
 
 ### TITRE  III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES<a id=95></a>
