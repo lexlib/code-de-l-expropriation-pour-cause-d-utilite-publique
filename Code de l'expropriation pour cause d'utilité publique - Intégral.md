@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2020-02-21
+Version Consolidée au 2020-03-01
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -581,7 +581,15 @@ _Créé par_:
 La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les prescriptions d'un schéma de cohérence
 territoriale, d'un plan local d'urbanisme, d'un plan d'occupation des sols, du schéma directeur de la région d'Ile-de-France,
 d'un plan d'aménagement de zone applicable dans une zone d'aménagement concerté, ou avec les dispositions à caractère
-réglementaire régissant un lotissement approuvé, s'effectue dans les conditions prévues au code de l'urbanisme.
+réglementaire régissant un lotissement approuvé, s'effectue dans les conditions prévues au code de l'urbanisme et dans les
+conditions prévues à l'article L. 4433-10-7 du code général des collectivités territoriales en cas d'incompatibilité avec les
+prescriptions d'un schéma d'aménagement régional.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -589,9 +597,13 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 5
+
+_Cite_:
+
+  - Code de l'urbanisme
 
 _Anciens textes_:
 
