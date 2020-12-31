@@ -1,5 +1,5 @@
 # Code de l'expropriation pour cause d'utilité publique  
-Version Consolidée au 2020-03-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. L1 à L641-6)](#1)
     - [LIVRE Ier : UTILITÉ PUBLIQUE (art. L110-1 à L141-2)](#2)
@@ -3532,17 +3532,19 @@ construction dans laquelle l'Etat détient la majorité du capital, d'une collec
 vocation ou d'un concessionnaire d'une opération d'aménagement mentionné à l'article L. 300-4 du code de l'urbanisme,
 l'expropriation :
 
-1° Des immeubles déclarés insalubres à titre irrémédiable en application de l'article L. 1331-28 du code de la santé
-publique ;
-
-2° Des immeubles à usage total ou partiel d'habitation, ayant fait l'objet d'un arrêté de péril pris en application de
-l'article L. 511-2 du code de la construction et de l'habitation et assorti d'une ordonnance de démolition ou d'interdiction
+1° Des immeubles ayant fait l'objet d'un arrêté de mise en sécurité ou de traitement de l'insalubrité pris en application de
+l'article L. 511-11 du code de la construction et de l'habitation et ayant prescrit la démolition ou l'interdiction
 définitive d'habiter ;
 
-3° A titre exceptionnel, des immeubles qui ne sont eux-mêmes ni insalubres, ni impropres à l'habitation, lorsque leur
+2° A titre exceptionnel, des immeubles qui ne sont eux-mêmes ni insalubres, ni impropres à l'habitation, lorsque leur
 expropriation est indispensable à la démolition d'immeubles insalubres ou d'immeubles menaçant ruine, ainsi que des terrains
 où sont situés les immeubles déclarés insalubres ou menaçant ruine lorsque leur acquisition est nécessaire à la résorption de
 l'habitat insalubre, alors même qu'y seraient également implantés des bâtiments non insalubres ou ne menaçant pas ruine.
+
+**Nota:**
+
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -3550,36 +3552,34 @@ _Anciens textes_:
 
   - Loi n°70-612 du 10 juillet 1970 - art. 13 (VT)
 
-_Cité par_:
-
-  - Loi n°73-548 du 27 juin 1973 - art. 7-5 (VD)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L511-5 (VD)
-  - Code de la construction et de l'habitation. - art. L614-1 (VD)
-
 _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Cité par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Loi n°73-548 du 27 juin 1973 - art. 7-5 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L511-2 (VD)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L511-5 (VD)
+  - Code de la construction et de l'habitation. - art. L614-1 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 5
 
 _Cite_:
 
-  - Code de la santé publique - art. L1331-28 (M)
-  - Code de l'urbanisme - art. L300-4 (M)
-  - Code de la construction et de l'habitation. - art. L511-2 (M)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L511-2 (VD)
+  - Code de la santé publique - art. L1331-28
+  - Code de l'urbanisme - art. L300-4
+  - Code de la construction et de l'habitation. - art. L511-2
 
 
 ###### Article L511-2
 
 Par dérogation aux règles générales du présent code, l'autorité compétente de l'Etat déclare d'utilité publique
-l'expropriation des immeubles, parties d'immeubles, installations et terrains, après avoir constaté, sauf dans les cas prévus
-au 2° de l'article L. 511-1, qu'ils ont été déclarés insalubres à titre irrémédiable en application de l'article L. 1331-25
-ou de l'article L. 1331-28 du code de la santé publique, ou qu'ils ont fait l'objet d'un arrêté de péril assorti d'une
-ordonnance de démolition ou d'une interdiction définitive d'habiter pris en application de l'article L. 511-2 du code de la
-construction et de l'habitation.
+l'expropriation des immeubles, parties d'immeubles, installations et terrains, après avoir constaté qu'ils ont fait l'objet
+d'un arrêté de mise en sécurité ou de traitement de l'insalubrité pris en application de l'article L. 511-11 du code de la
+construction et de l'habitation et ayant prescrit la démolition ou l'interdiction définitive d'habiter.
 
 Elle désigne la collectivité publique ou l'organisme au profit de qui l'expropriation est poursuivie. L'expropriant ainsi
 désigné est tenu à une obligation de relogement, y compris des propriétaires.
@@ -3592,10 +3592,15 @@ compétente pour l'effectuer.
 Elle détermine également la date à laquelle il pourra être pris possession des immeubles bâtis, parties d'immeubles bâtis,
 installations et terrains expropriés après paiement ou, en cas d'obstacle au paiement, après consignation de l'indemnité
 provisionnelle. Cette date doit être postérieure d'au moins un mois à la publication de l'acte déclarant l'utilité publique.
-Toutefois, ce délai est porté à deux mois dans les cas prévus au 3° de l'article L. 511-1.
+Toutefois, ce délai est porté à deux mois dans les cas prévus au 2° de l'article L. 511-1.
 
 Enfin, elle fixe le montant de l'indemnité provisionnelle de déménagement pour le cas où celui-ci ne serait pas assuré par
 les soins de l'administration et, le cas échéant, le montant de l'indemnité de privation de jouissance.
+
+**Nota:**
+
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -3607,15 +3612,15 @@ _Codifié par_:
 
   - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art.
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 5
 
 _Cite_:
 
-  - Code de la santé publique - art. L1331-25 (M)
-  - Code de la santé publique - art. L1331-28 (M)
-  - Code de la construction et de l'habitation. - art. L511-2 (M)
+  - Code de la santé publique - art. L1331-25
+  - Code de la santé publique - art. L1331-28
+  - Code de la construction et de l'habitation. - art. L511-2
 
 _Cité par_:
 
